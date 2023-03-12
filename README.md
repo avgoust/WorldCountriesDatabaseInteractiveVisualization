@@ -1,2 +1,3 @@
 # WorldCountriesDatabaseInteractiveVisualization
-Back-End to Front-End Project
+Back-End to Front-End 
+Semester Project for the course...
