@@ -1,5 +1,7 @@
 import csv
 import openpyxl
+import pandas as pd
+import xlrd
 #import pandas as pandasForSortingCSV
 
 
@@ -100,7 +102,6 @@ def add_iso_code(countries_list, csvfile):
             #x -= 1
         #x = 13
 
-
     #csvfile = csvfile.replace('_.csv', '_.csv')
     with open(f'{csvfile}', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)    
@@ -109,12 +110,49 @@ def add_iso_code(countries_list, csvfile):
 
     return 1
 
-def create_from_xlsx(filename):
+def create_csv_from_xlsx(filename):
 
-    workbook = openpyxl.load_workbook('Income by Country.xlsx')
-    
+    # Load the XLSX file
+    workbook = openpyxl.load_workbook(filename)
+
+    # Iterate over each sheet in the workbook
+    for sheet_name in workbook.sheetnames:
+        # Create a new workbook for each sheet
+        new_workbook = openpyxl.Workbook()
+        new_sheet = new_workbook.active
+
+        # Copy the values from the original sheet to the new sheet
+        sheet = workbook[sheet_name]
+        for row in sheet:
+            for cell in row:
+                new_sheet[cell.coordinate].value = cell.value
+
+        # Save the new workbook with the sheet's name as the filename
+        new_workbook.save(f'{sheet_name}.xlsx')
+        
+    return 1
+
+def change_xlsx_to_csv(filename):
+
+    # Load the XLSX file
+    df = pd.read_excel(filename)
+
+    # Save the dataframe as a CSV file
+    filename = filename.replace('.xlsx', '_OUT')
+    df.to_csv(F'{filename}.csv', index=False)
+
+    return 1
 
 
+def fiveyear_to_oneyear():
+
+    # LOADING #
+
+    return 1
+
+def create_years_column():
+
+    # LOADING #
 
     return 1
 
@@ -123,27 +161,52 @@ def create_from_xlsx(filename):
 
 def main():
 
-    my_countries =  create_new_countries_csv()
+    # my_countries =  create_new_countries_csv()
 
-    sorting_country_year('age_specific_fertility_rates.csv')
-    add_iso_code(my_countries, 'age_specific_fertility_rates_output.csv')
+    # sorting_country_year('age_specific_fertility_rates.csv')
+    # add_iso_code(my_countries, 'age_specific_fertility_rates_output.csv')
 
-    sorting_country_year('birth_death_growth_rates.csv')
-    add_iso_code(my_countries, 'birth_death_growth_rates_output.csv')
+    # sorting_country_year('birth_death_growth_rates.csv')
+    # add_iso_code(my_countries, 'birth_death_growth_rates_output.csv')
 
-    sorting_country_year('midyear_population_age_sex.csv')
-    add_iso_code(my_countries, 'midyear_population_age_sex_output.csv')
+    # sorting_country_year('midyear_population_age_sex.csv')
+    # add_iso_code(my_countries, 'midyear_population_age_sex_output.csv')
 
-    sorting_country_year('midyear_population_5yr_age_sex.csv')
-    add_iso_code(my_countries, 'midyear_population_5yr_age_sex_output.csv')
+    # sorting_country_year('midyear_population_5yr_age_sex.csv')
+    # add_iso_code(my_countries, 'midyear_population_5yr_age_sex_output.csv')
 
-    sorting_country_year('mortality_life_expectancy.csv')
-    add_iso_code(my_countries, 'mortality_life_expectancy_output.csv')
+    # sorting_country_year('mortality_life_expectancy.csv')
+    # add_iso_code(my_countries, 'mortality_life_expectancy_output.csv')
 
-    sorting_country_year('midyear_population.csv')
-    add_iso_code(my_countries, 'midyear_population_output.csv')
+    # sorting_country_year('midyear_population.csv')
+    # add_iso_code(my_countries, 'midyear_population_output.csv')
 
-    #create_from_xlsx('Income by Country.xlsx')
+    ###############################################################################    
+
+    # create_csv_from_xlsx('Income by Country.xlsx')
+
+    # change_xlsx_to_csv('Domestic credits.xlsx')
+    # change_xlsx_to_csv('Estimated GNI female.xlsx')
+    # change_xlsx_to_csv('Estimated GNI male.xlsx')
+    # change_xlsx_to_csv('GDP per capita.xlsx')
+    # change_xlsx_to_csv('GDP total.xlsx')
+    # change_xlsx_to_csv('GNI per capita.xlsx')
+    # change_xlsx_to_csv('Gross fixed capital formation.xlsx')
+    # change_xlsx_to_csv('Income Index.xlsx')
+    # change_xlsx_to_csv('Labour share of GDP.xlsx')
+
+    # fiveyear_to_oneyear('Income Index_OUT.csv')
+    # fiveyear_to_oneyear('GNI per capita_OUT.csv')
+
+    # create_years_column(Domestic credits_OUT.csv)
+    # create_years_column(Estimated GNI female_OUT.csv)
+    # create_years_column(Estimated GNI male_OUT.csv)
+    # create_years_column(GDP per capita_OUT.csv)
+    # create_years_column(GDP total_OUT.csv)
+    # create_years_column(GNI per capita_OUT.csv)
+    # create_years_column(Gross fixed capital formation_OUT.csv)
+    # create_years_column(Income Index_OUT.csv)
+    # create_years_column(Labour share of GDP_OUT.csv)
 
     return 1
 
