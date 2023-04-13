@@ -2,7 +2,6 @@ import csv
 import openpyxl
 import pandas as pd
 import xlrd
-#import pandas as pandasForSortingCSV
 
 
 def create_new_countries_csv():
@@ -28,11 +27,10 @@ def create_new_countries_csv():
 
     # Diplh for oste na brisko ama uparxei h xora tou country_names_area.csv sto countries.csv:
 
-    for x in range(len(country_names_area_list) - 1):
-        for y in range(len(country_names_list) - 1):
+    for x in range(len(country_names_area_list)):
+        for y in range(len(country_names_list)):
             if country_names_area_list[x][1] == country_names_list[y][4]:
                 country_names_list[y].append(country_names_area_list[x][2]) # An uparxei, tote sto row pou to brhka prostheto sto column tou neou Header Country_area ton kodiko tou country_names_area.csv.
-
     # Merikes xores tou countries.csv den uparxoun sto country_names_area.csv opote sthn thesi twn kenwn pou dhmiourgounte vazo NULL:
 
     for x in range(len(country_names_list)):
@@ -41,7 +39,7 @@ def create_new_countries_csv():
 
     # Dhmiourgo ena kainourio csv arxeio kai tou fortono thn country_names_list:
 
-    with open('new_countries.csv', 'w') as file:
+    with open('countries_output.csv', 'w') as file:
         writer = csv.writer(file, lineterminator = '\n')
 
         for row in range(len(country_names_list)):
@@ -49,7 +47,6 @@ def create_new_countries_csv():
 
     return country_names_list
 
-############################################################################################################################################################
 
 def sorting_country_year(filename):
 
@@ -78,9 +75,14 @@ def sorting_country_year(filename):
 
     return 1
 
+
 def add_iso_code(countries_list, csvfile):
     
     csv_list = []
+    no_valid_name = []
+    flag = 0
+    count = 0
+    index = []
 
     with open(csvfile) as file:
         file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
@@ -89,26 +91,50 @@ def add_iso_code(countries_list, csvfile):
 
     csv_list[0].append('ISO_Code')   # Kane append allo ena header sthn teleutaia thesi tou 1ou row.
 
+    # Kano append ta ISO_CODE:
+
     for x in range(len(csv_list) - 1):
-        for y in range(len(countries_list)):
-            if csv_list[x + 1][1] == countries_list[y][4]:
-                csv_list[x + 1].append(countries_list[y][2])
+        for y in range(len(countries_list) - 1):
+            if csv_list[x + 1][1] == countries_list[y + 1][4]:
+                csv_list[x + 1].append(countries_list[y + 1][2])
+
+    # Gemizo thn no_valid_name me tis xores pou den uparxoun sto countries_list:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(len(countries_list) - 1):
+            if csv_list[x + 1][1] == countries_list[y + 1][4]:
+                flag = 1
+                break
+        if flag == 0:
+            if count == 0:
+                no_valid_name.append(csv_list[x + 1][1])
+                count += 1
+            else:
+                if no_valid_name[-1] != csv_list[x + 1][1]:
+                    no_valid_name.append(csv_list[x + 1][1])
+        flag = 0
+
+    # Diagrafo tis grammes pou oi xores tous den anhkoun sto countries:
+
+    for row in range(len(csv_list) - 1):
+        for x in no_valid_name:
+            if csv_list[row + 1][1] == x:
+                index.append(row + 1)
     
-    #x = 13
-    #for y in range(len(csv_list)):
-        #while x > 1:
-            #print(csv_list[y][x])
-            #csv_list[y][x], csv_list[y][x - 1] = csv_list[y][x - 1], csv_list[y][x]
-            #x -= 1
-        #x = 13
+    index.sort(reverse=True)
+
+    for x in index:
+        del csv_list[x]
 
     #csvfile = csvfile.replace('_.csv', '_.csv')
     with open(f'{csvfile}', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)    
         writer.writerows(csv_list)
 
-
     return 1
+
+
+########################################################################################################################
 
 def create_csv_from_xlsx(filename):
 
@@ -132,6 +158,7 @@ def create_csv_from_xlsx(filename):
         
     return 1
 
+
 def change_xlsx_to_csv(filename):
 
     # Load the XLSX file
@@ -144,69 +171,289 @@ def change_xlsx_to_csv(filename):
     return 1
 
 
-def fiveyear_to_oneyear():
+def fiveyear_to_oneyear(filename):
 
-    # LOADING #
+    csv_list = []   # Ths fortono to arxeio csv.
+    count = 0   # Metrhths gia tis Xores.
+    count1 = 0  # Metrhths gia ta Xronia.
+    count2 = 1  # Metrhths gia tis Metrhseis.
+
+    with open(filename) as file:
+        file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
+        for row in file_data:
+            csv_list.append(row)
+
+    my_list = [[] for i in range(29*(len(csv_list) - 1) + 1)]   # ftiaxno mia adeia 2d list me (29*(len(csv_list) - 1) + 1) rows.
+
+    my_list[0].insert(0, csv_list[0][0])    # Insert to "Country" sto [0,0].
+
+    # Vazo oles tis xores sthn proth sthlh, 29 fores thn kathemia:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(29):
+            my_list[count + 1].insert(0, csv_list[x + 1][0])
+            count += 1
+
+    my_list[0].append('Year')   # Append to "Year" sto [0,1].
+
+    # Antistoixo oles tis xronies 1990-2018 se kathe xora:
+
+    for row in range(len(my_list) - 1):
+        my_list[row + 1].append(1990 + count1)
+        count1 += 1
+        if count1 == 29:
+            count1 = 0   
+
+    my_list[0].append(filename.replace('_OUT.csv', '')) # Append to onoma ths metrhshs sto [0,2].
+
+    # Vazo ola tis metrhseis tou csv_list sto my_list.
+
+    for row in range(len(csv_list) - 1):
+        for col in range(4):
+            for x in range(5):
+                my_list[count2].append(csv_list[row + 1][col + 1])
+                count2 += 1
+        for y in range(9):
+            my_list[count2].append(csv_list[row + 1][5 + y])
+            count2 += 1
+    
+    # Elegxo gia '' kai '..', opou ta vrisko vazo 'NULL':
+
+    for row in range(len(my_list)):
+        if my_list[row][2] == '..' or my_list[row][2] == '':
+            my_list[row][2] = 'NULL'
+
+    filename = filename.replace('.csv', '')
+    with open(f'{filename}.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)    
+        writer.writerows(my_list)
 
     return 1
 
-def create_years_column():
 
-    # LOADING #
+def create_years_column(filename):
+
+    my_list = [[] for i in range(29*208 + 1)] # ftiaxno mia adeia 2d list me (29*208 + 1) rows gt 29 einai ta xronia kai 208 oi xores sta Income Index_OUT kai GNI per capita_OUT. 
+    csv_list = []   # Ths fortono to arxeio csv.
+    count = 0   # Metrhths gia tis Xores.
+    count1 = 0  # Metrhths gia ta Xronia.
+    count2 = 1  # Metrhths gia tis Metrhseis.
+
+    with open(filename) as file:
+        file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
+        for row in file_data:
+            csv_list.append(row)
+
+    my_list[0].insert(0, csv_list[0][0])    # Insert to "Country" sto [0,0].
+
+    # Vazo oles tis xores sthn proth sthlh, 29 fores thn kathemia:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(29):
+            my_list[count + 1].insert(0, csv_list[x + 1][0])
+            count += 1
+
+    my_list[0].append('Year')   # Append to "Year" sto [0,1].
+
+    # Vazo oles tis xronies 1990-2018 se kathe xora:
+
+    for row in range(len(my_list) - 1):
+        my_list[row + 1].append(1990 + count1)
+        count1 += 1
+        if count1 == 29:
+            count1 = 0
+
+    my_list[0].append(filename.replace('_OUT.csv', '')) # Append to onoma ths metrhshs sto [0,2].
+
+    # Vazo ola tis metrhseis tou csv_list sto my_list.
+
+    for row in range(len(csv_list) - 1):
+        for col in range(29):
+            my_list[count2].append(csv_list[row + 1][col + 1])
+            count2 += 1
+
+    # Elegxo gia '' kai '..', opou ta vrisko vazo 'NULL':
+
+    for row in range(len(my_list)):
+        if my_list[row][2] == '..' or my_list[row][2] == '':
+            my_list[row][2] = 'NULL'
+
+    filename = filename.replace('.csv', '')
+    with open(f'{filename}.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)    
+        writer.writerows(my_list)
 
     return 1
 
+
+def estimated_GNI_female_male(filename):
+
+    csv_list = []   # Ths fortono to arxeio csv.
+    count = 0   # Metrhths gia tis Xores.
+    count1 = 0  # Metrhths gia ta Xronia.
+    count2 = 1  # Metrhths gia tis Metrhseis.
+
+    with open(filename) as file:
+        file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
+        for row in file_data:
+            csv_list.append(row)
+
+    my_list = [[] for i in range(24*(len(csv_list) - 1) + 1)]   # ftiaxno mia adeia 2d list me (24*(len(csv_list) - 1) + 1) rows.
+
+    my_list[0].insert(0, csv_list[0][0])    # Insert to "Country" sto [0,0].
+
+    # Vazo oles tis xores sthn proth sthlh, 24 fores thn kathemia:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(24):
+            my_list[count + 1].insert(0, csv_list[x + 1][0])
+            count += 1
+
+    my_list[0].append('Year')   # Append to "Year" sto [0,1].
+
+    # Antistoixo oles tis xronies 1990-2018 se kathe xora:
+
+    for row in range(len(my_list) - 1):
+        my_list[row + 1].append(1995 + count1)
+        count1 += 1
+        if count1 == 24:
+            count1 = 0   
+
+    my_list[0].append(filename.replace('_OUT.csv', '')) # Append to onoma ths metrhshs sto [0,2].
+
+    # Vazo ola tis metrhseis tou csv_list sto my_list.
+
+    for row in range(len(csv_list) - 1):
+        for col in range(3):
+            for x in range(5):
+                my_list[count2].append(csv_list[row + 1][col + 1])
+                count2 += 1
+        for y in range(9):
+            my_list[count2].append(csv_list[row + 1][4 + y])
+            count2 += 1
+    
+    # Elegxo gia '' kai '..', opou ta vrisko vazo 'NULL':
+
+    for row in range(len(my_list)):
+        if my_list[row][2] == '..' or my_list[row][2] == '':
+            my_list[row][2] = 'NULL'
+
+    filename = filename.replace('.csv', '')
+    with open(f'{filename}.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)    
+        writer.writerows(my_list)
+
+    return 1
+
+
+def labour_share_GDP_CSV(filename):
+
+    csv_list = []   # Ths fortono to arxeio csv.
+    count = 0   # Metrhths gia tis Xores.
+    count1 = 0  # Metrhths gia ta Xronia.
+    count2 = 1  # Metrhths gia tis Metrhseis.
+
+    with open(filename) as file:
+        file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
+        for row in file_data:
+            csv_list.append(row)
+
+    my_list = [[] for i in range(19*(len(csv_list) - 1) + 1)]   # ftiaxno mia adeia 2d list me (19*(len(csv_list) - 1) + 1) rows.
+
+    my_list[0].insert(0, csv_list[0][0])    # Insert to "Country" sto [0,0].
+
+    # Vazo oles tis xores sthn proth sthlh, 29 fores thn kathemia:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(19):
+            my_list[count + 1].insert(0, csv_list[x + 1][0])
+            count += 1
+
+    my_list[0].append('Year')   # Append to "Year" sto [0,1].
+
+    # Antistoixo oles tis xronies 1990-2018 se kathe xora:
+
+    for row in range(len(my_list) - 1):
+        my_list[row + 1].append(2000 + count1)
+        count1 += 1
+        if count1 == 19:
+            count1 = 0   
+
+    my_list[0].append(filename.replace('_OUT.csv', '')) # Append to onoma ths metrhshs sto [0,2].
+
+    # Vazo ola tis metrhseis tou csv_list sto my_list.
+
+    for row in range(len(csv_list) - 1):
+        for col in range(2):
+            for x in range(5):
+                my_list[count2].append(csv_list[row + 1][col + 1])
+                count2 += 1
+        for y in range(9):
+            my_list[count2].append(csv_list[row + 1][3 + y])
+            count2 += 1
+    
+    # Elegxo gia '' kai '..', opou ta vrisko vazo 'NULL':
+
+    for row in range(len(my_list)):
+        if my_list[row][2] == '..' or my_list[row][2] == '':
+            my_list[row][2] = 'NULL'
+
+    filename = filename.replace('.csv', '')
+    with open(f'{filename}.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)    
+        writer.writerows(my_list)
+
+    return 1
+
+    
 
 #########################################################################################################################################################
 
 def main():
 
-    # my_countries =  create_new_countries_csv()
+    my_countries =  create_new_countries_csv()
 
-    # sorting_country_year('age_specific_fertility_rates.csv')
-    # add_iso_code(my_countries, 'age_specific_fertility_rates_output.csv')
+    sorting_country_year('age_specific_fertility_rates.csv')
+    add_iso_code(my_countries, 'age_specific_fertility_rates_output.csv')
 
-    # sorting_country_year('birth_death_growth_rates.csv')
-    # add_iso_code(my_countries, 'birth_death_growth_rates_output.csv')
+    sorting_country_year('birth_death_growth_rates.csv')
+    add_iso_code(my_countries, 'birth_death_growth_rates_output.csv')
 
-    # sorting_country_year('midyear_population_age_sex.csv')
-    # add_iso_code(my_countries, 'midyear_population_age_sex_output.csv')
+    sorting_country_year('midyear_population_age_sex.csv')
+    add_iso_code(my_countries, 'midyear_population_age_sex_output.csv')
 
-    # sorting_country_year('midyear_population_5yr_age_sex.csv')
-    # add_iso_code(my_countries, 'midyear_population_5yr_age_sex_output.csv')
+    sorting_country_year('midyear_population_5yr_age_sex.csv')
+    add_iso_code(my_countries, 'midyear_population_5yr_age_sex_output.csv')
 
-    # sorting_country_year('mortality_life_expectancy.csv')
-    # add_iso_code(my_countries, 'mortality_life_expectancy_output.csv')
+    sorting_country_year('mortality_life_expectancy.csv')
+    add_iso_code(my_countries, 'mortality_life_expectancy_output.csv')
 
-    # sorting_country_year('midyear_population.csv')
-    # add_iso_code(my_countries, 'midyear_population_output.csv')
+    sorting_country_year('midyear_population.csv')
+    add_iso_code(my_countries, 'midyear_population_output.csv')
 
-    ###############################################################################    
+    ##################################################################################################    
 
-    # create_csv_from_xlsx('Income by Country.xlsx')
+    create_csv_from_xlsx('Income by Country.xlsx')
 
-    # change_xlsx_to_csv('Domestic credits.xlsx')
-    # change_xlsx_to_csv('Estimated GNI female.xlsx')
-    # change_xlsx_to_csv('Estimated GNI male.xlsx')
-    # change_xlsx_to_csv('GDP per capita.xlsx')
-    # change_xlsx_to_csv('GDP total.xlsx')
-    # change_xlsx_to_csv('GNI per capita.xlsx')
-    # change_xlsx_to_csv('Gross fixed capital formation.xlsx')
-    # change_xlsx_to_csv('Income Index.xlsx')
-    # change_xlsx_to_csv('Labour share of GDP.xlsx')
+    change_xlsx_to_csv('Domestic credits.xlsx')
+    change_xlsx_to_csv('Estimated GNI female.xlsx')
+    change_xlsx_to_csv('Estimated GNI male.xlsx')
+    change_xlsx_to_csv('GDP per capita.xlsx')
+    change_xlsx_to_csv('GDP total.xlsx')
+    change_xlsx_to_csv('GNI per capita.xlsx')
+    change_xlsx_to_csv('Gross fixed capital formation.xlsx')
+    change_xlsx_to_csv('Income Index.xlsx')
+    change_xlsx_to_csv('Labour share of GDP.xlsx')
 
-    # fiveyear_to_oneyear('Income Index_OUT.csv')
-    # fiveyear_to_oneyear('GNI per capita_OUT.csv')
-
-    # create_years_column(Domestic credits_OUT.csv)
-    # create_years_column(Estimated GNI female_OUT.csv)
-    # create_years_column(Estimated GNI male_OUT.csv)
-    # create_years_column(GDP per capita_OUT.csv)
-    # create_years_column(GDP total_OUT.csv)
-    # create_years_column(GNI per capita_OUT.csv)
-    # create_years_column(Gross fixed capital formation_OUT.csv)
-    # create_years_column(Income Index_OUT.csv)
-    # create_years_column(Labour share of GDP_OUT.csv)
+    create_years_column('Income Index_OUT.csv')
+    create_years_column('GNI per capita_OUT.csv')
+    fiveyear_to_oneyear('Domestic credits_OUT.csv')
+    fiveyear_to_oneyear('GDP per capita_OUT.csv')
+    fiveyear_to_oneyear('GDP total_OUT.csv')
+    fiveyear_to_oneyear('Gross fixed capital formation_OUT.csv')
+    estimated_GNI_female_male('Estimated GNI female_OUT.csv')
+    estimated_GNI_female_male('Estimated GNI male_OUT.csv')
+    labour_share_GDP_CSV('Labour share of GDP_OUT.csv')
 
     return 1
 
@@ -214,6 +461,5 @@ def main():
 ###########################################################################################
 #                                          START                                          #
 ###########################################################################################
-
 
 main()
