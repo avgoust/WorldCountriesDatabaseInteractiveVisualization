@@ -1,3934 +1,3212 @@
-Country,Year,Labour share of GDP
-Australia,2000,56.8
-Australia,2001,56.8
-Australia,2002,56.8
-Australia,2003,56.8
-Australia,2004,56.8
-Australia,2005,54.5
-Australia,2006,54.5
-Australia,2007,54.5
-Australia,2008,54.5
-Australia,2009,54.5
-Australia,2010,53.2
-Australia,2011,53.3
-Australia,2012,53.6
-Australia,2013,53.4
-Australia,2014,54.1
-Australia,2015,54.5
-Australia,2016,52.6
-Australia,2017,52.2
-Australia,2018,52
-Austria,2000,56
-Austria,2001,56
-Austria,2002,56
-Austria,2003,56
-Austria,2004,56
-Austria,2005,53.3
-Austria,2006,53.3
-Austria,2007,53.3
-Austria,2008,53.3
-Austria,2009,53.3
-Austria,2010,54.6
-Austria,2011,54
-Austria,2012,54.5
-Austria,2013,55
-Austria,2014,55
-Austria,2015,54.6
-Austria,2016,54.7
-Austria,2017,54.3
-Austria,2018,54.3
-Azerbaijan,2000,NULL
-Azerbaijan,2001,NULL
-Azerbaijan,2002,NULL
-Azerbaijan,2003,NULL
-Azerbaijan,2004,NULL
-Azerbaijan,2005,NULL
-Azerbaijan,2006,NULL
-Azerbaijan,2007,NULL
-Azerbaijan,2008,NULL
-Azerbaijan,2009,NULL
-Azerbaijan,2010,NULL
-Azerbaijan,2011,NULL
-Azerbaijan,2012,NULL
-Azerbaijan,2013,18.6
-Azerbaijan,2014,19.3
-Azerbaijan,2015,22.1
-Azerbaijan,2016,NULL
-Azerbaijan,2017,NULL
-Azerbaijan,2018,NULL
-Belgium,2000,60
-Belgium,2001,60
-Belgium,2002,60
-Belgium,2003,60
-Belgium,2004,60
-Belgium,2005,58.7
-Belgium,2006,58.7
-Belgium,2007,58.7
-Belgium,2008,58.7
-Belgium,2009,58.7
-Belgium,2010,59.9
-Belgium,2011,60.3
-Belgium,2012,61.2
-Belgium,2013,61.7
-Belgium,2014,61.4
-Belgium,2015,60.3
-Belgium,2016,59.4
-Belgium,2017,59.4
-Belgium,2018,59.7
-Bulgaria,2000,49.7
-Bulgaria,2001,49.7
-Bulgaria,2002,49.7
-Bulgaria,2003,49.7
-Bulgaria,2004,49.7
-Bulgaria,2005,46.7
-Bulgaria,2006,46.7
-Bulgaria,2007,46.7
-Bulgaria,2008,46.7
-Bulgaria,2009,46.7
-Bulgaria,2010,49.9
-Bulgaria,2011,48.2
-Bulgaria,2012,49.9
-Bulgaria,2013,54.1
-Bulgaria,2014,56.1
-Bulgaria,2015,56.2
-Bulgaria,2016,56.3
-Bulgaria,2017,59
-Bulgaria,2018,58.2
-Canada,2000,55.9
-Canada,2001,55.9
-Canada,2002,55.9
-Canada,2003,55.9
-Canada,2004,55.9
-Canada,2005,54
-Canada,2006,54
-Canada,2007,54
-Canada,2008,54
-Canada,2009,54
-Canada,2010,55.6
-Canada,2011,54.8
-Canada,2012,55.6
-Canada,2013,55.6
-Canada,2014,54.9
-Canada,2015,56.6
-Canada,2016,55.5
-Canada,2017,54.7
-Canada,2018,55.3
-Chile,2000,NULL
-Chile,2001,NULL
-Chile,2002,NULL
-Chile,2003,NULL
-Chile,2004,NULL
-Chile,2005,NULL
-Chile,2006,NULL
-Chile,2007,NULL
-Chile,2008,NULL
-Chile,2009,NULL
-Chile,2010,NULL
-Chile,2011,37.2
-Chile,2012,NULL
-Chile,2013,44.7
-Chile,2014,NULL
-Chile,2015,NULL
-Chile,2016,NULL
-Chile,2017,NULL
-Chile,2018,NULL
-Colombia,2000,NULL
-Colombia,2001,NULL
-Colombia,2002,NULL
-Colombia,2003,NULL
-Colombia,2004,NULL
-Colombia,2005,NULL
-Colombia,2006,NULL
-Colombia,2007,NULL
-Colombia,2008,NULL
-Colombia,2009,NULL
-Colombia,2010,33.4
-Colombia,2011,31.7
-Colombia,2012,32.4
-Colombia,2013,32.7
-Colombia,2014,32.9
-Colombia,2015,34.1
-Colombia,2016,33.5
-Colombia,2017,NULL
-Colombia,2018,NULL
-Croatia,2000,67.2
-Croatia,2001,67.2
-Croatia,2002,67.2
-Croatia,2003,67.2
-Croatia,2004,67.2
-Croatia,2005,63
-Croatia,2006,63
-Croatia,2007,63
-Croatia,2008,63
-Croatia,2009,63
-Croatia,2010,62
-Croatia,2011,61
-Croatia,2012,59.5
-Croatia,2013,57.2
-Croatia,2014,55.7
-Croatia,2015,55.3
-Croatia,2016,54.3
-Croatia,2017,52.8
-Croatia,2018,52.7
-Cyprus,2000,51.7
-Cyprus,2001,51.7
-Cyprus,2002,51.7
-Cyprus,2003,51.7
-Cyprus,2004,51.7
-Cyprus,2005,55
-Cyprus,2006,55
-Cyprus,2007,55
-Cyprus,2008,55
-Cyprus,2009,55
-Cyprus,2010,54.6
-Cyprus,2011,54.5
-Cyprus,2012,54.3
-Cyprus,2013,52
-Cyprus,2014,50.7
-Cyprus,2015,50.4
-Cyprus,2016,50
-Cyprus,2017,49.5
-Cyprus,2018,48.9
-Czechia,2000,45
-Czechia,2001,45
-Czechia,2002,45
-Czechia,2003,45
-Czechia,2004,45
-Czechia,2005,46.9
-Czechia,2006,46.9
-Czechia,2007,46.9
-Czechia,2008,46.9
-Czechia,2009,46.9
-Czechia,2010,47.8
-Czechia,2011,48.1
-Czechia,2012,48.8
-Czechia,2013,48.4
-Czechia,2014,47.4
-Czechia,2015,46.5
-Czechia,2016,47.3
-Czechia,2017,48.3
-Czechia,2018,50.7
-Denmark,2000,53.9
-Denmark,2001,53.9
-Denmark,2002,53.9
-Denmark,2003,53.9
-Denmark,2004,53.9
-Denmark,2005,54.3
-Denmark,2006,54.3
-Denmark,2007,54.3
-Denmark,2008,54.3
-Denmark,2009,54.3
-Denmark,2010,56.4
-Denmark,2011,56
-Denmark,2012,55.2
-Denmark,2013,55.1
-Denmark,2014,54.9
-Denmark,2015,55.1
-Denmark,2016,55
-Denmark,2017,54.8
-Denmark,2018,55.9
-Estonia,2000,49.5
-Estonia,2001,49.5
-Estonia,2002,49.5
-Estonia,2003,49.5
-Estonia,2004,49.5
-Estonia,2005,47.5
-Estonia,2006,47.5
-Estonia,2007,47.5
-Estonia,2008,47.5
-Estonia,2009,47.5
-Estonia,2010,51.7
-Estonia,2011,49.1
-Estonia,2012,49.9
-Estonia,2013,50.2
-Estonia,2014,50.9
-Estonia,2015,52.5
-Estonia,2016,53.3
-Estonia,2017,53.7
-Estonia,2018,54.4
-Finland,2000,53.1
-Finland,2001,53.1
-Finland,2002,53.1
-Finland,2003,53.1
-Finland,2004,53.1
-Finland,2005,53.3
-Finland,2006,53.3
-Finland,2007,53.3
-Finland,2008,53.3
-Finland,2009,53.3
-Finland,2010,56.1
-Finland,2011,55.9
-Finland,2012,57.1
-Finland,2013,56.4
-Finland,2014,56.1
-Finland,2015,55.6
-Finland,2016,54.9
-Finland,2017,52.9
-Finland,2018,52.7
-France,2000,55.9
-France,2001,55.9
-France,2002,55.9
-France,2003,55.9
-France,2004,55.9
-France,2005,56.2
-France,2006,56.2
-France,2007,56.2
-France,2008,56.2
-France,2009,56.2
-France,2010,57.5
-France,2011,57.5
-France,2012,58.1
-France,2013,58.4
-France,2014,58.5
-France,2015,58
-France,2016,58.1
-France,2017,58.1
-France,2018,58.3
-Germany,2000,58.8
-Germany,2001,58.8
-Germany,2002,58.8
-Germany,2003,58.8
-Germany,2004,58.8
-Germany,2005,56.1
-Germany,2006,56.1
-Germany,2007,56.1
-Germany,2008,56.1
-Germany,2009,56.1
-Germany,2010,55.8
-Germany,2011,55.6
-Germany,2012,56.5
-Germany,2013,56.5
-Germany,2014,56.3
-Germany,2015,56.2
-Germany,2016,56.2
-Germany,2017,56.4
-Germany,2018,56.9
-Greece,2000,49.5
-Greece,2001,49.5
-Greece,2002,49.5
-Greece,2003,49.5
-Greece,2004,49.5
-Greece,2005,53.9
-Greece,2006,53.9
-Greece,2007,53.9
-Greece,2008,53.9
-Greece,2009,53.9
-Greece,2010,54.3
-Greece,2011,53.1
-Greece,2012,52.2
-Greece,2013,49.8
-Greece,2014,49.8
-Greece,2015,49.4
-Greece,2016,49.3
-Greece,2017,49.3
-Greece,2018,49.6
-Guinea,2000,NULL
-Guinea,2001,NULL
-Guinea,2002,NULL
-Guinea,2003,NULL
-Guinea,2004,NULL
-Guinea,2005,NULL
-Guinea,2006,NULL
-Guinea,2007,NULL
-Guinea,2008,NULL
-Guinea,2009,NULL
-Guinea,2010,14.9
-Guinea,2011,NULL
-Guinea,2012,NULL
-Guinea,2013,NULL
-Guinea,2014,NULL
-Guinea,2015,NULL
-Guinea,2016,NULL
-Guinea,2017,NULL
-Guinea,2018,NULL
-Hungary,2000,52.6
-Hungary,2001,52.6
-Hungary,2002,52.6
-Hungary,2003,52.6
-Hungary,2004,52.6
-Hungary,2005,52.8
-Hungary,2006,52.8
-Hungary,2007,52.8
-Hungary,2008,52.8
-Hungary,2009,52.8
-Hungary,2010,49.4
-Hungary,2011,49.1
-Hungary,2012,49.2
-Hungary,2013,48.2
-Hungary,2014,47.2
-Hungary,2015,45.2
-Hungary,2016,47.1
-Hungary,2017,47.2
-Hungary,2018,48.2
-Iceland,2000,59.9
-Iceland,2001,59.9
-Iceland,2002,59.9
-Iceland,2003,59.9
-Iceland,2004,59.9
-Iceland,2005,59.1
-Iceland,2006,59.1
-Iceland,2007,59.1
-Iceland,2008,59.1
-Iceland,2009,59.1
-Iceland,2010,49.5
-Iceland,2011,51.7
-Iceland,2012,52.5
-Iceland,2013,53.5
-Iceland,2014,53.7
-Iceland,2015,53.7
-Iceland,2016,55.2
-Iceland,2017,57.9
-Iceland,2018,58.3
-Iraq,2000,NULL
-Iraq,2001,NULL
-Iraq,2002,NULL
-Iraq,2003,NULL
-Iraq,2004,NULL
-Iraq,2005,NULL
-Iraq,2006,NULL
-Iraq,2007,NULL
-Iraq,2008,NULL
-Iraq,2009,NULL
-Iraq,2010,25.6
-Iraq,2011,21.1
-Iraq,2012,23.4
-Iraq,2013,25.7
-Iraq,2014,26.9
-Iraq,2015,34.3
-Iraq,2016,37.7
-Iraq,2017,NULL
-Iraq,2018,NULL
-Ireland,2000,47.2
-Ireland,2001,47.2
-Ireland,2002,47.2
-Ireland,2003,47.2
-Ireland,2004,47.2
-Ireland,2005,46.5
-Ireland,2006,46.5
-Ireland,2007,46.5
-Ireland,2008,46.5
-Ireland,2009,46.5
-Ireland,2010,50.1
-Ireland,2011,48.3
-Ireland,2012,47.4
-Ireland,2013,47.3
-Ireland,2014,45
-Ireland,2015,35.6
-Ireland,2016,36.2
-Ireland,2017,34.9
-Ireland,2018,34.3
-Italy,2000,51.1
-Italy,2001,51.1
-Italy,2002,51.1
-Italy,2003,51.1
-Italy,2004,51.1
-Italy,2005,52.1
-Italy,2006,52.1
-Italy,2007,52.1
-Italy,2008,52.1
-Italy,2009,52.1
-Italy,2010,54.1
-Italy,2011,53.6
-Italy,2012,53.7
-Italy,2013,53.4
-Italy,2014,53
-Italy,2015,52.9
-Italy,2016,52.7
-Italy,2017,52.2
-Italy,2018,52.8
-Japan,2000,62.4
-Japan,2001,62.4
-Japan,2002,62.4
-Japan,2003,62.4
-Japan,2004,62.4
-Japan,2005,58.8
-Japan,2006,58.8
-Japan,2007,58.8
-Japan,2008,58.8
-Japan,2009,58.8
-Japan,2010,58.5
-Japan,2011,59.7
-Japan,2012,59.1
-Japan,2013,58.3
-Japan,2014,57.9
-Japan,2015,56.5
-Japan,2016,57.2
-Japan,2017,57.1
-Japan,2018,57.9
-Korea (Republic of),2000,65.4
-Korea (Republic of),2001,65.4
-Korea (Republic of),2002,65.4
-Korea (Republic of),2003,65.4
-Korea (Republic of),2004,65.4
-Korea (Republic of),2005,65.6
-Korea (Republic of),2006,65.6
-Korea (Republic of),2007,65.6
-Korea (Republic of),2008,65.6
-Korea (Republic of),2009,65.6
-Korea (Republic of),2010,59.5
-Korea (Republic of),2011,59.7
-Korea (Republic of),2012,60.6
-Korea (Republic of),2013,60.7
-Korea (Republic of),2014,60.8
-Korea (Republic of),2015,60.3
-Korea (Republic of),2016,60.1
-Korea (Republic of),2017,59.5
-Korea (Republic of),2018,61
-Kuwait,2000,NULL
-Kuwait,2001,NULL
-Kuwait,2002,NULL
-Kuwait,2003,NULL
-Kuwait,2004,NULL
-Kuwait,2005,NULL
-Kuwait,2006,NULL
-Kuwait,2007,NULL
-Kuwait,2008,NULL
-Kuwait,2009,NULL
-Kuwait,2010,28.2
-Kuwait,2011,24.9
-Kuwait,2012,24.2
-Kuwait,2013,25.7
-Kuwait,2014,28.7
-Kuwait,2015,39.8
-Kuwait,2016,41.4
-Kuwait,2017,NULL
-Kuwait,2018,NULL
-Latvia,2000,48.7
-Latvia,2001,48.7
-Latvia,2002,48.7
-Latvia,2003,48.7
-Latvia,2004,48.7
-Latvia,2005,45.6
-Latvia,2006,45.6
-Latvia,2007,45.6
-Latvia,2008,45.6
-Latvia,2009,45.6
-Latvia,2010,48.6
-Latvia,2011,44.7
-Latvia,2012,45.3
-Latvia,2013,46.9
-Latvia,2014,48.5
-Latvia,2015,51.4
-Latvia,2016,53.4
-Latvia,2017,53.4
-Latvia,2018,53.6
-Lithuania,2000,48.6
-Lithuania,2001,48.6
-Lithuania,2002,48.6
-Lithuania,2003,48.6
-Lithuania,2004,48.6
-Lithuania,2005,49.1
-Lithuania,2006,49.1
-Lithuania,2007,49.1
-Lithuania,2008,49.1
-Lithuania,2009,49.1
-Lithuania,2010,45.9
-Lithuania,2011,44
-Lithuania,2012,43.8
-Lithuania,2013,44.6
-Lithuania,2014,45.5
-Lithuania,2015,47.7
-Lithuania,2016,50
-Lithuania,2017,49.8
-Lithuania,2018,50.6
-Luxembourg,2000,49.7
-Luxembourg,2001,49.7
-Luxembourg,2002,49.7
-Luxembourg,2003,49.7
-Luxembourg,2004,49.7
-Luxembourg,2005,52.2
-Luxembourg,2006,52.2
-Luxembourg,2007,52.2
-Luxembourg,2008,52.2
-Luxembourg,2009,52.2
-Luxembourg,2010,52.7
-Luxembourg,2011,51.5
-Luxembourg,2012,52.5
-Luxembourg,2013,51.9
-Luxembourg,2014,51.4
-Luxembourg,2015,51.8
-Luxembourg,2016,52.1
-Luxembourg,2017,53.7
-Luxembourg,2018,53.4
-Malaysia,2000,NULL
-Malaysia,2001,NULL
-Malaysia,2002,NULL
-Malaysia,2003,NULL
-Malaysia,2004,NULL
-Malaysia,2005,NULL
-Malaysia,2006,NULL
-Malaysia,2007,NULL
-Malaysia,2008,NULL
-Malaysia,2009,NULL
-Malaysia,2010,NULL
-Malaysia,2011,NULL
-Malaysia,2012,NULL
-Malaysia,2013,33.6
-Malaysia,2014,NULL
-Malaysia,2015,34.8
-Malaysia,2016,NULL
-Malaysia,2017,NULL
-Malaysia,2018,NULL
-Malta,2000,49.2
-Malta,2001,49.2
-Malta,2002,49.2
-Malta,2003,49.2
-Malta,2004,49.2
-Malta,2005,49.3
-Malta,2006,49.3
-Malta,2007,49.3
-Malta,2008,49.3
-Malta,2009,49.3
-Malta,2010,49.3
-Malta,2011,50.6
-Malta,2012,51.2
-Malta,2013,50.9
-Malta,2014,48.9
-Malta,2015,47.3
-Malta,2016,47.3
-Malta,2017,46.5
-Malta,2018,45.9
-Mexico,2000,39.3
-Mexico,2001,39.3
-Mexico,2002,39.3
-Mexico,2003,39.3
-Mexico,2004,39.3
-Mexico,2005,39.7
-Mexico,2006,39.7
-Mexico,2007,39.7
-Mexico,2008,39.7
-Mexico,2009,39.7
-Mexico,2010,38.7
-Mexico,2011,37.7
-Mexico,2012,37.7
-Mexico,2013,38.4
-Mexico,2014,37.7
-Mexico,2015,37.6
-Mexico,2016,36.6
-Mexico,2017,35.9
-Mexico,2018,35.5
-Moldova (Republic of),2000,NULL
-Moldova (Republic of),2001,NULL
-Moldova (Republic of),2002,NULL
-Moldova (Republic of),2003,NULL
-Moldova (Republic of),2004,NULL
-Moldova (Republic of),2005,NULL
-Moldova (Republic of),2006,NULL
-Moldova (Republic of),2007,NULL
-Moldova (Republic of),2008,NULL
-Moldova (Republic of),2009,NULL
-Moldova (Republic of),2010,NULL
-Moldova (Republic of),2011,NULL
-Moldova (Republic of),2012,NULL
-Moldova (Republic of),2013,NULL
-Moldova (Republic of),2014,NULL
-Moldova (Republic of),2015,42.5
-Moldova (Republic of),2016,41.9
-Moldova (Republic of),2017,NULL
-Moldova (Republic of),2018,NULL
-Mongolia,2000,NULL
-Mongolia,2001,NULL
-Mongolia,2002,NULL
-Mongolia,2003,NULL
-Mongolia,2004,NULL
-Mongolia,2005,NULL
-Mongolia,2006,NULL
-Mongolia,2007,NULL
-Mongolia,2008,NULL
-Mongolia,2009,NULL
-Mongolia,2010,22.6
-Mongolia,2011,23.9
-Mongolia,2012,26.3
-Mongolia,2013,26
-Mongolia,2014,26.3
-Mongolia,2015,27
-Mongolia,2016,27.6
-Mongolia,2017,NULL
-Mongolia,2018,NULL
-Netherlands,2000,59.3
-Netherlands,2001,59.3
-Netherlands,2002,59.3
-Netherlands,2003,59.3
-Netherlands,2004,59.3
-Netherlands,2005,57
-Netherlands,2006,57
-Netherlands,2007,57
-Netherlands,2008,57
-Netherlands,2009,57
-Netherlands,2010,57.9
-Netherlands,2011,58.5
-Netherlands,2012,59.2
-Netherlands,2013,58.9
-Netherlands,2014,58.9
-Netherlands,2015,57.6
-Netherlands,2016,57.7
-Netherlands,2017,57.4
-Netherlands,2018,57.3
-New Zealand,2000,47.8
-New Zealand,2001,47.8
-New Zealand,2002,47.8
-New Zealand,2003,47.8
-New Zealand,2004,47.8
-New Zealand,2005,51.1
-New Zealand,2006,51.1
-New Zealand,2007,51.1
-New Zealand,2008,51.1
-New Zealand,2009,51.1
-New Zealand,2010,52.3
-New Zealand,2011,52
-New Zealand,2012,52.3
-New Zealand,2013,50.2
-New Zealand,2014,50.8
-New Zealand,2015,50.4
-New Zealand,2016,51.3
-New Zealand,2017,51.1
-New Zealand,2018,52.3
-North Macedonia,2000,59.2
-North Macedonia,2001,59.2
-North Macedonia,2002,59.2
-North Macedonia,2003,59.2
-North Macedonia,2004,59.2
-North Macedonia,2005,50.8
-North Macedonia,2006,50.8
-North Macedonia,2007,50.8
-North Macedonia,2008,50.8
-North Macedonia,2009,50.8
-North Macedonia,2010,52.5
-North Macedonia,2011,50.7
-North Macedonia,2012,50
-North Macedonia,2013,47.1
-North Macedonia,2014,48.1
-North Macedonia,2015,47.4
-North Macedonia,2016,44.5
-North Macedonia,2017,44.4
-North Macedonia,2018,44
-Norway,2000,45.8
-Norway,2001,45.8
-Norway,2002,45.8
-Norway,2003,45.8
-Norway,2004,45.8
-Norway,2005,44.1
-Norway,2006,44.1
-Norway,2007,44.1
-Norway,2008,44.1
-Norway,2009,44.1
-Norway,2010,47.3
-Norway,2011,46.7
-Norway,2012,46.9
-Norway,2013,47.8
-Norway,2014,48.8
-Norway,2015,50.8
-Norway,2016,51.6
-Norway,2017,50.3
-Norway,2018,49.3
-Peru,2000,NULL
-Peru,2001,NULL
-Peru,2002,NULL
-Peru,2003,NULL
-Peru,2004,NULL
-Peru,2005,NULL
-Peru,2006,NULL
-Peru,2007,NULL
-Peru,2008,NULL
-Peru,2009,NULL
-Peru,2010,NULL
-Peru,2011,23.1
-Peru,2012,23.6
-Peru,2013,NULL
-Peru,2014,NULL
-Peru,2015,NULL
-Peru,2016,NULL
-Peru,2017,NULL
-Peru,2018,NULL
-Philippines,2000,NULL
-Philippines,2001,NULL
-Philippines,2002,NULL
-Philippines,2003,NULL
-Philippines,2004,NULL
-Philippines,2005,NULL
-Philippines,2006,NULL
-Philippines,2007,NULL
-Philippines,2008,NULL
-Philippines,2009,NULL
-Philippines,2010,32.2
-Philippines,2011,35
-Philippines,2012,35.1
-Philippines,2013,34.6
-Philippines,2014,34.9
-Philippines,2015,35.3
-Philippines,2016,35.7
-Philippines,2017,36.3
-Philippines,2018,NULL
-Poland,2000,56.8
-Poland,2001,56.8
-Poland,2002,56.8
-Poland,2003,56.8
-Poland,2004,56.8
-Poland,2005,49.7
-Poland,2006,49.7
-Poland,2007,49.7
-Poland,2008,49.7
-Poland,2009,49.7
-Poland,2010,49
-Poland,2011,47.9
-Poland,2012,47.8
-Poland,2013,47.7
-Poland,2014,47.8
-Poland,2015,47.1
-Poland,2016,48.2
-Poland,2017,48.3
-Poland,2018,49
-Portugal,2000,60.2
-Portugal,2001,60.2
-Portugal,2002,60.2
-Portugal,2003,60.2
-Portugal,2004,60.2
-Portugal,2005,58.7
-Portugal,2006,58.7
-Portugal,2007,58.7
-Portugal,2008,58.7
-Portugal,2009,58.7
-Portugal,2010,56.5
-Portugal,2011,55.5
-Portugal,2012,54
-Portugal,2013,53.7
-Portugal,2014,52.7
-Portugal,2015,51.6
-Portugal,2016,51.4
-Portugal,2017,51.7
-Portugal,2018,52.1
-Qatar,2000,NULL
-Qatar,2001,NULL
-Qatar,2002,NULL
-Qatar,2003,NULL
-Qatar,2004,NULL
-Qatar,2005,NULL
-Qatar,2006,NULL
-Qatar,2007,NULL
-Qatar,2008,NULL
-Qatar,2009,NULL
-Qatar,2010,NULL
-Qatar,2011,22.4
-Qatar,2012,19.2
-Qatar,2013,NULL
-Qatar,2014,18.8
-Qatar,2015,18.8
-Qatar,2016,NULL
-Qatar,2017,NULL
-Qatar,2018,NULL
-Russian Federation,2000,NULL
-Russian Federation,2001,NULL
-Russian Federation,2002,NULL
-Russian Federation,2003,NULL
-Russian Federation,2004,NULL
-Russian Federation,2005,NULL
-Russian Federation,2006,NULL
-Russian Federation,2007,NULL
-Russian Federation,2008,NULL
-Russian Federation,2009,NULL
-Russian Federation,2010,49.6
-Russian Federation,2011,43.8
-Russian Federation,2012,44.3
-Russian Federation,2013,46.2
-Russian Federation,2014,47.2
-Russian Federation,2015,46.9
-Russian Federation,2016,47.9
-Russian Federation,2017,48.1
-Russian Federation,2018,NULL
-San Marino,2000,NULL
-San Marino,2001,NULL
-San Marino,2002,NULL
-San Marino,2003,NULL
-San Marino,2004,NULL
-San Marino,2005,NULL
-San Marino,2006,NULL
-San Marino,2007,NULL
-San Marino,2008,NULL
-San Marino,2009,NULL
-San Marino,2010,NULL
-San Marino,2011,NULL
-San Marino,2012,NULL
-San Marino,2013,NULL
-San Marino,2014,NULL
-San Marino,2015,NULL
-San Marino,2016,49.5
-San Marino,2017,NULL
-San Marino,2018,NULL
-Serbia,2000,NULL
-Serbia,2001,NULL
-Serbia,2002,NULL
-Serbia,2003,NULL
-Serbia,2004,NULL
-Serbia,2005,NULL
-Serbia,2006,NULL
-Serbia,2007,NULL
-Serbia,2008,NULL
-Serbia,2009,NULL
-Serbia,2010,41.9
-Serbia,2011,41.5
-Serbia,2012,42.7
-Serbia,2013,41.8
-Serbia,2014,43.2
-Serbia,2015,41.7
-Serbia,2016,NULL
-Serbia,2017,NULL
-Serbia,2018,NULL
-Slovakia,2000,44.6
-Slovakia,2001,44.6
-Slovakia,2002,44.6
-Slovakia,2003,44.6
-Slovakia,2004,44.6
-Slovakia,2005,42.3
-Slovakia,2006,42.3
-Slovakia,2007,42.3
-Slovakia,2008,42.3
-Slovakia,2009,42.3
-Slovakia,2010,44.3
-Slovakia,2011,44
-Slovakia,2012,43.9
-Slovakia,2013,43.8
-Slovakia,2014,44.1
-Slovakia,2015,44.7
-Slovakia,2016,45.5
-Slovakia,2017,46.9
-Slovakia,2018,47.4
-Slovenia,2000,61.7
-Slovenia,2001,61.7
-Slovenia,2002,61.7
-Slovenia,2003,61.7
-Slovenia,2004,61.7
-Slovenia,2005,60.4
-Slovenia,2006,60.4
-Slovenia,2007,60.4
-Slovenia,2008,60.4
-Slovenia,2009,60.4
-Slovenia,2010,64
-Slovenia,2011,62.8
-Slovenia,2012,63
-Slovenia,2013,62.3
-Slovenia,2014,61.1
-Slovenia,2015,60.6
-Slovenia,2016,61.2
-Slovenia,2017,61
-Slovenia,2018,61.2
-Spain,2000,58.4
-Spain,2001,58.4
-Spain,2002,58.4
-Spain,2003,58.4
-Spain,2004,58.4
-Spain,2005,55.9
-Spain,2006,55.9
-Spain,2007,55.9
-Spain,2008,55.9
-Spain,2009,55.9
-Spain,2010,57.7
-Spain,2011,57.1
-Spain,2012,55.6
-Spain,2013,55.1
-Spain,2014,55
-Spain,2015,55.1
-Spain,2016,54.5
-Spain,2017,53.9
-Spain,2018,53.9
-Sweden,2000,48
-Sweden,2001,48
-Sweden,2002,48
-Sweden,2003,48
-Sweden,2004,48
-Sweden,2005,47.7
-Sweden,2006,47.7
-Sweden,2007,47.7
-Sweden,2008,47.7
-Sweden,2009,47.7
-Sweden,2010,48.1
-Sweden,2011,48.8
-Sweden,2012,50.3
-Sweden,2013,50.6
-Sweden,2014,50.2
-Sweden,2015,49.1
-Sweden,2016,49.1
-Sweden,2017,49.1
-Sweden,2018,49.5
-Switzerland,2000,62.4
-Switzerland,2001,62.4
-Switzerland,2002,62.4
-Switzerland,2003,62.4
-Switzerland,2004,62.4
-Switzerland,2005,62.7
-Switzerland,2006,62.7
-Switzerland,2007,62.7
-Switzerland,2008,62.7
-Switzerland,2009,62.7
-Switzerland,2010,63
-Switzerland,2011,64
-Switzerland,2012,65
-Switzerland,2013,65.3
-Switzerland,2014,65
-Switzerland,2015,65.4
-Switzerland,2016,65.4
-Switzerland,2017,65.4
-Switzerland,2018,64.5
-Turkey,2000,55.3
-Turkey,2001,55.3
-Turkey,2002,55.3
-Turkey,2003,55.3
-Turkey,2004,55.3
-Turkey,2005,44
-Turkey,2006,44
-Turkey,2007,44
-Turkey,2008,44
-Turkey,2009,44
-Turkey,2010,44.5
-Turkey,2011,43.2
-Turkey,2012,44.4
-Turkey,2013,43.7
-Turkey,2014,45.1
-Turkey,2015,45.6
-Turkey,2016,50.3
-Turkey,2017,47.6
-Turkey,2018,47.4
-Ukraine,2000,NULL
-Ukraine,2001,NULL
-Ukraine,2002,NULL
-Ukraine,2003,NULL
-Ukraine,2004,NULL
-Ukraine,2005,NULL
-Ukraine,2006,NULL
-Ukraine,2007,NULL
-Ukraine,2008,NULL
-Ukraine,2009,NULL
-Ukraine,2010,NULL
-Ukraine,2011,47
-Ukraine,2012,50.2
-Ukraine,2013,NULL
-Ukraine,2014,NULL
-Ukraine,2015,NULL
-Ukraine,2016,36.6
-Ukraine,2017,38.9
-Ukraine,2018,NULL
-United Kingdom,2000,56.3
-United Kingdom,2001,56.3
-United Kingdom,2002,56.3
-United Kingdom,2003,56.3
-United Kingdom,2004,56.3
-United Kingdom,2005,57
-United Kingdom,2006,57
-United Kingdom,2007,57
-United Kingdom,2008,57
-United Kingdom,2009,57
-United Kingdom,2010,59.7
-United Kingdom,2011,58.6
-United Kingdom,2012,58.5
-United Kingdom,2013,58.5
-United Kingdom,2014,57.5
-United Kingdom,2015,57.6
-United Kingdom,2016,57.8
-United Kingdom,2017,57.9
-United Kingdom,2018,58.2
-United States,2000,61.6
-United States,2001,61.6
-United States,2002,61.6
-United States,2003,61.6
-United States,2004,61.6
-United States,2005,58.5
-United States,2006,58.5
-United States,2007,58.5
-United States,2008,58.5
-United States,2009,58.5
-United States,2010,56.8
-United States,2011,56.8
-United States,2012,56.7
-United States,2013,56.3
-United States,2014,56.4
-United States,2015,56.9
-United States,2016,56.8
-United States,2017,57
-United States,2018,56.5
-Venezuela (Bolivarian Republic of),2000,NULL
-Venezuela (Bolivarian Republic of),2001,NULL
-Venezuela (Bolivarian Republic of),2002,NULL
-Venezuela (Bolivarian Republic of),2003,NULL
-Venezuela (Bolivarian Republic of),2004,NULL
-Venezuela (Bolivarian Republic of),2005,NULL
-Venezuela (Bolivarian Republic of),2006,NULL
-Venezuela (Bolivarian Republic of),2007,NULL
-Venezuela (Bolivarian Republic of),2008,NULL
-Venezuela (Bolivarian Republic of),2009,NULL
-Venezuela (Bolivarian Republic of),2010,29.6
-Venezuela (Bolivarian Republic of),2011,NULL
-Venezuela (Bolivarian Republic of),2012,NULL
-Venezuela (Bolivarian Republic of),2013,NULL
-Venezuela (Bolivarian Republic of),2014,NULL
-Venezuela (Bolivarian Republic of),2015,NULL
-Venezuela (Bolivarian Republic of),2016,NULL
-Venezuela (Bolivarian Republic of),2017,NULL
-Venezuela (Bolivarian Republic of),2018,NULL
-Zimbabwe,2000,NULL
-Zimbabwe,2001,NULL
-Zimbabwe,2002,NULL
-Zimbabwe,2003,NULL
-Zimbabwe,2004,NULL
-Zimbabwe,2005,NULL
-Zimbabwe,2006,NULL
-Zimbabwe,2007,NULL
-Zimbabwe,2008,NULL
-Zimbabwe,2009,NULL
-Zimbabwe,2010,37.1
-Zimbabwe,2011,37
-Zimbabwe,2012,NULL
-Zimbabwe,2013,NULL
-Zimbabwe,2014,50
-Zimbabwe,2015,NULL
-Zimbabwe,2016,NULL
-Zimbabwe,2017,NULL
-Zimbabwe,2018,NULL
-Afghanistan,2000,NULL
-Afghanistan,2001,NULL
-Afghanistan,2002,NULL
-Afghanistan,2003,NULL
-Afghanistan,2004,NULL
-Afghanistan,2005,NULL
-Afghanistan,2006,NULL
-Afghanistan,2007,NULL
-Afghanistan,2008,NULL
-Afghanistan,2009,NULL
-Afghanistan,2010,NULL
-Afghanistan,2011,NULL
-Afghanistan,2012,NULL
-Afghanistan,2013,NULL
-Afghanistan,2014,NULL
-Afghanistan,2015,NULL
-Afghanistan,2016,NULL
-Afghanistan,2017,NULL
-Afghanistan,2018,NULL
-Angola,2000,NULL
-Angola,2001,NULL
-Angola,2002,NULL
-Angola,2003,NULL
-Angola,2004,NULL
-Angola,2005,NULL
-Angola,2006,NULL
-Angola,2007,NULL
-Angola,2008,NULL
-Angola,2009,NULL
-Angola,2010,NULL
-Angola,2011,NULL
-Angola,2012,NULL
-Angola,2013,NULL
-Angola,2014,NULL
-Angola,2015,NULL
-Angola,2016,NULL
-Angola,2017,NULL
-Angola,2018,NULL
-Albania,2000,NULL
-Albania,2001,NULL
-Albania,2002,NULL
-Albania,2003,NULL
-Albania,2004,NULL
-Albania,2005,NULL
-Albania,2006,NULL
-Albania,2007,NULL
-Albania,2008,NULL
-Albania,2009,NULL
-Albania,2010,NULL
-Albania,2011,NULL
-Albania,2012,NULL
-Albania,2013,NULL
-Albania,2014,NULL
-Albania,2015,NULL
-Albania,2016,NULL
-Albania,2017,NULL
-Albania,2018,NULL
-Andorra,2000,NULL
-Andorra,2001,NULL
-Andorra,2002,NULL
-Andorra,2003,NULL
-Andorra,2004,NULL
-Andorra,2005,NULL
-Andorra,2006,NULL
-Andorra,2007,NULL
-Andorra,2008,NULL
-Andorra,2009,NULL
-Andorra,2010,NULL
-Andorra,2011,NULL
-Andorra,2012,NULL
-Andorra,2013,NULL
-Andorra,2014,NULL
-Andorra,2015,NULL
-Andorra,2016,NULL
-Andorra,2017,NULL
-Andorra,2018,NULL
-United Arab Emirates,2000,NULL
-United Arab Emirates,2001,NULL
-United Arab Emirates,2002,NULL
-United Arab Emirates,2003,NULL
-United Arab Emirates,2004,NULL
-United Arab Emirates,2005,NULL
-United Arab Emirates,2006,NULL
-United Arab Emirates,2007,NULL
-United Arab Emirates,2008,NULL
-United Arab Emirates,2009,NULL
-United Arab Emirates,2010,NULL
-United Arab Emirates,2011,NULL
-United Arab Emirates,2012,NULL
-United Arab Emirates,2013,NULL
-United Arab Emirates,2014,NULL
-United Arab Emirates,2015,NULL
-United Arab Emirates,2016,NULL
-United Arab Emirates,2017,NULL
-United Arab Emirates,2018,NULL
-Argentina,2000,NULL
-Argentina,2001,NULL
-Argentina,2002,NULL
-Argentina,2003,NULL
-Argentina,2004,NULL
-Argentina,2005,NULL
-Argentina,2006,NULL
-Argentina,2007,NULL
-Argentina,2008,NULL
-Argentina,2009,NULL
-Argentina,2010,NULL
-Argentina,2011,NULL
-Argentina,2012,NULL
-Argentina,2013,NULL
-Argentina,2014,NULL
-Argentina,2015,NULL
-Argentina,2016,NULL
-Argentina,2017,NULL
-Argentina,2018,NULL
-Armenia,2000,NULL
-Armenia,2001,NULL
-Armenia,2002,NULL
-Armenia,2003,NULL
-Armenia,2004,NULL
-Armenia,2005,NULL
-Armenia,2006,NULL
-Armenia,2007,NULL
-Armenia,2008,NULL
-Armenia,2009,NULL
-Armenia,2010,NULL
-Armenia,2011,NULL
-Armenia,2012,NULL
-Armenia,2013,NULL
-Armenia,2014,NULL
-Armenia,2015,NULL
-Armenia,2016,NULL
-Armenia,2017,NULL
-Armenia,2018,NULL
-Antigua and Barbuda,2000,NULL
-Antigua and Barbuda,2001,NULL
-Antigua and Barbuda,2002,NULL
-Antigua and Barbuda,2003,NULL
-Antigua and Barbuda,2004,NULL
-Antigua and Barbuda,2005,NULL
-Antigua and Barbuda,2006,NULL
-Antigua and Barbuda,2007,NULL
-Antigua and Barbuda,2008,NULL
-Antigua and Barbuda,2009,NULL
-Antigua and Barbuda,2010,NULL
-Antigua and Barbuda,2011,NULL
-Antigua and Barbuda,2012,NULL
-Antigua and Barbuda,2013,NULL
-Antigua and Barbuda,2014,NULL
-Antigua and Barbuda,2015,NULL
-Antigua and Barbuda,2016,NULL
-Antigua and Barbuda,2017,NULL
-Antigua and Barbuda,2018,NULL
-Burundi,2000,NULL
-Burundi,2001,NULL
-Burundi,2002,NULL
-Burundi,2003,NULL
-Burundi,2004,NULL
-Burundi,2005,NULL
-Burundi,2006,NULL
-Burundi,2007,NULL
-Burundi,2008,NULL
-Burundi,2009,NULL
-Burundi,2010,NULL
-Burundi,2011,NULL
-Burundi,2012,NULL
-Burundi,2013,NULL
-Burundi,2014,NULL
-Burundi,2015,NULL
-Burundi,2016,NULL
-Burundi,2017,NULL
-Burundi,2018,NULL
-Benin,2000,NULL
-Benin,2001,NULL
-Benin,2002,NULL
-Benin,2003,NULL
-Benin,2004,NULL
-Benin,2005,NULL
-Benin,2006,NULL
-Benin,2007,NULL
-Benin,2008,NULL
-Benin,2009,NULL
-Benin,2010,NULL
-Benin,2011,NULL
-Benin,2012,NULL
-Benin,2013,NULL
-Benin,2014,NULL
-Benin,2015,NULL
-Benin,2016,NULL
-Benin,2017,NULL
-Benin,2018,NULL
-Burkina Faso,2000,NULL
-Burkina Faso,2001,NULL
-Burkina Faso,2002,NULL
-Burkina Faso,2003,NULL
-Burkina Faso,2004,NULL
-Burkina Faso,2005,NULL
-Burkina Faso,2006,NULL
-Burkina Faso,2007,NULL
-Burkina Faso,2008,NULL
-Burkina Faso,2009,NULL
-Burkina Faso,2010,NULL
-Burkina Faso,2011,NULL
-Burkina Faso,2012,NULL
-Burkina Faso,2013,NULL
-Burkina Faso,2014,NULL
-Burkina Faso,2015,NULL
-Burkina Faso,2016,NULL
-Burkina Faso,2017,NULL
-Burkina Faso,2018,NULL
-Bangladesh,2000,NULL
-Bangladesh,2001,NULL
-Bangladesh,2002,NULL
-Bangladesh,2003,NULL
-Bangladesh,2004,NULL
-Bangladesh,2005,NULL
-Bangladesh,2006,NULL
-Bangladesh,2007,NULL
-Bangladesh,2008,NULL
-Bangladesh,2009,NULL
-Bangladesh,2010,NULL
-Bangladesh,2011,NULL
-Bangladesh,2012,NULL
-Bangladesh,2013,NULL
-Bangladesh,2014,NULL
-Bangladesh,2015,NULL
-Bangladesh,2016,NULL
-Bangladesh,2017,NULL
-Bangladesh,2018,NULL
-Bahrain,2000,NULL
-Bahrain,2001,NULL
-Bahrain,2002,NULL
-Bahrain,2003,NULL
-Bahrain,2004,NULL
-Bahrain,2005,NULL
-Bahrain,2006,NULL
-Bahrain,2007,NULL
-Bahrain,2008,NULL
-Bahrain,2009,NULL
-Bahrain,2010,NULL
-Bahrain,2011,NULL
-Bahrain,2012,NULL
-Bahrain,2013,NULL
-Bahrain,2014,NULL
-Bahrain,2015,NULL
-Bahrain,2016,NULL
-Bahrain,2017,NULL
-Bahrain,2018,NULL
-Bahamas,2000,NULL
-Bahamas,2001,NULL
-Bahamas,2002,NULL
-Bahamas,2003,NULL
-Bahamas,2004,NULL
-Bahamas,2005,NULL
-Bahamas,2006,NULL
-Bahamas,2007,NULL
-Bahamas,2008,NULL
-Bahamas,2009,NULL
-Bahamas,2010,NULL
-Bahamas,2011,NULL
-Bahamas,2012,NULL
-Bahamas,2013,NULL
-Bahamas,2014,NULL
-Bahamas,2015,NULL
-Bahamas,2016,NULL
-Bahamas,2017,NULL
-Bahamas,2018,NULL
-Bosnia and Herzegovina,2000,NULL
-Bosnia and Herzegovina,2001,NULL
-Bosnia and Herzegovina,2002,NULL
-Bosnia and Herzegovina,2003,NULL
-Bosnia and Herzegovina,2004,NULL
-Bosnia and Herzegovina,2005,NULL
-Bosnia and Herzegovina,2006,NULL
-Bosnia and Herzegovina,2007,NULL
-Bosnia and Herzegovina,2008,NULL
-Bosnia and Herzegovina,2009,NULL
-Bosnia and Herzegovina,2010,NULL
-Bosnia and Herzegovina,2011,NULL
-Bosnia and Herzegovina,2012,NULL
-Bosnia and Herzegovina,2013,NULL
-Bosnia and Herzegovina,2014,NULL
-Bosnia and Herzegovina,2015,NULL
-Bosnia and Herzegovina,2016,NULL
-Bosnia and Herzegovina,2017,NULL
-Bosnia and Herzegovina,2018,NULL
-Belarus,2000,NULL
-Belarus,2001,NULL
-Belarus,2002,NULL
-Belarus,2003,NULL
-Belarus,2004,NULL
-Belarus,2005,NULL
-Belarus,2006,NULL
-Belarus,2007,NULL
-Belarus,2008,NULL
-Belarus,2009,NULL
-Belarus,2010,NULL
-Belarus,2011,NULL
-Belarus,2012,NULL
-Belarus,2013,NULL
-Belarus,2014,NULL
-Belarus,2015,NULL
-Belarus,2016,NULL
-Belarus,2017,NULL
-Belarus,2018,NULL
-Belize,2000,NULL
-Belize,2001,NULL
-Belize,2002,NULL
-Belize,2003,NULL
-Belize,2004,NULL
-Belize,2005,NULL
-Belize,2006,NULL
-Belize,2007,NULL
-Belize,2008,NULL
-Belize,2009,NULL
-Belize,2010,NULL
-Belize,2011,NULL
-Belize,2012,NULL
-Belize,2013,NULL
-Belize,2014,NULL
-Belize,2015,NULL
-Belize,2016,NULL
-Belize,2017,NULL
-Belize,2018,NULL
-Bolivia (Plurinational State of),2000,NULL
-Bolivia (Plurinational State of),2001,NULL
-Bolivia (Plurinational State of),2002,NULL
-Bolivia (Plurinational State of),2003,NULL
-Bolivia (Plurinational State of),2004,NULL
-Bolivia (Plurinational State of),2005,NULL
-Bolivia (Plurinational State of),2006,NULL
-Bolivia (Plurinational State of),2007,NULL
-Bolivia (Plurinational State of),2008,NULL
-Bolivia (Plurinational State of),2009,NULL
-Bolivia (Plurinational State of),2010,NULL
-Bolivia (Plurinational State of),2011,NULL
-Bolivia (Plurinational State of),2012,NULL
-Bolivia (Plurinational State of),2013,NULL
-Bolivia (Plurinational State of),2014,NULL
-Bolivia (Plurinational State of),2015,NULL
-Bolivia (Plurinational State of),2016,NULL
-Bolivia (Plurinational State of),2017,NULL
-Bolivia (Plurinational State of),2018,NULL
-Brazil,2000,NULL
-Brazil,2001,NULL
-Brazil,2002,NULL
-Brazil,2003,NULL
-Brazil,2004,NULL
-Brazil,2005,NULL
-Brazil,2006,NULL
-Brazil,2007,NULL
-Brazil,2008,NULL
-Brazil,2009,NULL
-Brazil,2010,NULL
-Brazil,2011,NULL
-Brazil,2012,NULL
-Brazil,2013,NULL
-Brazil,2014,NULL
-Brazil,2015,NULL
-Brazil,2016,NULL
-Brazil,2017,NULL
-Brazil,2018,NULL
-Barbados,2000,NULL
-Barbados,2001,NULL
-Barbados,2002,NULL
-Barbados,2003,NULL
-Barbados,2004,NULL
-Barbados,2005,NULL
-Barbados,2006,NULL
-Barbados,2007,NULL
-Barbados,2008,NULL
-Barbados,2009,NULL
-Barbados,2010,NULL
-Barbados,2011,NULL
-Barbados,2012,NULL
-Barbados,2013,NULL
-Barbados,2014,NULL
-Barbados,2015,NULL
-Barbados,2016,NULL
-Barbados,2017,NULL
-Barbados,2018,NULL
-Brunei Darussalam,2000,NULL
-Brunei Darussalam,2001,NULL
-Brunei Darussalam,2002,NULL
-Brunei Darussalam,2003,NULL
-Brunei Darussalam,2004,NULL
-Brunei Darussalam,2005,NULL
-Brunei Darussalam,2006,NULL
-Brunei Darussalam,2007,NULL
-Brunei Darussalam,2008,NULL
-Brunei Darussalam,2009,NULL
-Brunei Darussalam,2010,NULL
-Brunei Darussalam,2011,NULL
-Brunei Darussalam,2012,NULL
-Brunei Darussalam,2013,NULL
-Brunei Darussalam,2014,NULL
-Brunei Darussalam,2015,NULL
-Brunei Darussalam,2016,NULL
-Brunei Darussalam,2017,NULL
-Brunei Darussalam,2018,NULL
-Bhutan,2000,NULL
-Bhutan,2001,NULL
-Bhutan,2002,NULL
-Bhutan,2003,NULL
-Bhutan,2004,NULL
-Bhutan,2005,NULL
-Bhutan,2006,NULL
-Bhutan,2007,NULL
-Bhutan,2008,NULL
-Bhutan,2009,NULL
-Bhutan,2010,NULL
-Bhutan,2011,NULL
-Bhutan,2012,NULL
-Bhutan,2013,NULL
-Bhutan,2014,NULL
-Bhutan,2015,NULL
-Bhutan,2016,NULL
-Bhutan,2017,NULL
-Bhutan,2018,NULL
-Botswana,2000,NULL
-Botswana,2001,NULL
-Botswana,2002,NULL
-Botswana,2003,NULL
-Botswana,2004,NULL
-Botswana,2005,NULL
-Botswana,2006,NULL
-Botswana,2007,NULL
-Botswana,2008,NULL
-Botswana,2009,NULL
-Botswana,2010,NULL
-Botswana,2011,NULL
-Botswana,2012,NULL
-Botswana,2013,NULL
-Botswana,2014,NULL
-Botswana,2015,NULL
-Botswana,2016,NULL
-Botswana,2017,NULL
-Botswana,2018,NULL
-Central African Republic,2000,NULL
-Central African Republic,2001,NULL
-Central African Republic,2002,NULL
-Central African Republic,2003,NULL
-Central African Republic,2004,NULL
-Central African Republic,2005,NULL
-Central African Republic,2006,NULL
-Central African Republic,2007,NULL
-Central African Republic,2008,NULL
-Central African Republic,2009,NULL
-Central African Republic,2010,NULL
-Central African Republic,2011,NULL
-Central African Republic,2012,NULL
-Central African Republic,2013,NULL
-Central African Republic,2014,NULL
-Central African Republic,2015,NULL
-Central African Republic,2016,NULL
-Central African Republic,2017,NULL
-Central African Republic,2018,NULL
-China,2000,NULL
-China,2001,NULL
-China,2002,NULL
-China,2003,NULL
-China,2004,NULL
-China,2005,NULL
-China,2006,NULL
-China,2007,NULL
-China,2008,NULL
-China,2009,NULL
-China,2010,NULL
-China,2011,NULL
-China,2012,NULL
-China,2013,NULL
-China,2014,NULL
-China,2015,NULL
-China,2016,NULL
-China,2017,NULL
-China,2018,NULL
-CÃ´te d'Ivoire,2000,NULL
-CÃ´te d'Ivoire,2001,NULL
-CÃ´te d'Ivoire,2002,NULL
-CÃ´te d'Ivoire,2003,NULL
-CÃ´te d'Ivoire,2004,NULL
-CÃ´te d'Ivoire,2005,NULL
-CÃ´te d'Ivoire,2006,NULL
-CÃ´te d'Ivoire,2007,NULL
-CÃ´te d'Ivoire,2008,NULL
-CÃ´te d'Ivoire,2009,NULL
-CÃ´te d'Ivoire,2010,NULL
-CÃ´te d'Ivoire,2011,NULL
-CÃ´te d'Ivoire,2012,NULL
-CÃ´te d'Ivoire,2013,NULL
-CÃ´te d'Ivoire,2014,NULL
-CÃ´te d'Ivoire,2015,NULL
-CÃ´te d'Ivoire,2016,NULL
-CÃ´te d'Ivoire,2017,NULL
-CÃ´te d'Ivoire,2018,NULL
-Cameroon,2000,NULL
-Cameroon,2001,NULL
-Cameroon,2002,NULL
-Cameroon,2003,NULL
-Cameroon,2004,NULL
-Cameroon,2005,NULL
-Cameroon,2006,NULL
-Cameroon,2007,NULL
-Cameroon,2008,NULL
-Cameroon,2009,NULL
-Cameroon,2010,NULL
-Cameroon,2011,NULL
-Cameroon,2012,NULL
-Cameroon,2013,NULL
-Cameroon,2014,NULL
-Cameroon,2015,NULL
-Cameroon,2016,NULL
-Cameroon,2017,NULL
-Cameroon,2018,NULL
-Congo (Democratic Republic of the),2000,NULL
-Congo (Democratic Republic of the),2001,NULL
-Congo (Democratic Republic of the),2002,NULL
-Congo (Democratic Republic of the),2003,NULL
-Congo (Democratic Republic of the),2004,NULL
-Congo (Democratic Republic of the),2005,NULL
-Congo (Democratic Republic of the),2006,NULL
-Congo (Democratic Republic of the),2007,NULL
-Congo (Democratic Republic of the),2008,NULL
-Congo (Democratic Republic of the),2009,NULL
-Congo (Democratic Republic of the),2010,NULL
-Congo (Democratic Republic of the),2011,NULL
-Congo (Democratic Republic of the),2012,NULL
-Congo (Democratic Republic of the),2013,NULL
-Congo (Democratic Republic of the),2014,NULL
-Congo (Democratic Republic of the),2015,NULL
-Congo (Democratic Republic of the),2016,NULL
-Congo (Democratic Republic of the),2017,NULL
-Congo (Democratic Republic of the),2018,NULL
-Congo,2000,NULL
-Congo,2001,NULL
-Congo,2002,NULL
-Congo,2003,NULL
-Congo,2004,NULL
-Congo,2005,NULL
-Congo,2006,NULL
-Congo,2007,NULL
-Congo,2008,NULL
-Congo,2009,NULL
-Congo,2010,NULL
-Congo,2011,NULL
-Congo,2012,NULL
-Congo,2013,NULL
-Congo,2014,NULL
-Congo,2015,NULL
-Congo,2016,NULL
-Congo,2017,NULL
-Congo,2018,NULL
-Comoros,2000,NULL
-Comoros,2001,NULL
-Comoros,2002,NULL
-Comoros,2003,NULL
-Comoros,2004,NULL
-Comoros,2005,NULL
-Comoros,2006,NULL
-Comoros,2007,NULL
-Comoros,2008,NULL
-Comoros,2009,NULL
-Comoros,2010,NULL
-Comoros,2011,NULL
-Comoros,2012,NULL
-Comoros,2013,NULL
-Comoros,2014,NULL
-Comoros,2015,NULL
-Comoros,2016,NULL
-Comoros,2017,NULL
-Comoros,2018,NULL
-Cabo Verde,2000,NULL
-Cabo Verde,2001,NULL
-Cabo Verde,2002,NULL
-Cabo Verde,2003,NULL
-Cabo Verde,2004,NULL
-Cabo Verde,2005,NULL
-Cabo Verde,2006,NULL
-Cabo Verde,2007,NULL
-Cabo Verde,2008,NULL
-Cabo Verde,2009,NULL
-Cabo Verde,2010,NULL
-Cabo Verde,2011,NULL
-Cabo Verde,2012,NULL
-Cabo Verde,2013,NULL
-Cabo Verde,2014,NULL
-Cabo Verde,2015,NULL
-Cabo Verde,2016,NULL
-Cabo Verde,2017,NULL
-Cabo Verde,2018,NULL
-Costa Rica,2000,NULL
-Costa Rica,2001,NULL
-Costa Rica,2002,NULL
-Costa Rica,2003,NULL
-Costa Rica,2004,NULL
-Costa Rica,2005,NULL
-Costa Rica,2006,NULL
-Costa Rica,2007,NULL
-Costa Rica,2008,NULL
-Costa Rica,2009,NULL
-Costa Rica,2010,NULL
-Costa Rica,2011,NULL
-Costa Rica,2012,NULL
-Costa Rica,2013,NULL
-Costa Rica,2014,NULL
-Costa Rica,2015,NULL
-Costa Rica,2016,NULL
-Costa Rica,2017,NULL
-Costa Rica,2018,NULL
-Cuba,2000,NULL
-Cuba,2001,NULL
-Cuba,2002,NULL
-Cuba,2003,NULL
-Cuba,2004,NULL
-Cuba,2005,NULL
-Cuba,2006,NULL
-Cuba,2007,NULL
-Cuba,2008,NULL
-Cuba,2009,NULL
-Cuba,2010,NULL
-Cuba,2011,NULL
-Cuba,2012,NULL
-Cuba,2013,NULL
-Cuba,2014,NULL
-Cuba,2015,NULL
-Cuba,2016,NULL
-Cuba,2017,NULL
-Cuba,2018,NULL
-Djibouti,2000,NULL
-Djibouti,2001,NULL
-Djibouti,2002,NULL
-Djibouti,2003,NULL
-Djibouti,2004,NULL
-Djibouti,2005,NULL
-Djibouti,2006,NULL
-Djibouti,2007,NULL
-Djibouti,2008,NULL
-Djibouti,2009,NULL
-Djibouti,2010,NULL
-Djibouti,2011,NULL
-Djibouti,2012,NULL
-Djibouti,2013,NULL
-Djibouti,2014,NULL
-Djibouti,2015,NULL
-Djibouti,2016,NULL
-Djibouti,2017,NULL
-Djibouti,2018,NULL
-Dominica,2000,NULL
-Dominica,2001,NULL
-Dominica,2002,NULL
-Dominica,2003,NULL
-Dominica,2004,NULL
-Dominica,2005,NULL
-Dominica,2006,NULL
-Dominica,2007,NULL
-Dominica,2008,NULL
-Dominica,2009,NULL
-Dominica,2010,NULL
-Dominica,2011,NULL
-Dominica,2012,NULL
-Dominica,2013,NULL
-Dominica,2014,NULL
-Dominica,2015,NULL
-Dominica,2016,NULL
-Dominica,2017,NULL
-Dominica,2018,NULL
-Dominican Republic,2000,NULL
-Dominican Republic,2001,NULL
-Dominican Republic,2002,NULL
-Dominican Republic,2003,NULL
-Dominican Republic,2004,NULL
-Dominican Republic,2005,NULL
-Dominican Republic,2006,NULL
-Dominican Republic,2007,NULL
-Dominican Republic,2008,NULL
-Dominican Republic,2009,NULL
-Dominican Republic,2010,NULL
-Dominican Republic,2011,NULL
-Dominican Republic,2012,NULL
-Dominican Republic,2013,NULL
-Dominican Republic,2014,NULL
-Dominican Republic,2015,NULL
-Dominican Republic,2016,NULL
-Dominican Republic,2017,NULL
-Dominican Republic,2018,NULL
-Algeria,2000,NULL
-Algeria,2001,NULL
-Algeria,2002,NULL
-Algeria,2003,NULL
-Algeria,2004,NULL
-Algeria,2005,NULL
-Algeria,2006,NULL
-Algeria,2007,NULL
-Algeria,2008,NULL
-Algeria,2009,NULL
-Algeria,2010,NULL
-Algeria,2011,NULL
-Algeria,2012,NULL
-Algeria,2013,NULL
-Algeria,2014,NULL
-Algeria,2015,NULL
-Algeria,2016,NULL
-Algeria,2017,NULL
-Algeria,2018,NULL
-Ecuador,2000,NULL
-Ecuador,2001,NULL
-Ecuador,2002,NULL
-Ecuador,2003,NULL
-Ecuador,2004,NULL
-Ecuador,2005,NULL
-Ecuador,2006,NULL
-Ecuador,2007,NULL
-Ecuador,2008,NULL
-Ecuador,2009,NULL
-Ecuador,2010,NULL
-Ecuador,2011,NULL
-Ecuador,2012,NULL
-Ecuador,2013,NULL
-Ecuador,2014,NULL
-Ecuador,2015,NULL
-Ecuador,2016,NULL
-Ecuador,2017,NULL
-Ecuador,2018,NULL
-Egypt,2000,NULL
-Egypt,2001,NULL
-Egypt,2002,NULL
-Egypt,2003,NULL
-Egypt,2004,NULL
-Egypt,2005,NULL
-Egypt,2006,NULL
-Egypt,2007,NULL
-Egypt,2008,NULL
-Egypt,2009,NULL
-Egypt,2010,NULL
-Egypt,2011,NULL
-Egypt,2012,NULL
-Egypt,2013,NULL
-Egypt,2014,NULL
-Egypt,2015,NULL
-Egypt,2016,NULL
-Egypt,2017,NULL
-Egypt,2018,NULL
-Eritrea,2000,NULL
-Eritrea,2001,NULL
-Eritrea,2002,NULL
-Eritrea,2003,NULL
-Eritrea,2004,NULL
-Eritrea,2005,NULL
-Eritrea,2006,NULL
-Eritrea,2007,NULL
-Eritrea,2008,NULL
-Eritrea,2009,NULL
-Eritrea,2010,NULL
-Eritrea,2011,NULL
-Eritrea,2012,NULL
-Eritrea,2013,NULL
-Eritrea,2014,NULL
-Eritrea,2015,NULL
-Eritrea,2016,NULL
-Eritrea,2017,NULL
-Eritrea,2018,NULL
-Ethiopia,2000,NULL
-Ethiopia,2001,NULL
-Ethiopia,2002,NULL
-Ethiopia,2003,NULL
-Ethiopia,2004,NULL
-Ethiopia,2005,NULL
-Ethiopia,2006,NULL
-Ethiopia,2007,NULL
-Ethiopia,2008,NULL
-Ethiopia,2009,NULL
-Ethiopia,2010,NULL
-Ethiopia,2011,NULL
-Ethiopia,2012,NULL
-Ethiopia,2013,NULL
-Ethiopia,2014,NULL
-Ethiopia,2015,NULL
-Ethiopia,2016,NULL
-Ethiopia,2017,NULL
-Ethiopia,2018,NULL
-Fiji,2000,NULL
-Fiji,2001,NULL
-Fiji,2002,NULL
-Fiji,2003,NULL
-Fiji,2004,NULL
-Fiji,2005,NULL
-Fiji,2006,NULL
-Fiji,2007,NULL
-Fiji,2008,NULL
-Fiji,2009,NULL
-Fiji,2010,NULL
-Fiji,2011,NULL
-Fiji,2012,NULL
-Fiji,2013,NULL
-Fiji,2014,NULL
-Fiji,2015,NULL
-Fiji,2016,NULL
-Fiji,2017,NULL
-Fiji,2018,NULL
-Micronesia (Federated States of),2000,NULL
-Micronesia (Federated States of),2001,NULL
-Micronesia (Federated States of),2002,NULL
-Micronesia (Federated States of),2003,NULL
-Micronesia (Federated States of),2004,NULL
-Micronesia (Federated States of),2005,NULL
-Micronesia (Federated States of),2006,NULL
-Micronesia (Federated States of),2007,NULL
-Micronesia (Federated States of),2008,NULL
-Micronesia (Federated States of),2009,NULL
-Micronesia (Federated States of),2010,NULL
-Micronesia (Federated States of),2011,NULL
-Micronesia (Federated States of),2012,NULL
-Micronesia (Federated States of),2013,NULL
-Micronesia (Federated States of),2014,NULL
-Micronesia (Federated States of),2015,NULL
-Micronesia (Federated States of),2016,NULL
-Micronesia (Federated States of),2017,NULL
-Micronesia (Federated States of),2018,NULL
-Gabon,2000,NULL
-Gabon,2001,NULL
-Gabon,2002,NULL
-Gabon,2003,NULL
-Gabon,2004,NULL
-Gabon,2005,NULL
-Gabon,2006,NULL
-Gabon,2007,NULL
-Gabon,2008,NULL
-Gabon,2009,NULL
-Gabon,2010,NULL
-Gabon,2011,NULL
-Gabon,2012,NULL
-Gabon,2013,NULL
-Gabon,2014,NULL
-Gabon,2015,NULL
-Gabon,2016,NULL
-Gabon,2017,NULL
-Gabon,2018,NULL
-Georgia,2000,NULL
-Georgia,2001,NULL
-Georgia,2002,NULL
-Georgia,2003,NULL
-Georgia,2004,NULL
-Georgia,2005,NULL
-Georgia,2006,NULL
-Georgia,2007,NULL
-Georgia,2008,NULL
-Georgia,2009,NULL
-Georgia,2010,NULL
-Georgia,2011,NULL
-Georgia,2012,NULL
-Georgia,2013,NULL
-Georgia,2014,NULL
-Georgia,2015,NULL
-Georgia,2016,NULL
-Georgia,2017,NULL
-Georgia,2018,NULL
-Ghana,2000,NULL
-Ghana,2001,NULL
-Ghana,2002,NULL
-Ghana,2003,NULL
-Ghana,2004,NULL
-Ghana,2005,NULL
-Ghana,2006,NULL
-Ghana,2007,NULL
-Ghana,2008,NULL
-Ghana,2009,NULL
-Ghana,2010,NULL
-Ghana,2011,NULL
-Ghana,2012,NULL
-Ghana,2013,NULL
-Ghana,2014,NULL
-Ghana,2015,NULL
-Ghana,2016,NULL
-Ghana,2017,NULL
-Ghana,2018,NULL
-Gambia,2000,NULL
-Gambia,2001,NULL
-Gambia,2002,NULL
-Gambia,2003,NULL
-Gambia,2004,NULL
-Gambia,2005,NULL
-Gambia,2006,NULL
-Gambia,2007,NULL
-Gambia,2008,NULL
-Gambia,2009,NULL
-Gambia,2010,NULL
-Gambia,2011,NULL
-Gambia,2012,NULL
-Gambia,2013,NULL
-Gambia,2014,NULL
-Gambia,2015,NULL
-Gambia,2016,NULL
-Gambia,2017,NULL
-Gambia,2018,NULL
-Guinea-Bissau,2000,NULL
-Guinea-Bissau,2001,NULL
-Guinea-Bissau,2002,NULL
-Guinea-Bissau,2003,NULL
-Guinea-Bissau,2004,NULL
-Guinea-Bissau,2005,NULL
-Guinea-Bissau,2006,NULL
-Guinea-Bissau,2007,NULL
-Guinea-Bissau,2008,NULL
-Guinea-Bissau,2009,NULL
-Guinea-Bissau,2010,NULL
-Guinea-Bissau,2011,NULL
-Guinea-Bissau,2012,NULL
-Guinea-Bissau,2013,NULL
-Guinea-Bissau,2014,NULL
-Guinea-Bissau,2015,NULL
-Guinea-Bissau,2016,NULL
-Guinea-Bissau,2017,NULL
-Guinea-Bissau,2018,NULL
-Equatorial Guinea,2000,NULL
-Equatorial Guinea,2001,NULL
-Equatorial Guinea,2002,NULL
-Equatorial Guinea,2003,NULL
-Equatorial Guinea,2004,NULL
-Equatorial Guinea,2005,NULL
-Equatorial Guinea,2006,NULL
-Equatorial Guinea,2007,NULL
-Equatorial Guinea,2008,NULL
-Equatorial Guinea,2009,NULL
-Equatorial Guinea,2010,NULL
-Equatorial Guinea,2011,NULL
-Equatorial Guinea,2012,NULL
-Equatorial Guinea,2013,NULL
-Equatorial Guinea,2014,NULL
-Equatorial Guinea,2015,NULL
-Equatorial Guinea,2016,NULL
-Equatorial Guinea,2017,NULL
-Equatorial Guinea,2018,NULL
-Grenada,2000,NULL
-Grenada,2001,NULL
-Grenada,2002,NULL
-Grenada,2003,NULL
-Grenada,2004,NULL
-Grenada,2005,NULL
-Grenada,2006,NULL
-Grenada,2007,NULL
-Grenada,2008,NULL
-Grenada,2009,NULL
-Grenada,2010,NULL
-Grenada,2011,NULL
-Grenada,2012,NULL
-Grenada,2013,NULL
-Grenada,2014,NULL
-Grenada,2015,NULL
-Grenada,2016,NULL
-Grenada,2017,NULL
-Grenada,2018,NULL
-Guatemala,2000,NULL
-Guatemala,2001,NULL
-Guatemala,2002,NULL
-Guatemala,2003,NULL
-Guatemala,2004,NULL
-Guatemala,2005,NULL
-Guatemala,2006,NULL
-Guatemala,2007,NULL
-Guatemala,2008,NULL
-Guatemala,2009,NULL
-Guatemala,2010,NULL
-Guatemala,2011,NULL
-Guatemala,2012,NULL
-Guatemala,2013,NULL
-Guatemala,2014,NULL
-Guatemala,2015,NULL
-Guatemala,2016,NULL
-Guatemala,2017,NULL
-Guatemala,2018,NULL
-Guyana,2000,NULL
-Guyana,2001,NULL
-Guyana,2002,NULL
-Guyana,2003,NULL
-Guyana,2004,NULL
-Guyana,2005,NULL
-Guyana,2006,NULL
-Guyana,2007,NULL
-Guyana,2008,NULL
-Guyana,2009,NULL
-Guyana,2010,NULL
-Guyana,2011,NULL
-Guyana,2012,NULL
-Guyana,2013,NULL
-Guyana,2014,NULL
-Guyana,2015,NULL
-Guyana,2016,NULL
-Guyana,2017,NULL
-Guyana,2018,NULL
-Hong Kong; China (SAR),2000,NULL
-Hong Kong; China (SAR),2001,NULL
-Hong Kong; China (SAR),2002,NULL
-Hong Kong; China (SAR),2003,NULL
-Hong Kong; China (SAR),2004,NULL
-Hong Kong; China (SAR),2005,NULL
-Hong Kong; China (SAR),2006,NULL
-Hong Kong; China (SAR),2007,NULL
-Hong Kong; China (SAR),2008,NULL
-Hong Kong; China (SAR),2009,NULL
-Hong Kong; China (SAR),2010,NULL
-Hong Kong; China (SAR),2011,NULL
-Hong Kong; China (SAR),2012,NULL
-Hong Kong; China (SAR),2013,NULL
-Hong Kong; China (SAR),2014,NULL
-Hong Kong; China (SAR),2015,NULL
-Hong Kong; China (SAR),2016,NULL
-Hong Kong; China (SAR),2017,NULL
-Hong Kong; China (SAR),2018,NULL
-Honduras,2000,NULL
-Honduras,2001,NULL
-Honduras,2002,NULL
-Honduras,2003,NULL
-Honduras,2004,NULL
-Honduras,2005,NULL
-Honduras,2006,NULL
-Honduras,2007,NULL
-Honduras,2008,NULL
-Honduras,2009,NULL
-Honduras,2010,NULL
-Honduras,2011,NULL
-Honduras,2012,NULL
-Honduras,2013,NULL
-Honduras,2014,NULL
-Honduras,2015,NULL
-Honduras,2016,NULL
-Honduras,2017,NULL
-Honduras,2018,NULL
-Haiti,2000,NULL
-Haiti,2001,NULL
-Haiti,2002,NULL
-Haiti,2003,NULL
-Haiti,2004,NULL
-Haiti,2005,NULL
-Haiti,2006,NULL
-Haiti,2007,NULL
-Haiti,2008,NULL
-Haiti,2009,NULL
-Haiti,2010,NULL
-Haiti,2011,NULL
-Haiti,2012,NULL
-Haiti,2013,NULL
-Haiti,2014,NULL
-Haiti,2015,NULL
-Haiti,2016,NULL
-Haiti,2017,NULL
-Haiti,2018,NULL
-Indonesia,2000,NULL
-Indonesia,2001,NULL
-Indonesia,2002,NULL
-Indonesia,2003,NULL
-Indonesia,2004,NULL
-Indonesia,2005,NULL
-Indonesia,2006,NULL
-Indonesia,2007,NULL
-Indonesia,2008,NULL
-Indonesia,2009,NULL
-Indonesia,2010,NULL
-Indonesia,2011,NULL
-Indonesia,2012,NULL
-Indonesia,2013,NULL
-Indonesia,2014,NULL
-Indonesia,2015,NULL
-Indonesia,2016,NULL
-Indonesia,2017,NULL
-Indonesia,2018,NULL
-India,2000,NULL
-India,2001,NULL
-India,2002,NULL
-India,2003,NULL
-India,2004,NULL
-India,2005,NULL
-India,2006,NULL
-India,2007,NULL
-India,2008,NULL
-India,2009,NULL
-India,2010,NULL
-India,2011,NULL
-India,2012,NULL
-India,2013,NULL
-India,2014,NULL
-India,2015,NULL
-India,2016,NULL
-India,2017,NULL
-India,2018,NULL
-Iran (Islamic Republic of),2000,NULL
-Iran (Islamic Republic of),2001,NULL
-Iran (Islamic Republic of),2002,NULL
-Iran (Islamic Republic of),2003,NULL
-Iran (Islamic Republic of),2004,NULL
-Iran (Islamic Republic of),2005,NULL
-Iran (Islamic Republic of),2006,NULL
-Iran (Islamic Republic of),2007,NULL
-Iran (Islamic Republic of),2008,NULL
-Iran (Islamic Republic of),2009,NULL
-Iran (Islamic Republic of),2010,NULL
-Iran (Islamic Republic of),2011,NULL
-Iran (Islamic Republic of),2012,NULL
-Iran (Islamic Republic of),2013,NULL
-Iran (Islamic Republic of),2014,NULL
-Iran (Islamic Republic of),2015,NULL
-Iran (Islamic Republic of),2016,NULL
-Iran (Islamic Republic of),2017,NULL
-Iran (Islamic Republic of),2018,NULL
-Israel,2000,NULL
-Israel,2001,NULL
-Israel,2002,NULL
-Israel,2003,NULL
-Israel,2004,NULL
-Israel,2005,NULL
-Israel,2006,NULL
-Israel,2007,NULL
-Israel,2008,NULL
-Israel,2009,NULL
-Israel,2010,NULL
-Israel,2011,NULL
-Israel,2012,NULL
-Israel,2013,NULL
-Israel,2014,NULL
-Israel,2015,NULL
-Israel,2016,NULL
-Israel,2017,NULL
-Israel,2018,NULL
-Jamaica,2000,NULL
-Jamaica,2001,NULL
-Jamaica,2002,NULL
-Jamaica,2003,NULL
-Jamaica,2004,NULL
-Jamaica,2005,NULL
-Jamaica,2006,NULL
-Jamaica,2007,NULL
-Jamaica,2008,NULL
-Jamaica,2009,NULL
-Jamaica,2010,NULL
-Jamaica,2011,NULL
-Jamaica,2012,NULL
-Jamaica,2013,NULL
-Jamaica,2014,NULL
-Jamaica,2015,NULL
-Jamaica,2016,NULL
-Jamaica,2017,NULL
-Jamaica,2018,NULL
-Jordan,2000,NULL
-Jordan,2001,NULL
-Jordan,2002,NULL
-Jordan,2003,NULL
-Jordan,2004,NULL
-Jordan,2005,NULL
-Jordan,2006,NULL
-Jordan,2007,NULL
-Jordan,2008,NULL
-Jordan,2009,NULL
-Jordan,2010,NULL
-Jordan,2011,NULL
-Jordan,2012,NULL
-Jordan,2013,NULL
-Jordan,2014,NULL
-Jordan,2015,NULL
-Jordan,2016,NULL
-Jordan,2017,NULL
-Jordan,2018,NULL
-Kazakhstan,2000,NULL
-Kazakhstan,2001,NULL
-Kazakhstan,2002,NULL
-Kazakhstan,2003,NULL
-Kazakhstan,2004,NULL
-Kazakhstan,2005,NULL
-Kazakhstan,2006,NULL
-Kazakhstan,2007,NULL
-Kazakhstan,2008,NULL
-Kazakhstan,2009,NULL
-Kazakhstan,2010,NULL
-Kazakhstan,2011,NULL
-Kazakhstan,2012,NULL
-Kazakhstan,2013,NULL
-Kazakhstan,2014,NULL
-Kazakhstan,2015,NULL
-Kazakhstan,2016,NULL
-Kazakhstan,2017,NULL
-Kazakhstan,2018,NULL
-Kenya,2000,NULL
-Kenya,2001,NULL
-Kenya,2002,NULL
-Kenya,2003,NULL
-Kenya,2004,NULL
-Kenya,2005,NULL
-Kenya,2006,NULL
-Kenya,2007,NULL
-Kenya,2008,NULL
-Kenya,2009,NULL
-Kenya,2010,NULL
-Kenya,2011,NULL
-Kenya,2012,NULL
-Kenya,2013,NULL
-Kenya,2014,NULL
-Kenya,2015,NULL
-Kenya,2016,NULL
-Kenya,2017,NULL
-Kenya,2018,NULL
-Kyrgyzstan,2000,NULL
-Kyrgyzstan,2001,NULL
-Kyrgyzstan,2002,NULL
-Kyrgyzstan,2003,NULL
-Kyrgyzstan,2004,NULL
-Kyrgyzstan,2005,NULL
-Kyrgyzstan,2006,NULL
-Kyrgyzstan,2007,NULL
-Kyrgyzstan,2008,NULL
-Kyrgyzstan,2009,NULL
-Kyrgyzstan,2010,NULL
-Kyrgyzstan,2011,NULL
-Kyrgyzstan,2012,NULL
-Kyrgyzstan,2013,NULL
-Kyrgyzstan,2014,NULL
-Kyrgyzstan,2015,NULL
-Kyrgyzstan,2016,NULL
-Kyrgyzstan,2017,NULL
-Kyrgyzstan,2018,NULL
-Cambodia,2000,NULL
-Cambodia,2001,NULL
-Cambodia,2002,NULL
-Cambodia,2003,NULL
-Cambodia,2004,NULL
-Cambodia,2005,NULL
-Cambodia,2006,NULL
-Cambodia,2007,NULL
-Cambodia,2008,NULL
-Cambodia,2009,NULL
-Cambodia,2010,NULL
-Cambodia,2011,NULL
-Cambodia,2012,NULL
-Cambodia,2013,NULL
-Cambodia,2014,NULL
-Cambodia,2015,NULL
-Cambodia,2016,NULL
-Cambodia,2017,NULL
-Cambodia,2018,NULL
-Kiribati,2000,NULL
-Kiribati,2001,NULL
-Kiribati,2002,NULL
-Kiribati,2003,NULL
-Kiribati,2004,NULL
-Kiribati,2005,NULL
-Kiribati,2006,NULL
-Kiribati,2007,NULL
-Kiribati,2008,NULL
-Kiribati,2009,NULL
-Kiribati,2010,NULL
-Kiribati,2011,NULL
-Kiribati,2012,NULL
-Kiribati,2013,NULL
-Kiribati,2014,NULL
-Kiribati,2015,NULL
-Kiribati,2016,NULL
-Kiribati,2017,NULL
-Kiribati,2018,NULL
-Saint Kitts and Nevis,2000,NULL
-Saint Kitts and Nevis,2001,NULL
-Saint Kitts and Nevis,2002,NULL
-Saint Kitts and Nevis,2003,NULL
-Saint Kitts and Nevis,2004,NULL
-Saint Kitts and Nevis,2005,NULL
-Saint Kitts and Nevis,2006,NULL
-Saint Kitts and Nevis,2007,NULL
-Saint Kitts and Nevis,2008,NULL
-Saint Kitts and Nevis,2009,NULL
-Saint Kitts and Nevis,2010,NULL
-Saint Kitts and Nevis,2011,NULL
-Saint Kitts and Nevis,2012,NULL
-Saint Kitts and Nevis,2013,NULL
-Saint Kitts and Nevis,2014,NULL
-Saint Kitts and Nevis,2015,NULL
-Saint Kitts and Nevis,2016,NULL
-Saint Kitts and Nevis,2017,NULL
-Saint Kitts and Nevis,2018,NULL
-Lao People's Democratic Republic,2000,NULL
-Lao People's Democratic Republic,2001,NULL
-Lao People's Democratic Republic,2002,NULL
-Lao People's Democratic Republic,2003,NULL
-Lao People's Democratic Republic,2004,NULL
-Lao People's Democratic Republic,2005,NULL
-Lao People's Democratic Republic,2006,NULL
-Lao People's Democratic Republic,2007,NULL
-Lao People's Democratic Republic,2008,NULL
-Lao People's Democratic Republic,2009,NULL
-Lao People's Democratic Republic,2010,NULL
-Lao People's Democratic Republic,2011,NULL
-Lao People's Democratic Republic,2012,NULL
-Lao People's Democratic Republic,2013,NULL
-Lao People's Democratic Republic,2014,NULL
-Lao People's Democratic Republic,2015,NULL
-Lao People's Democratic Republic,2016,NULL
-Lao People's Democratic Republic,2017,NULL
-Lao People's Democratic Republic,2018,NULL
-Lebanon,2000,NULL
-Lebanon,2001,NULL
-Lebanon,2002,NULL
-Lebanon,2003,NULL
-Lebanon,2004,NULL
-Lebanon,2005,NULL
-Lebanon,2006,NULL
-Lebanon,2007,NULL
-Lebanon,2008,NULL
-Lebanon,2009,NULL
-Lebanon,2010,NULL
-Lebanon,2011,NULL
-Lebanon,2012,NULL
-Lebanon,2013,NULL
-Lebanon,2014,NULL
-Lebanon,2015,NULL
-Lebanon,2016,NULL
-Lebanon,2017,NULL
-Lebanon,2018,NULL
-Liberia,2000,NULL
-Liberia,2001,NULL
-Liberia,2002,NULL
-Liberia,2003,NULL
-Liberia,2004,NULL
-Liberia,2005,NULL
-Liberia,2006,NULL
-Liberia,2007,NULL
-Liberia,2008,NULL
-Liberia,2009,NULL
-Liberia,2010,NULL
-Liberia,2011,NULL
-Liberia,2012,NULL
-Liberia,2013,NULL
-Liberia,2014,NULL
-Liberia,2015,NULL
-Liberia,2016,NULL
-Liberia,2017,NULL
-Liberia,2018,NULL
-Libya,2000,NULL
-Libya,2001,NULL
-Libya,2002,NULL
-Libya,2003,NULL
-Libya,2004,NULL
-Libya,2005,NULL
-Libya,2006,NULL
-Libya,2007,NULL
-Libya,2008,NULL
-Libya,2009,NULL
-Libya,2010,NULL
-Libya,2011,NULL
-Libya,2012,NULL
-Libya,2013,NULL
-Libya,2014,NULL
-Libya,2015,NULL
-Libya,2016,NULL
-Libya,2017,NULL
-Libya,2018,NULL
-Saint Lucia,2000,NULL
-Saint Lucia,2001,NULL
-Saint Lucia,2002,NULL
-Saint Lucia,2003,NULL
-Saint Lucia,2004,NULL
-Saint Lucia,2005,NULL
-Saint Lucia,2006,NULL
-Saint Lucia,2007,NULL
-Saint Lucia,2008,NULL
-Saint Lucia,2009,NULL
-Saint Lucia,2010,NULL
-Saint Lucia,2011,NULL
-Saint Lucia,2012,NULL
-Saint Lucia,2013,NULL
-Saint Lucia,2014,NULL
-Saint Lucia,2015,NULL
-Saint Lucia,2016,NULL
-Saint Lucia,2017,NULL
-Saint Lucia,2018,NULL
-Liechtenstein,2000,NULL
-Liechtenstein,2001,NULL
-Liechtenstein,2002,NULL
-Liechtenstein,2003,NULL
-Liechtenstein,2004,NULL
-Liechtenstein,2005,NULL
-Liechtenstein,2006,NULL
-Liechtenstein,2007,NULL
-Liechtenstein,2008,NULL
-Liechtenstein,2009,NULL
-Liechtenstein,2010,NULL
-Liechtenstein,2011,NULL
-Liechtenstein,2012,NULL
-Liechtenstein,2013,NULL
-Liechtenstein,2014,NULL
-Liechtenstein,2015,NULL
-Liechtenstein,2016,NULL
-Liechtenstein,2017,NULL
-Liechtenstein,2018,NULL
-Sri Lanka,2000,NULL
-Sri Lanka,2001,NULL
-Sri Lanka,2002,NULL
-Sri Lanka,2003,NULL
-Sri Lanka,2004,NULL
-Sri Lanka,2005,NULL
-Sri Lanka,2006,NULL
-Sri Lanka,2007,NULL
-Sri Lanka,2008,NULL
-Sri Lanka,2009,NULL
-Sri Lanka,2010,NULL
-Sri Lanka,2011,NULL
-Sri Lanka,2012,NULL
-Sri Lanka,2013,NULL
-Sri Lanka,2014,NULL
-Sri Lanka,2015,NULL
-Sri Lanka,2016,NULL
-Sri Lanka,2017,NULL
-Sri Lanka,2018,NULL
-Lesotho,2000,NULL
-Lesotho,2001,NULL
-Lesotho,2002,NULL
-Lesotho,2003,NULL
-Lesotho,2004,NULL
-Lesotho,2005,NULL
-Lesotho,2006,NULL
-Lesotho,2007,NULL
-Lesotho,2008,NULL
-Lesotho,2009,NULL
-Lesotho,2010,NULL
-Lesotho,2011,NULL
-Lesotho,2012,NULL
-Lesotho,2013,NULL
-Lesotho,2014,NULL
-Lesotho,2015,NULL
-Lesotho,2016,NULL
-Lesotho,2017,NULL
-Lesotho,2018,NULL
-Morocco,2000,NULL
-Morocco,2001,NULL
-Morocco,2002,NULL
-Morocco,2003,NULL
-Morocco,2004,NULL
-Morocco,2005,NULL
-Morocco,2006,NULL
-Morocco,2007,NULL
-Morocco,2008,NULL
-Morocco,2009,NULL
-Morocco,2010,NULL
-Morocco,2011,NULL
-Morocco,2012,NULL
-Morocco,2013,NULL
-Morocco,2014,NULL
-Morocco,2015,NULL
-Morocco,2016,NULL
-Morocco,2017,NULL
-Morocco,2018,NULL
-Madagascar,2000,NULL
-Madagascar,2001,NULL
-Madagascar,2002,NULL
-Madagascar,2003,NULL
-Madagascar,2004,NULL
-Madagascar,2005,NULL
-Madagascar,2006,NULL
-Madagascar,2007,NULL
-Madagascar,2008,NULL
-Madagascar,2009,NULL
-Madagascar,2010,NULL
-Madagascar,2011,NULL
-Madagascar,2012,NULL
-Madagascar,2013,NULL
-Madagascar,2014,NULL
-Madagascar,2015,NULL
-Madagascar,2016,NULL
-Madagascar,2017,NULL
-Madagascar,2018,NULL
-Maldives,2000,NULL
-Maldives,2001,NULL
-Maldives,2002,NULL
-Maldives,2003,NULL
-Maldives,2004,NULL
-Maldives,2005,NULL
-Maldives,2006,NULL
-Maldives,2007,NULL
-Maldives,2008,NULL
-Maldives,2009,NULL
-Maldives,2010,NULL
-Maldives,2011,NULL
-Maldives,2012,NULL
-Maldives,2013,NULL
-Maldives,2014,NULL
-Maldives,2015,NULL
-Maldives,2016,NULL
-Maldives,2017,NULL
-Maldives,2018,NULL
-Marshall Islands,2000,NULL
-Marshall Islands,2001,NULL
-Marshall Islands,2002,NULL
-Marshall Islands,2003,NULL
-Marshall Islands,2004,NULL
-Marshall Islands,2005,NULL
-Marshall Islands,2006,NULL
-Marshall Islands,2007,NULL
-Marshall Islands,2008,NULL
-Marshall Islands,2009,NULL
-Marshall Islands,2010,NULL
-Marshall Islands,2011,NULL
-Marshall Islands,2012,NULL
-Marshall Islands,2013,NULL
-Marshall Islands,2014,NULL
-Marshall Islands,2015,NULL
-Marshall Islands,2016,NULL
-Marshall Islands,2017,NULL
-Marshall Islands,2018,NULL
-Mali,2000,NULL
-Mali,2001,NULL
-Mali,2002,NULL
-Mali,2003,NULL
-Mali,2004,NULL
-Mali,2005,NULL
-Mali,2006,NULL
-Mali,2007,NULL
-Mali,2008,NULL
-Mali,2009,NULL
-Mali,2010,NULL
-Mali,2011,NULL
-Mali,2012,NULL
-Mali,2013,NULL
-Mali,2014,NULL
-Mali,2015,NULL
-Mali,2016,NULL
-Mali,2017,NULL
-Mali,2018,NULL
-Myanmar,2000,NULL
-Myanmar,2001,NULL
-Myanmar,2002,NULL
-Myanmar,2003,NULL
-Myanmar,2004,NULL
-Myanmar,2005,NULL
-Myanmar,2006,NULL
-Myanmar,2007,NULL
-Myanmar,2008,NULL
-Myanmar,2009,NULL
-Myanmar,2010,NULL
-Myanmar,2011,NULL
-Myanmar,2012,NULL
-Myanmar,2013,NULL
-Myanmar,2014,NULL
-Myanmar,2015,NULL
-Myanmar,2016,NULL
-Myanmar,2017,NULL
-Myanmar,2018,NULL
-Montenegro,2000,NULL
-Montenegro,2001,NULL
-Montenegro,2002,NULL
-Montenegro,2003,NULL
-Montenegro,2004,NULL
-Montenegro,2005,NULL
-Montenegro,2006,NULL
-Montenegro,2007,NULL
-Montenegro,2008,NULL
-Montenegro,2009,NULL
-Montenegro,2010,NULL
-Montenegro,2011,NULL
-Montenegro,2012,NULL
-Montenegro,2013,NULL
-Montenegro,2014,NULL
-Montenegro,2015,NULL
-Montenegro,2016,NULL
-Montenegro,2017,NULL
-Montenegro,2018,NULL
-Mozambique,2000,NULL
-Mozambique,2001,NULL
-Mozambique,2002,NULL
-Mozambique,2003,NULL
-Mozambique,2004,NULL
-Mozambique,2005,NULL
-Mozambique,2006,NULL
-Mozambique,2007,NULL
-Mozambique,2008,NULL
-Mozambique,2009,NULL
-Mozambique,2010,NULL
-Mozambique,2011,NULL
-Mozambique,2012,NULL
-Mozambique,2013,NULL
-Mozambique,2014,NULL
-Mozambique,2015,NULL
-Mozambique,2016,NULL
-Mozambique,2017,NULL
-Mozambique,2018,NULL
-Mauritania,2000,NULL
-Mauritania,2001,NULL
-Mauritania,2002,NULL
-Mauritania,2003,NULL
-Mauritania,2004,NULL
-Mauritania,2005,NULL
-Mauritania,2006,NULL
-Mauritania,2007,NULL
-Mauritania,2008,NULL
-Mauritania,2009,NULL
-Mauritania,2010,NULL
-Mauritania,2011,NULL
-Mauritania,2012,NULL
-Mauritania,2013,NULL
-Mauritania,2014,NULL
-Mauritania,2015,NULL
-Mauritania,2016,NULL
-Mauritania,2017,NULL
-Mauritania,2018,NULL
-Mauritius,2000,NULL
-Mauritius,2001,NULL
-Mauritius,2002,NULL
-Mauritius,2003,NULL
-Mauritius,2004,NULL
-Mauritius,2005,NULL
-Mauritius,2006,NULL
-Mauritius,2007,NULL
-Mauritius,2008,NULL
-Mauritius,2009,NULL
-Mauritius,2010,NULL
-Mauritius,2011,NULL
-Mauritius,2012,NULL
-Mauritius,2013,NULL
-Mauritius,2014,NULL
-Mauritius,2015,NULL
-Mauritius,2016,NULL
-Mauritius,2017,NULL
-Mauritius,2018,NULL
-Malawi,2000,NULL
-Malawi,2001,NULL
-Malawi,2002,NULL
-Malawi,2003,NULL
-Malawi,2004,NULL
-Malawi,2005,NULL
-Malawi,2006,NULL
-Malawi,2007,NULL
-Malawi,2008,NULL
-Malawi,2009,NULL
-Malawi,2010,NULL
-Malawi,2011,NULL
-Malawi,2012,NULL
-Malawi,2013,NULL
-Malawi,2014,NULL
-Malawi,2015,NULL
-Malawi,2016,NULL
-Malawi,2017,NULL
-Malawi,2018,NULL
-Namibia,2000,NULL
-Namibia,2001,NULL
-Namibia,2002,NULL
-Namibia,2003,NULL
-Namibia,2004,NULL
-Namibia,2005,NULL
-Namibia,2006,NULL
-Namibia,2007,NULL
-Namibia,2008,NULL
-Namibia,2009,NULL
-Namibia,2010,NULL
-Namibia,2011,NULL
-Namibia,2012,NULL
-Namibia,2013,NULL
-Namibia,2014,NULL
-Namibia,2015,NULL
-Namibia,2016,NULL
-Namibia,2017,NULL
-Namibia,2018,NULL
-Niger,2000,NULL
-Niger,2001,NULL
-Niger,2002,NULL
-Niger,2003,NULL
-Niger,2004,NULL
-Niger,2005,NULL
-Niger,2006,NULL
-Niger,2007,NULL
-Niger,2008,NULL
-Niger,2009,NULL
-Niger,2010,NULL
-Niger,2011,NULL
-Niger,2012,NULL
-Niger,2013,NULL
-Niger,2014,NULL
-Niger,2015,NULL
-Niger,2016,NULL
-Niger,2017,NULL
-Niger,2018,NULL
-Nigeria,2000,NULL
-Nigeria,2001,NULL
-Nigeria,2002,NULL
-Nigeria,2003,NULL
-Nigeria,2004,NULL
-Nigeria,2005,NULL
-Nigeria,2006,NULL
-Nigeria,2007,NULL
-Nigeria,2008,NULL
-Nigeria,2009,NULL
-Nigeria,2010,NULL
-Nigeria,2011,NULL
-Nigeria,2012,NULL
-Nigeria,2013,NULL
-Nigeria,2014,NULL
-Nigeria,2015,NULL
-Nigeria,2016,NULL
-Nigeria,2017,NULL
-Nigeria,2018,NULL
-Nicaragua,2000,NULL
-Nicaragua,2001,NULL
-Nicaragua,2002,NULL
-Nicaragua,2003,NULL
-Nicaragua,2004,NULL
-Nicaragua,2005,NULL
-Nicaragua,2006,NULL
-Nicaragua,2007,NULL
-Nicaragua,2008,NULL
-Nicaragua,2009,NULL
-Nicaragua,2010,NULL
-Nicaragua,2011,NULL
-Nicaragua,2012,NULL
-Nicaragua,2013,NULL
-Nicaragua,2014,NULL
-Nicaragua,2015,NULL
-Nicaragua,2016,NULL
-Nicaragua,2017,NULL
-Nicaragua,2018,NULL
-Nepal,2000,NULL
-Nepal,2001,NULL
-Nepal,2002,NULL
-Nepal,2003,NULL
-Nepal,2004,NULL
-Nepal,2005,NULL
-Nepal,2006,NULL
-Nepal,2007,NULL
-Nepal,2008,NULL
-Nepal,2009,NULL
-Nepal,2010,NULL
-Nepal,2011,NULL
-Nepal,2012,NULL
-Nepal,2013,NULL
-Nepal,2014,NULL
-Nepal,2015,NULL
-Nepal,2016,NULL
-Nepal,2017,NULL
-Nepal,2018,NULL
-Oman,2000,NULL
-Oman,2001,NULL
-Oman,2002,NULL
-Oman,2003,NULL
-Oman,2004,NULL
-Oman,2005,NULL
-Oman,2006,NULL
-Oman,2007,NULL
-Oman,2008,NULL
-Oman,2009,NULL
-Oman,2010,NULL
-Oman,2011,NULL
-Oman,2012,NULL
-Oman,2013,NULL
-Oman,2014,NULL
-Oman,2015,NULL
-Oman,2016,NULL
-Oman,2017,NULL
-Oman,2018,NULL
-Pakistan,2000,NULL
-Pakistan,2001,NULL
-Pakistan,2002,NULL
-Pakistan,2003,NULL
-Pakistan,2004,NULL
-Pakistan,2005,NULL
-Pakistan,2006,NULL
-Pakistan,2007,NULL
-Pakistan,2008,NULL
-Pakistan,2009,NULL
-Pakistan,2010,NULL
-Pakistan,2011,NULL
-Pakistan,2012,NULL
-Pakistan,2013,NULL
-Pakistan,2014,NULL
-Pakistan,2015,NULL
-Pakistan,2016,NULL
-Pakistan,2017,NULL
-Pakistan,2018,NULL
-Panama,2000,NULL
-Panama,2001,NULL
-Panama,2002,NULL
-Panama,2003,NULL
-Panama,2004,NULL
-Panama,2005,NULL
-Panama,2006,NULL
-Panama,2007,NULL
-Panama,2008,NULL
-Panama,2009,NULL
-Panama,2010,NULL
-Panama,2011,NULL
-Panama,2012,NULL
-Panama,2013,NULL
-Panama,2014,NULL
-Panama,2015,NULL
-Panama,2016,NULL
-Panama,2017,NULL
-Panama,2018,NULL
-Palau,2000,NULL
-Palau,2001,NULL
-Palau,2002,NULL
-Palau,2003,NULL
-Palau,2004,NULL
-Palau,2005,NULL
-Palau,2006,NULL
-Palau,2007,NULL
-Palau,2008,NULL
-Palau,2009,NULL
-Palau,2010,NULL
-Palau,2011,NULL
-Palau,2012,NULL
-Palau,2013,NULL
-Palau,2014,NULL
-Palau,2015,NULL
-Palau,2016,NULL
-Palau,2017,NULL
-Palau,2018,NULL
-Papua New Guinea,2000,NULL
-Papua New Guinea,2001,NULL
-Papua New Guinea,2002,NULL
-Papua New Guinea,2003,NULL
-Papua New Guinea,2004,NULL
-Papua New Guinea,2005,NULL
-Papua New Guinea,2006,NULL
-Papua New Guinea,2007,NULL
-Papua New Guinea,2008,NULL
-Papua New Guinea,2009,NULL
-Papua New Guinea,2010,NULL
-Papua New Guinea,2011,NULL
-Papua New Guinea,2012,NULL
-Papua New Guinea,2013,NULL
-Papua New Guinea,2014,NULL
-Papua New Guinea,2015,NULL
-Papua New Guinea,2016,NULL
-Papua New Guinea,2017,NULL
-Papua New Guinea,2018,NULL
-Paraguay,2000,NULL
-Paraguay,2001,NULL
-Paraguay,2002,NULL
-Paraguay,2003,NULL
-Paraguay,2004,NULL
-Paraguay,2005,NULL
-Paraguay,2006,NULL
-Paraguay,2007,NULL
-Paraguay,2008,NULL
-Paraguay,2009,NULL
-Paraguay,2010,NULL
-Paraguay,2011,NULL
-Paraguay,2012,NULL
-Paraguay,2013,NULL
-Paraguay,2014,NULL
-Paraguay,2015,NULL
-Paraguay,2016,NULL
-Paraguay,2017,NULL
-Paraguay,2018,NULL
-Palestine; State of,2000,NULL
-Palestine; State of,2001,NULL
-Palestine; State of,2002,NULL
-Palestine; State of,2003,NULL
-Palestine; State of,2004,NULL
-Palestine; State of,2005,NULL
-Palestine; State of,2006,NULL
-Palestine; State of,2007,NULL
-Palestine; State of,2008,NULL
-Palestine; State of,2009,NULL
-Palestine; State of,2010,NULL
-Palestine; State of,2011,NULL
-Palestine; State of,2012,NULL
-Palestine; State of,2013,NULL
-Palestine; State of,2014,NULL
-Palestine; State of,2015,NULL
-Palestine; State of,2016,NULL
-Palestine; State of,2017,NULL
-Palestine; State of,2018,NULL
-Romania,2000,NULL
-Romania,2001,NULL
-Romania,2002,NULL
-Romania,2003,NULL
-Romania,2004,NULL
-Romania,2005,NULL
-Romania,2006,NULL
-Romania,2007,NULL
-Romania,2008,NULL
-Romania,2009,NULL
-Romania,2010,NULL
-Romania,2011,NULL
-Romania,2012,NULL
-Romania,2013,NULL
-Romania,2014,NULL
-Romania,2015,NULL
-Romania,2016,NULL
-Romania,2017,NULL
-Romania,2018,NULL
-Rwanda,2000,NULL
-Rwanda,2001,NULL
-Rwanda,2002,NULL
-Rwanda,2003,NULL
-Rwanda,2004,NULL
-Rwanda,2005,NULL
-Rwanda,2006,NULL
-Rwanda,2007,NULL
-Rwanda,2008,NULL
-Rwanda,2009,NULL
-Rwanda,2010,NULL
-Rwanda,2011,NULL
-Rwanda,2012,NULL
-Rwanda,2013,NULL
-Rwanda,2014,NULL
-Rwanda,2015,NULL
-Rwanda,2016,NULL
-Rwanda,2017,NULL
-Rwanda,2018,NULL
-Saudi Arabia,2000,NULL
-Saudi Arabia,2001,NULL
-Saudi Arabia,2002,NULL
-Saudi Arabia,2003,NULL
-Saudi Arabia,2004,NULL
-Saudi Arabia,2005,NULL
-Saudi Arabia,2006,NULL
-Saudi Arabia,2007,NULL
-Saudi Arabia,2008,NULL
-Saudi Arabia,2009,NULL
-Saudi Arabia,2010,NULL
-Saudi Arabia,2011,NULL
-Saudi Arabia,2012,NULL
-Saudi Arabia,2013,NULL
-Saudi Arabia,2014,NULL
-Saudi Arabia,2015,NULL
-Saudi Arabia,2016,NULL
-Saudi Arabia,2017,NULL
-Saudi Arabia,2018,NULL
-Sudan,2000,NULL
-Sudan,2001,NULL
-Sudan,2002,NULL
-Sudan,2003,NULL
-Sudan,2004,NULL
-Sudan,2005,NULL
-Sudan,2006,NULL
-Sudan,2007,NULL
-Sudan,2008,NULL
-Sudan,2009,NULL
-Sudan,2010,NULL
-Sudan,2011,NULL
-Sudan,2012,NULL
-Sudan,2013,NULL
-Sudan,2014,NULL
-Sudan,2015,NULL
-Sudan,2016,NULL
-Sudan,2017,NULL
-Sudan,2018,NULL
-Senegal,2000,NULL
-Senegal,2001,NULL
-Senegal,2002,NULL
-Senegal,2003,NULL
-Senegal,2004,NULL
-Senegal,2005,NULL
-Senegal,2006,NULL
-Senegal,2007,NULL
-Senegal,2008,NULL
-Senegal,2009,NULL
-Senegal,2010,NULL
-Senegal,2011,NULL
-Senegal,2012,NULL
-Senegal,2013,NULL
-Senegal,2014,NULL
-Senegal,2015,NULL
-Senegal,2016,NULL
-Senegal,2017,NULL
-Senegal,2018,NULL
-Singapore,2000,NULL
-Singapore,2001,NULL
-Singapore,2002,NULL
-Singapore,2003,NULL
-Singapore,2004,NULL
-Singapore,2005,NULL
-Singapore,2006,NULL
-Singapore,2007,NULL
-Singapore,2008,NULL
-Singapore,2009,NULL
-Singapore,2010,NULL
-Singapore,2011,NULL
-Singapore,2012,NULL
-Singapore,2013,NULL
-Singapore,2014,NULL
-Singapore,2015,NULL
-Singapore,2016,NULL
-Singapore,2017,NULL
-Singapore,2018,NULL
-Solomon Islands,2000,NULL
-Solomon Islands,2001,NULL
-Solomon Islands,2002,NULL
-Solomon Islands,2003,NULL
-Solomon Islands,2004,NULL
-Solomon Islands,2005,NULL
-Solomon Islands,2006,NULL
-Solomon Islands,2007,NULL
-Solomon Islands,2008,NULL
-Solomon Islands,2009,NULL
-Solomon Islands,2010,NULL
-Solomon Islands,2011,NULL
-Solomon Islands,2012,NULL
-Solomon Islands,2013,NULL
-Solomon Islands,2014,NULL
-Solomon Islands,2015,NULL
-Solomon Islands,2016,NULL
-Solomon Islands,2017,NULL
-Solomon Islands,2018,NULL
-Sierra Leone,2000,NULL
-Sierra Leone,2001,NULL
-Sierra Leone,2002,NULL
-Sierra Leone,2003,NULL
-Sierra Leone,2004,NULL
-Sierra Leone,2005,NULL
-Sierra Leone,2006,NULL
-Sierra Leone,2007,NULL
-Sierra Leone,2008,NULL
-Sierra Leone,2009,NULL
-Sierra Leone,2010,NULL
-Sierra Leone,2011,NULL
-Sierra Leone,2012,NULL
-Sierra Leone,2013,NULL
-Sierra Leone,2014,NULL
-Sierra Leone,2015,NULL
-Sierra Leone,2016,NULL
-Sierra Leone,2017,NULL
-Sierra Leone,2018,NULL
-El Salvador,2000,NULL
-El Salvador,2001,NULL
-El Salvador,2002,NULL
-El Salvador,2003,NULL
-El Salvador,2004,NULL
-El Salvador,2005,NULL
-El Salvador,2006,NULL
-El Salvador,2007,NULL
-El Salvador,2008,NULL
-El Salvador,2009,NULL
-El Salvador,2010,NULL
-El Salvador,2011,NULL
-El Salvador,2012,NULL
-El Salvador,2013,NULL
-El Salvador,2014,NULL
-El Salvador,2015,NULL
-El Salvador,2016,NULL
-El Salvador,2017,NULL
-El Salvador,2018,NULL
-South Sudan,2000,NULL
-South Sudan,2001,NULL
-South Sudan,2002,NULL
-South Sudan,2003,NULL
-South Sudan,2004,NULL
-South Sudan,2005,NULL
-South Sudan,2006,NULL
-South Sudan,2007,NULL
-South Sudan,2008,NULL
-South Sudan,2009,NULL
-South Sudan,2010,NULL
-South Sudan,2011,NULL
-South Sudan,2012,NULL
-South Sudan,2013,NULL
-South Sudan,2014,NULL
-South Sudan,2015,NULL
-South Sudan,2016,NULL
-South Sudan,2017,NULL
-South Sudan,2018,NULL
-Sao Tome and Principe,2000,NULL
-Sao Tome and Principe,2001,NULL
-Sao Tome and Principe,2002,NULL
-Sao Tome and Principe,2003,NULL
-Sao Tome and Principe,2004,NULL
-Sao Tome and Principe,2005,NULL
-Sao Tome and Principe,2006,NULL
-Sao Tome and Principe,2007,NULL
-Sao Tome and Principe,2008,NULL
-Sao Tome and Principe,2009,NULL
-Sao Tome and Principe,2010,NULL
-Sao Tome and Principe,2011,NULL
-Sao Tome and Principe,2012,NULL
-Sao Tome and Principe,2013,NULL
-Sao Tome and Principe,2014,NULL
-Sao Tome and Principe,2015,NULL
-Sao Tome and Principe,2016,NULL
-Sao Tome and Principe,2017,NULL
-Sao Tome and Principe,2018,NULL
-Suriname,2000,NULL
-Suriname,2001,NULL
-Suriname,2002,NULL
-Suriname,2003,NULL
-Suriname,2004,NULL
-Suriname,2005,NULL
-Suriname,2006,NULL
-Suriname,2007,NULL
-Suriname,2008,NULL
-Suriname,2009,NULL
-Suriname,2010,NULL
-Suriname,2011,NULL
-Suriname,2012,NULL
-Suriname,2013,NULL
-Suriname,2014,NULL
-Suriname,2015,NULL
-Suriname,2016,NULL
-Suriname,2017,NULL
-Suriname,2018,NULL
-Eswatini (Kingdom of),2000,NULL
-Eswatini (Kingdom of),2001,NULL
-Eswatini (Kingdom of),2002,NULL
-Eswatini (Kingdom of),2003,NULL
-Eswatini (Kingdom of),2004,NULL
-Eswatini (Kingdom of),2005,NULL
-Eswatini (Kingdom of),2006,NULL
-Eswatini (Kingdom of),2007,NULL
-Eswatini (Kingdom of),2008,NULL
-Eswatini (Kingdom of),2009,NULL
-Eswatini (Kingdom of),2010,NULL
-Eswatini (Kingdom of),2011,NULL
-Eswatini (Kingdom of),2012,NULL
-Eswatini (Kingdom of),2013,NULL
-Eswatini (Kingdom of),2014,NULL
-Eswatini (Kingdom of),2015,NULL
-Eswatini (Kingdom of),2016,NULL
-Eswatini (Kingdom of),2017,NULL
-Eswatini (Kingdom of),2018,NULL
-Seychelles,2000,NULL
-Seychelles,2001,NULL
-Seychelles,2002,NULL
-Seychelles,2003,NULL
-Seychelles,2004,NULL
-Seychelles,2005,NULL
-Seychelles,2006,NULL
-Seychelles,2007,NULL
-Seychelles,2008,NULL
-Seychelles,2009,NULL
-Seychelles,2010,NULL
-Seychelles,2011,NULL
-Seychelles,2012,NULL
-Seychelles,2013,NULL
-Seychelles,2014,NULL
-Seychelles,2015,NULL
-Seychelles,2016,NULL
-Seychelles,2017,NULL
-Seychelles,2018,NULL
-Syrian Arab Republic,2000,NULL
-Syrian Arab Republic,2001,NULL
-Syrian Arab Republic,2002,NULL
-Syrian Arab Republic,2003,NULL
-Syrian Arab Republic,2004,NULL
-Syrian Arab Republic,2005,NULL
-Syrian Arab Republic,2006,NULL
-Syrian Arab Republic,2007,NULL
-Syrian Arab Republic,2008,NULL
-Syrian Arab Republic,2009,NULL
-Syrian Arab Republic,2010,NULL
-Syrian Arab Republic,2011,NULL
-Syrian Arab Republic,2012,NULL
-Syrian Arab Republic,2013,NULL
-Syrian Arab Republic,2014,NULL
-Syrian Arab Republic,2015,NULL
-Syrian Arab Republic,2016,NULL
-Syrian Arab Republic,2017,NULL
-Syrian Arab Republic,2018,NULL
-Chad,2000,NULL
-Chad,2001,NULL
-Chad,2002,NULL
-Chad,2003,NULL
-Chad,2004,NULL
-Chad,2005,NULL
-Chad,2006,NULL
-Chad,2007,NULL
-Chad,2008,NULL
-Chad,2009,NULL
-Chad,2010,NULL
-Chad,2011,NULL
-Chad,2012,NULL
-Chad,2013,NULL
-Chad,2014,NULL
-Chad,2015,NULL
-Chad,2016,NULL
-Chad,2017,NULL
-Chad,2018,NULL
-Togo,2000,NULL
-Togo,2001,NULL
-Togo,2002,NULL
-Togo,2003,NULL
-Togo,2004,NULL
-Togo,2005,NULL
-Togo,2006,NULL
-Togo,2007,NULL
-Togo,2008,NULL
-Togo,2009,NULL
-Togo,2010,NULL
-Togo,2011,NULL
-Togo,2012,NULL
-Togo,2013,NULL
-Togo,2014,NULL
-Togo,2015,NULL
-Togo,2016,NULL
-Togo,2017,NULL
-Togo,2018,NULL
-Thailand,2000,NULL
-Thailand,2001,NULL
-Thailand,2002,NULL
-Thailand,2003,NULL
-Thailand,2004,NULL
-Thailand,2005,NULL
-Thailand,2006,NULL
-Thailand,2007,NULL
-Thailand,2008,NULL
-Thailand,2009,NULL
-Thailand,2010,NULL
-Thailand,2011,NULL
-Thailand,2012,NULL
-Thailand,2013,NULL
-Thailand,2014,NULL
-Thailand,2015,NULL
-Thailand,2016,NULL
-Thailand,2017,NULL
-Thailand,2018,NULL
-Tajikistan,2000,NULL
-Tajikistan,2001,NULL
-Tajikistan,2002,NULL
-Tajikistan,2003,NULL
-Tajikistan,2004,NULL
-Tajikistan,2005,NULL
-Tajikistan,2006,NULL
-Tajikistan,2007,NULL
-Tajikistan,2008,NULL
-Tajikistan,2009,NULL
-Tajikistan,2010,NULL
-Tajikistan,2011,NULL
-Tajikistan,2012,NULL
-Tajikistan,2013,NULL
-Tajikistan,2014,NULL
-Tajikistan,2015,NULL
-Tajikistan,2016,NULL
-Tajikistan,2017,NULL
-Tajikistan,2018,NULL
-Turkmenistan,2000,NULL
-Turkmenistan,2001,NULL
-Turkmenistan,2002,NULL
-Turkmenistan,2003,NULL
-Turkmenistan,2004,NULL
-Turkmenistan,2005,NULL
-Turkmenistan,2006,NULL
-Turkmenistan,2007,NULL
-Turkmenistan,2008,NULL
-Turkmenistan,2009,NULL
-Turkmenistan,2010,NULL
-Turkmenistan,2011,NULL
-Turkmenistan,2012,NULL
-Turkmenistan,2013,NULL
-Turkmenistan,2014,NULL
-Turkmenistan,2015,NULL
-Turkmenistan,2016,NULL
-Turkmenistan,2017,NULL
-Turkmenistan,2018,NULL
-Timor-Leste,2000,NULL
-Timor-Leste,2001,NULL
-Timor-Leste,2002,NULL
-Timor-Leste,2003,NULL
-Timor-Leste,2004,NULL
-Timor-Leste,2005,NULL
-Timor-Leste,2006,NULL
-Timor-Leste,2007,NULL
-Timor-Leste,2008,NULL
-Timor-Leste,2009,NULL
-Timor-Leste,2010,NULL
-Timor-Leste,2011,NULL
-Timor-Leste,2012,NULL
-Timor-Leste,2013,NULL
-Timor-Leste,2014,NULL
-Timor-Leste,2015,NULL
-Timor-Leste,2016,NULL
-Timor-Leste,2017,NULL
-Timor-Leste,2018,NULL
-Tonga,2000,NULL
-Tonga,2001,NULL
-Tonga,2002,NULL
-Tonga,2003,NULL
-Tonga,2004,NULL
-Tonga,2005,NULL
-Tonga,2006,NULL
-Tonga,2007,NULL
-Tonga,2008,NULL
-Tonga,2009,NULL
-Tonga,2010,NULL
-Tonga,2011,NULL
-Tonga,2012,NULL
-Tonga,2013,NULL
-Tonga,2014,NULL
-Tonga,2015,NULL
-Tonga,2016,NULL
-Tonga,2017,NULL
-Tonga,2018,NULL
-Trinidad and Tobago,2000,NULL
-Trinidad and Tobago,2001,NULL
-Trinidad and Tobago,2002,NULL
-Trinidad and Tobago,2003,NULL
-Trinidad and Tobago,2004,NULL
-Trinidad and Tobago,2005,NULL
-Trinidad and Tobago,2006,NULL
-Trinidad and Tobago,2007,NULL
-Trinidad and Tobago,2008,NULL
-Trinidad and Tobago,2009,NULL
-Trinidad and Tobago,2010,NULL
-Trinidad and Tobago,2011,NULL
-Trinidad and Tobago,2012,NULL
-Trinidad and Tobago,2013,NULL
-Trinidad and Tobago,2014,NULL
-Trinidad and Tobago,2015,NULL
-Trinidad and Tobago,2016,NULL
-Trinidad and Tobago,2017,NULL
-Trinidad and Tobago,2018,NULL
-Tunisia,2000,NULL
-Tunisia,2001,NULL
-Tunisia,2002,NULL
-Tunisia,2003,NULL
-Tunisia,2004,NULL
-Tunisia,2005,NULL
-Tunisia,2006,NULL
-Tunisia,2007,NULL
-Tunisia,2008,NULL
-Tunisia,2009,NULL
-Tunisia,2010,NULL
-Tunisia,2011,NULL
-Tunisia,2012,NULL
-Tunisia,2013,NULL
-Tunisia,2014,NULL
-Tunisia,2015,NULL
-Tunisia,2016,NULL
-Tunisia,2017,NULL
-Tunisia,2018,NULL
-Tanzania (United Republic of),2000,NULL
-Tanzania (United Republic of),2001,NULL
-Tanzania (United Republic of),2002,NULL
-Tanzania (United Republic of),2003,NULL
-Tanzania (United Republic of),2004,NULL
-Tanzania (United Republic of),2005,NULL
-Tanzania (United Republic of),2006,NULL
-Tanzania (United Republic of),2007,NULL
-Tanzania (United Republic of),2008,NULL
-Tanzania (United Republic of),2009,NULL
-Tanzania (United Republic of),2010,NULL
-Tanzania (United Republic of),2011,NULL
-Tanzania (United Republic of),2012,NULL
-Tanzania (United Republic of),2013,NULL
-Tanzania (United Republic of),2014,NULL
-Tanzania (United Republic of),2015,NULL
-Tanzania (United Republic of),2016,NULL
-Tanzania (United Republic of),2017,NULL
-Tanzania (United Republic of),2018,NULL
-Uganda,2000,NULL
-Uganda,2001,NULL
-Uganda,2002,NULL
-Uganda,2003,NULL
-Uganda,2004,NULL
-Uganda,2005,NULL
-Uganda,2006,NULL
-Uganda,2007,NULL
-Uganda,2008,NULL
-Uganda,2009,NULL
-Uganda,2010,NULL
-Uganda,2011,NULL
-Uganda,2012,NULL
-Uganda,2013,NULL
-Uganda,2014,NULL
-Uganda,2015,NULL
-Uganda,2016,NULL
-Uganda,2017,NULL
-Uganda,2018,NULL
-Uruguay,2000,NULL
-Uruguay,2001,NULL
-Uruguay,2002,NULL
-Uruguay,2003,NULL
-Uruguay,2004,NULL
-Uruguay,2005,NULL
-Uruguay,2006,NULL
-Uruguay,2007,NULL
-Uruguay,2008,NULL
-Uruguay,2009,NULL
-Uruguay,2010,NULL
-Uruguay,2011,NULL
-Uruguay,2012,NULL
-Uruguay,2013,NULL
-Uruguay,2014,NULL
-Uruguay,2015,NULL
-Uruguay,2016,NULL
-Uruguay,2017,NULL
-Uruguay,2018,NULL
-Uzbekistan,2000,NULL
-Uzbekistan,2001,NULL
-Uzbekistan,2002,NULL
-Uzbekistan,2003,NULL
-Uzbekistan,2004,NULL
-Uzbekistan,2005,NULL
-Uzbekistan,2006,NULL
-Uzbekistan,2007,NULL
-Uzbekistan,2008,NULL
-Uzbekistan,2009,NULL
-Uzbekistan,2010,NULL
-Uzbekistan,2011,NULL
-Uzbekistan,2012,NULL
-Uzbekistan,2013,NULL
-Uzbekistan,2014,NULL
-Uzbekistan,2015,NULL
-Uzbekistan,2016,NULL
-Uzbekistan,2017,NULL
-Uzbekistan,2018,NULL
-Saint Vincent and the Grenadines,2000,NULL
-Saint Vincent and the Grenadines,2001,NULL
-Saint Vincent and the Grenadines,2002,NULL
-Saint Vincent and the Grenadines,2003,NULL
-Saint Vincent and the Grenadines,2004,NULL
-Saint Vincent and the Grenadines,2005,NULL
-Saint Vincent and the Grenadines,2006,NULL
-Saint Vincent and the Grenadines,2007,NULL
-Saint Vincent and the Grenadines,2008,NULL
-Saint Vincent and the Grenadines,2009,NULL
-Saint Vincent and the Grenadines,2010,NULL
-Saint Vincent and the Grenadines,2011,NULL
-Saint Vincent and the Grenadines,2012,NULL
-Saint Vincent and the Grenadines,2013,NULL
-Saint Vincent and the Grenadines,2014,NULL
-Saint Vincent and the Grenadines,2015,NULL
-Saint Vincent and the Grenadines,2016,NULL
-Saint Vincent and the Grenadines,2017,NULL
-Saint Vincent and the Grenadines,2018,NULL
-Viet Nam,2000,NULL
-Viet Nam,2001,NULL
-Viet Nam,2002,NULL
-Viet Nam,2003,NULL
-Viet Nam,2004,NULL
-Viet Nam,2005,NULL
-Viet Nam,2006,NULL
-Viet Nam,2007,NULL
-Viet Nam,2008,NULL
-Viet Nam,2009,NULL
-Viet Nam,2010,NULL
-Viet Nam,2011,NULL
-Viet Nam,2012,NULL
-Viet Nam,2013,NULL
-Viet Nam,2014,NULL
-Viet Nam,2015,NULL
-Viet Nam,2016,NULL
-Viet Nam,2017,NULL
-Viet Nam,2018,NULL
-Vanuatu,2000,NULL
-Vanuatu,2001,NULL
-Vanuatu,2002,NULL
-Vanuatu,2003,NULL
-Vanuatu,2004,NULL
-Vanuatu,2005,NULL
-Vanuatu,2006,NULL
-Vanuatu,2007,NULL
-Vanuatu,2008,NULL
-Vanuatu,2009,NULL
-Vanuatu,2010,NULL
-Vanuatu,2011,NULL
-Vanuatu,2012,NULL
-Vanuatu,2013,NULL
-Vanuatu,2014,NULL
-Vanuatu,2015,NULL
-Vanuatu,2016,NULL
-Vanuatu,2017,NULL
-Vanuatu,2018,NULL
-Samoa,2000,NULL
-Samoa,2001,NULL
-Samoa,2002,NULL
-Samoa,2003,NULL
-Samoa,2004,NULL
-Samoa,2005,NULL
-Samoa,2006,NULL
-Samoa,2007,NULL
-Samoa,2008,NULL
-Samoa,2009,NULL
-Samoa,2010,NULL
-Samoa,2011,NULL
-Samoa,2012,NULL
-Samoa,2013,NULL
-Samoa,2014,NULL
-Samoa,2015,NULL
-Samoa,2016,NULL
-Samoa,2017,NULL
-Samoa,2018,NULL
-Yemen,2000,NULL
-Yemen,2001,NULL
-Yemen,2002,NULL
-Yemen,2003,NULL
-Yemen,2004,NULL
-Yemen,2005,NULL
-Yemen,2006,NULL
-Yemen,2007,NULL
-Yemen,2008,NULL
-Yemen,2009,NULL
-Yemen,2010,NULL
-Yemen,2011,NULL
-Yemen,2012,NULL
-Yemen,2013,NULL
-Yemen,2014,NULL
-Yemen,2015,NULL
-Yemen,2016,NULL
-Yemen,2017,NULL
-Yemen,2018,NULL
-South Africa,2000,NULL
-South Africa,2001,NULL
-South Africa,2002,NULL
-South Africa,2003,NULL
-South Africa,2004,NULL
-South Africa,2005,NULL
-South Africa,2006,NULL
-South Africa,2007,NULL
-South Africa,2008,NULL
-South Africa,2009,NULL
-South Africa,2010,NULL
-South Africa,2011,NULL
-South Africa,2012,NULL
-South Africa,2013,NULL
-South Africa,2014,NULL
-South Africa,2015,NULL
-South Africa,2016,NULL
-South Africa,2017,NULL
-South Africa,2018,NULL
-Zambia,2000,NULL
-Zambia,2001,NULL
-Zambia,2002,NULL
-Zambia,2003,NULL
-Zambia,2004,NULL
-Zambia,2005,NULL
-Zambia,2006,NULL
-Zambia,2007,NULL
-Zambia,2008,NULL
-Zambia,2009,NULL
-Zambia,2010,NULL
-Zambia,2011,NULL
-Zambia,2012,NULL
-Zambia,2013,NULL
-Zambia,2014,NULL
-Zambia,2015,NULL
-Zambia,2016,NULL
-Zambia,2017,NULL
-Zambia,2018,NULL
-Human Development,2000, 
-Human Development,2001, 
-Human Development,2002, 
-Human Development,2003, 
-Human Development,2004, 
-Human Development,2005,NULL
-Human Development,2006,NULL
-Human Development,2007,NULL
-Human Development,2008,NULL
-Human Development,2009,NULL
-Human Development,2010,NULL
-Human Development,2011,NULL
-Human Development,2012,NULL
-Human Development,2013,NULL
-Human Development,2014,NULL
-Human Development,2015,NULL
-Human Development,2016,NULL
-Human Development,2017,NULL
-Human Development,2018,NULL
-Very high human development,2000,59.5
-Very high human development,2001,59.5
-Very high human development,2002,59.5
-Very high human development,2003,59.5
-Very high human development,2004,59.5
-Very high human development,2005,56.8
-Very high human development,2006,56.8
-Very high human development,2007,56.8
-Very high human development,2008,56.8
-Very high human development,2009,56.8
-Very high human development,2010,56.1
-Very high human development,2011,55.5
-Very high human development,2012,55.6
-Very high human development,2013,55.3
-Very high human development,2014,55.4
-Very high human development,2015,55.5
-Very high human development,2016,55.9
-Very high human development,2017,55.8
-Very high human development,2018,56
-High human development,2000,NULL
-High human development,2001,NULL
-High human development,2002,NULL
-High human development,2003,NULL
-High human development,2004,NULL
-High human development,2005,NULL
-High human development,2006,NULL
-High human development,2007,NULL
-High human development,2008,NULL
-High human development,2009,NULL
-High human development,2010,NULL
-High human development,2011,NULL
-High human development,2012,NULL
-High human development,2013,NULL
-High human development,2014,NULL
-High human development,2015,NULL
-High human development,2016,NULL
-High human development,2017,NULL
-High human development,2018,NULL
-Medium human development,2000,NULL
-Medium human development,2001,NULL
-Medium human development,2002,NULL
-Medium human development,2003,NULL
-Medium human development,2004,NULL
-Medium human development,2005,NULL
-Medium human development,2006,NULL
-Medium human development,2007,NULL
-Medium human development,2008,NULL
-Medium human development,2009,NULL
-Medium human development,2010,NULL
-Medium human development,2011,NULL
-Medium human development,2012,NULL
-Medium human development,2013,NULL
-Medium human development,2014,NULL
-Medium human development,2015,NULL
-Medium human development,2016,NULL
-Medium human development,2017,NULL
-Medium human development,2018,NULL
-Low human development,2000,NULL
-Low human development,2001,NULL
-Low human development,2002,NULL
-Low human development,2003,NULL
-Low human development,2004,NULL
-Low human development,2005,NULL
-Low human development,2006,NULL
-Low human development,2007,NULL
-Low human development,2008,NULL
-Low human development,2009,NULL
-Low human development,2010,NULL
-Low human development,2011,NULL
-Low human development,2012,NULL
-Low human development,2013,NULL
-Low human development,2014,NULL
-Low human development,2015,NULL
-Low human development,2016,NULL
-Low human development,2017,NULL
-Low human development,2018,NULL
-Developing Countries,2000,NULL
-Developing Countries,2001,NULL
-Developing Countries,2002,NULL
-Developing Countries,2003,NULL
-Developing Countries,2004,NULL
-Developing Countries,2005,NULL
-Developing Countries,2006,NULL
-Developing Countries,2007,NULL
-Developing Countries,2008,NULL
-Developing Countries,2009,NULL
-Developing Countries,2010,NULL
-Developing Countries,2011,NULL
-Developing Countries,2012,NULL
-Developing Countries,2013,NULL
-Developing Countries,2014,NULL
-Developing Countries,2015,NULL
-Developing Countries,2016,NULL
-Developing Countries,2017,NULL
-Developing Countries,2018,NULL
-Regions,2000,NULL
-Regions,2001,NULL
-Regions,2002,NULL
-Regions,2003,NULL
-Regions,2004,NULL
-Regions,2005,NULL
-Regions,2006,NULL
-Regions,2007,NULL
-Regions,2008,NULL
-Regions,2009,NULL
-Regions,2010,NULL
-Regions,2011,NULL
-Regions,2012,NULL
-Regions,2013,NULL
-Regions,2014,NULL
-Regions,2015,NULL
-Regions,2016,NULL
-Regions,2017,NULL
-Regions,2018,NULL
-Arab States,2000,NULL
-Arab States,2001,NULL
-Arab States,2002,NULL
-Arab States,2003,NULL
-Arab States,2004,NULL
-Arab States,2005,NULL
-Arab States,2006,NULL
-Arab States,2007,NULL
-Arab States,2008,NULL
-Arab States,2009,NULL
-Arab States,2010,NULL
-Arab States,2011,NULL
-Arab States,2012,NULL
-Arab States,2013,NULL
-Arab States,2014,NULL
-Arab States,2015,NULL
-Arab States,2016,NULL
-Arab States,2017,NULL
-Arab States,2018,NULL
-East Asia and the Pacific,2000,NULL
-East Asia and the Pacific,2001,NULL
-East Asia and the Pacific,2002,NULL
-East Asia and the Pacific,2003,NULL
-East Asia and the Pacific,2004,NULL
-East Asia and the Pacific,2005,NULL
-East Asia and the Pacific,2006,NULL
-East Asia and the Pacific,2007,NULL
-East Asia and the Pacific,2008,NULL
-East Asia and the Pacific,2009,NULL
-East Asia and the Pacific,2010,NULL
-East Asia and the Pacific,2011,NULL
-East Asia and the Pacific,2012,NULL
-East Asia and the Pacific,2013,NULL
-East Asia and the Pacific,2014,NULL
-East Asia and the Pacific,2015,NULL
-East Asia and the Pacific,2016,NULL
-East Asia and the Pacific,2017,NULL
-East Asia and the Pacific,2018,NULL
-Europe and Central Asia,2000,NULL
-Europe and Central Asia,2001,NULL
-Europe and Central Asia,2002,NULL
-Europe and Central Asia,2003,NULL
-Europe and Central Asia,2004,NULL
-Europe and Central Asia,2005,NULL
-Europe and Central Asia,2006,NULL
-Europe and Central Asia,2007,NULL
-Europe and Central Asia,2008,NULL
-Europe and Central Asia,2009,NULL
-Europe and Central Asia,2010,NULL
-Europe and Central Asia,2011,NULL
-Europe and Central Asia,2012,NULL
-Europe and Central Asia,2013,NULL
-Europe and Central Asia,2014,NULL
-Europe and Central Asia,2015,NULL
-Europe and Central Asia,2016,NULL
-Europe and Central Asia,2017,NULL
-Europe and Central Asia,2018,NULL
-Latin America and the Caribbean,2000,NULL
-Latin America and the Caribbean,2001,NULL
-Latin America and the Caribbean,2002,NULL
-Latin America and the Caribbean,2003,NULL
-Latin America and the Caribbean,2004,NULL
-Latin America and the Caribbean,2005,NULL
-Latin America and the Caribbean,2006,NULL
-Latin America and the Caribbean,2007,NULL
-Latin America and the Caribbean,2008,NULL
-Latin America and the Caribbean,2009,NULL
-Latin America and the Caribbean,2010,NULL
-Latin America and the Caribbean,2011,NULL
-Latin America and the Caribbean,2012,NULL
-Latin America and the Caribbean,2013,NULL
-Latin America and the Caribbean,2014,NULL
-Latin America and the Caribbean,2015,NULL
-Latin America and the Caribbean,2016,NULL
-Latin America and the Caribbean,2017,NULL
-Latin America and the Caribbean,2018,NULL
-South Asia,2000,NULL
-South Asia,2001,NULL
-South Asia,2002,NULL
-South Asia,2003,NULL
-South Asia,2004,NULL
-South Asia,2005,NULL
-South Asia,2006,NULL
-South Asia,2007,NULL
-South Asia,2008,NULL
-South Asia,2009,NULL
-South Asia,2010,NULL
-South Asia,2011,NULL
-South Asia,2012,NULL
-South Asia,2013,NULL
-South Asia,2014,NULL
-South Asia,2015,NULL
-South Asia,2016,NULL
-South Asia,2017,NULL
-South Asia,2018,NULL
-Sub-Saharan Africa,2000,NULL
-Sub-Saharan Africa,2001,NULL
-Sub-Saharan Africa,2002,NULL
-Sub-Saharan Africa,2003,NULL
-Sub-Saharan Africa,2004,NULL
-Sub-Saharan Africa,2005,NULL
-Sub-Saharan Africa,2006,NULL
-Sub-Saharan Africa,2007,NULL
-Sub-Saharan Africa,2008,NULL
-Sub-Saharan Africa,2009,NULL
-Sub-Saharan Africa,2010,NULL
-Sub-Saharan Africa,2011,NULL
-Sub-Saharan Africa,2012,NULL
-Sub-Saharan Africa,2013,NULL
-Sub-Saharan Africa,2014,NULL
-Sub-Saharan Africa,2015,NULL
-Sub-Saharan Africa,2016,NULL
-Sub-Saharan Africa,2017,NULL
-Sub-Saharan Africa,2018,NULL
-Least Developed Countries,2000,NULL
-Least Developed Countries,2001,NULL
-Least Developed Countries,2002,NULL
-Least Developed Countries,2003,NULL
-Least Developed Countries,2004,NULL
-Least Developed Countries,2005,NULL
-Least Developed Countries,2006,NULL
-Least Developed Countries,2007,NULL
-Least Developed Countries,2008,NULL
-Least Developed Countries,2009,NULL
-Least Developed Countries,2010,14.9
-Least Developed Countries,2011,NULL
-Least Developed Countries,2012,NULL
-Least Developed Countries,2013,NULL
-Least Developed Countries,2014,NULL
-Least Developed Countries,2015,NULL
-Least Developed Countries,2016,NULL
-Least Developed Countries,2017,NULL
-Least Developed Countries,2018,NULL
-Small Island Developing States,2000,NULL
-Small Island Developing States,2001,NULL
-Small Island Developing States,2002,NULL
-Small Island Developing States,2003,NULL
-Small Island Developing States,2004,NULL
-Small Island Developing States,2005,NULL
-Small Island Developing States,2006,NULL
-Small Island Developing States,2007,NULL
-Small Island Developing States,2008,NULL
-Small Island Developing States,2009,NULL
-Small Island Developing States,2010,NULL
-Small Island Developing States,2011,NULL
-Small Island Developing States,2012,NULL
-Small Island Developing States,2013,NULL
-Small Island Developing States,2014,NULL
-Small Island Developing States,2015,NULL
-Small Island Developing States,2016,NULL
-Small Island Developing States,2017,NULL
-Small Island Developing States,2018,NULL
-Organization for Economic Co-operation and Development,2000,NULL
-Organization for Economic Co-operation and Development,2001,NULL
-Organization for Economic Co-operation and Development,2002,NULL
-Organization for Economic Co-operation and Development,2003,NULL
-Organization for Economic Co-operation and Development,2004,NULL
-Organization for Economic Co-operation and Development,2005,NULL
-Organization for Economic Co-operation and Development,2006,NULL
-Organization for Economic Co-operation and Development,2007,NULL
-Organization for Economic Co-operation and Development,2008,NULL
-Organization for Economic Co-operation and Development,2009,NULL
-Organization for Economic Co-operation and Development,2010,NULL
-Organization for Economic Co-operation and Development,2011,NULL
-Organization for Economic Co-operation and Development,2012,NULL
-Organization for Economic Co-operation and Development,2013,NULL
-Organization for Economic Co-operation and Development,2014,NULL
-Organization for Economic Co-operation and Development,2015,NULL
-Organization for Economic Co-operation and Development,2016,NULL
-Organization for Economic Co-operation and Development,2017,NULL
-Organization for Economic Co-operation and Development,2018,NULL
-World,2000,NULL
-World,2001,NULL
-World,2002,NULL
-World,2003,NULL
-World,2004,NULL
-World,2005,NULL
-World,2006,NULL
-World,2007,NULL
-World,2008,NULL
-World,2009,NULL
-World,2010,NULL
-World,2011,NULL
-World,2012,NULL
-World,2013,NULL
-World,2014,NULL
-World,2015,NULL
-World,2016,NULL
-World,2017,NULL
-World,2018,NULL
+Country,Year,Labour share of GDP,ISO_Code
+Australia,2000,56.8,36
+Australia,2001,56.8,36
+Australia,2002,56.8,36
+Australia,2003,56.8,36
+Australia,2004,56.8,36
+Australia,2005,54.5,36
+Australia,2006,54.5,36
+Australia,2007,54.5,36
+Australia,2008,54.5,36
+Australia,2009,54.5,36
+Australia,2010,53.2,36
+Australia,2011,53.3,36
+Australia,2012,53.6,36
+Australia,2013,53.4,36
+Australia,2014,54.1,36
+Australia,2015,54.5,36
+Australia,2016,52.6,36
+Australia,2017,52.2,36
+Australia,2018,52,36
+Austria,2000,56,40
+Austria,2001,56,40
+Austria,2002,56,40
+Austria,2003,56,40
+Austria,2004,56,40
+Austria,2005,53.3,40
+Austria,2006,53.3,40
+Austria,2007,53.3,40
+Austria,2008,53.3,40
+Austria,2009,53.3,40
+Austria,2010,54.6,40
+Austria,2011,54,40
+Austria,2012,54.5,40
+Austria,2013,55,40
+Austria,2014,55,40
+Austria,2015,54.6,40
+Austria,2016,54.7,40
+Austria,2017,54.3,40
+Austria,2018,54.3,40
+Azerbaijan,2000,NULL,31
+Azerbaijan,2001,NULL,31
+Azerbaijan,2002,NULL,31
+Azerbaijan,2003,NULL,31
+Azerbaijan,2004,NULL,31
+Azerbaijan,2005,NULL,31
+Azerbaijan,2006,NULL,31
+Azerbaijan,2007,NULL,31
+Azerbaijan,2008,NULL,31
+Azerbaijan,2009,NULL,31
+Azerbaijan,2010,NULL,31
+Azerbaijan,2011,NULL,31
+Azerbaijan,2012,NULL,31
+Azerbaijan,2013,18.6,31
+Azerbaijan,2014,19.3,31
+Azerbaijan,2015,22.1,31
+Azerbaijan,2016,NULL,31
+Azerbaijan,2017,NULL,31
+Azerbaijan,2018,NULL,31
+Belgium,2000,60,56
+Belgium,2001,60,56
+Belgium,2002,60,56
+Belgium,2003,60,56
+Belgium,2004,60,56
+Belgium,2005,58.7,56
+Belgium,2006,58.7,56
+Belgium,2007,58.7,56
+Belgium,2008,58.7,56
+Belgium,2009,58.7,56
+Belgium,2010,59.9,56
+Belgium,2011,60.3,56
+Belgium,2012,61.2,56
+Belgium,2013,61.7,56
+Belgium,2014,61.4,56
+Belgium,2015,60.3,56
+Belgium,2016,59.4,56
+Belgium,2017,59.4,56
+Belgium,2018,59.7,56
+Bulgaria,2000,49.7,100
+Bulgaria,2001,49.7,100
+Bulgaria,2002,49.7,100
+Bulgaria,2003,49.7,100
+Bulgaria,2004,49.7,100
+Bulgaria,2005,46.7,100
+Bulgaria,2006,46.7,100
+Bulgaria,2007,46.7,100
+Bulgaria,2008,46.7,100
+Bulgaria,2009,46.7,100
+Bulgaria,2010,49.9,100
+Bulgaria,2011,48.2,100
+Bulgaria,2012,49.9,100
+Bulgaria,2013,54.1,100
+Bulgaria,2014,56.1,100
+Bulgaria,2015,56.2,100
+Bulgaria,2016,56.3,100
+Bulgaria,2017,59,100
+Bulgaria,2018,58.2,100
+Canada,2000,55.9,124
+Canada,2001,55.9,124
+Canada,2002,55.9,124
+Canada,2003,55.9,124
+Canada,2004,55.9,124
+Canada,2005,54,124
+Canada,2006,54,124
+Canada,2007,54,124
+Canada,2008,54,124
+Canada,2009,54,124
+Canada,2010,55.6,124
+Canada,2011,54.8,124
+Canada,2012,55.6,124
+Canada,2013,55.6,124
+Canada,2014,54.9,124
+Canada,2015,56.6,124
+Canada,2016,55.5,124
+Canada,2017,54.7,124
+Canada,2018,55.3,124
+Chile,2000,NULL,152
+Chile,2001,NULL,152
+Chile,2002,NULL,152
+Chile,2003,NULL,152
+Chile,2004,NULL,152
+Chile,2005,NULL,152
+Chile,2006,NULL,152
+Chile,2007,NULL,152
+Chile,2008,NULL,152
+Chile,2009,NULL,152
+Chile,2010,NULL,152
+Chile,2011,37.2,152
+Chile,2012,NULL,152
+Chile,2013,44.7,152
+Chile,2014,NULL,152
+Chile,2015,NULL,152
+Chile,2016,NULL,152
+Chile,2017,NULL,152
+Chile,2018,NULL,152
+Colombia,2000,NULL,170
+Colombia,2001,NULL,170
+Colombia,2002,NULL,170
+Colombia,2003,NULL,170
+Colombia,2004,NULL,170
+Colombia,2005,NULL,170
+Colombia,2006,NULL,170
+Colombia,2007,NULL,170
+Colombia,2008,NULL,170
+Colombia,2009,NULL,170
+Colombia,2010,33.4,170
+Colombia,2011,31.7,170
+Colombia,2012,32.4,170
+Colombia,2013,32.7,170
+Colombia,2014,32.9,170
+Colombia,2015,34.1,170
+Colombia,2016,33.5,170
+Colombia,2017,NULL,170
+Colombia,2018,NULL,170
+Croatia,2000,67.2,191
+Croatia,2001,67.2,191
+Croatia,2002,67.2,191
+Croatia,2003,67.2,191
+Croatia,2004,67.2,191
+Croatia,2005,63,191
+Croatia,2006,63,191
+Croatia,2007,63,191
+Croatia,2008,63,191
+Croatia,2009,63,191
+Croatia,2010,62,191
+Croatia,2011,61,191
+Croatia,2012,59.5,191
+Croatia,2013,57.2,191
+Croatia,2014,55.7,191
+Croatia,2015,55.3,191
+Croatia,2016,54.3,191
+Croatia,2017,52.8,191
+Croatia,2018,52.7,191
+Cyprus,2000,51.7,196
+Cyprus,2001,51.7,196
+Cyprus,2002,51.7,196
+Cyprus,2003,51.7,196
+Cyprus,2004,51.7,196
+Cyprus,2005,55,196
+Cyprus,2006,55,196
+Cyprus,2007,55,196
+Cyprus,2008,55,196
+Cyprus,2009,55,196
+Cyprus,2010,54.6,196
+Cyprus,2011,54.5,196
+Cyprus,2012,54.3,196
+Cyprus,2013,52,196
+Cyprus,2014,50.7,196
+Cyprus,2015,50.4,196
+Cyprus,2016,50,196
+Cyprus,2017,49.5,196
+Cyprus,2018,48.9,196
+Czechia,2000,45,203
+Czechia,2001,45,203
+Czechia,2002,45,203
+Czechia,2003,45,203
+Czechia,2004,45,203
+Czechia,2005,46.9,203
+Czechia,2006,46.9,203
+Czechia,2007,46.9,203
+Czechia,2008,46.9,203
+Czechia,2009,46.9,203
+Czechia,2010,47.8,203
+Czechia,2011,48.1,203
+Czechia,2012,48.8,203
+Czechia,2013,48.4,203
+Czechia,2014,47.4,203
+Czechia,2015,46.5,203
+Czechia,2016,47.3,203
+Czechia,2017,48.3,203
+Czechia,2018,50.7,203
+Denmark,2000,53.9,208
+Denmark,2001,53.9,208
+Denmark,2002,53.9,208
+Denmark,2003,53.9,208
+Denmark,2004,53.9,208
+Denmark,2005,54.3,208
+Denmark,2006,54.3,208
+Denmark,2007,54.3,208
+Denmark,2008,54.3,208
+Denmark,2009,54.3,208
+Denmark,2010,56.4,208
+Denmark,2011,56,208
+Denmark,2012,55.2,208
+Denmark,2013,55.1,208
+Denmark,2014,54.9,208
+Denmark,2015,55.1,208
+Denmark,2016,55,208
+Denmark,2017,54.8,208
+Denmark,2018,55.9,208
+Estonia,2000,49.5,233
+Estonia,2001,49.5,233
+Estonia,2002,49.5,233
+Estonia,2003,49.5,233
+Estonia,2004,49.5,233
+Estonia,2005,47.5,233
+Estonia,2006,47.5,233
+Estonia,2007,47.5,233
+Estonia,2008,47.5,233
+Estonia,2009,47.5,233
+Estonia,2010,51.7,233
+Estonia,2011,49.1,233
+Estonia,2012,49.9,233
+Estonia,2013,50.2,233
+Estonia,2014,50.9,233
+Estonia,2015,52.5,233
+Estonia,2016,53.3,233
+Estonia,2017,53.7,233
+Estonia,2018,54.4,233
+Finland,2000,53.1,246
+Finland,2001,53.1,246
+Finland,2002,53.1,246
+Finland,2003,53.1,246
+Finland,2004,53.1,246
+Finland,2005,53.3,246
+Finland,2006,53.3,246
+Finland,2007,53.3,246
+Finland,2008,53.3,246
+Finland,2009,53.3,246
+Finland,2010,56.1,246
+Finland,2011,55.9,246
+Finland,2012,57.1,246
+Finland,2013,56.4,246
+Finland,2014,56.1,246
+Finland,2015,55.6,246
+Finland,2016,54.9,246
+Finland,2017,52.9,246
+Finland,2018,52.7,246
+France,2000,55.9,250
+France,2001,55.9,250
+France,2002,55.9,250
+France,2003,55.9,250
+France,2004,55.9,250
+France,2005,56.2,250
+France,2006,56.2,250
+France,2007,56.2,250
+France,2008,56.2,250
+France,2009,56.2,250
+France,2010,57.5,250
+France,2011,57.5,250
+France,2012,58.1,250
+France,2013,58.4,250
+France,2014,58.5,250
+France,2015,58,250
+France,2016,58.1,250
+France,2017,58.1,250
+France,2018,58.3,250
+Germany,2000,58.8,276
+Germany,2001,58.8,276
+Germany,2002,58.8,276
+Germany,2003,58.8,276
+Germany,2004,58.8,276
+Germany,2005,56.1,276
+Germany,2006,56.1,276
+Germany,2007,56.1,276
+Germany,2008,56.1,276
+Germany,2009,56.1,276
+Germany,2010,55.8,276
+Germany,2011,55.6,276
+Germany,2012,56.5,276
+Germany,2013,56.5,276
+Germany,2014,56.3,276
+Germany,2015,56.2,276
+Germany,2016,56.2,276
+Germany,2017,56.4,276
+Germany,2018,56.9,276
+Greece,2000,49.5,300
+Greece,2001,49.5,300
+Greece,2002,49.5,300
+Greece,2003,49.5,300
+Greece,2004,49.5,300
+Greece,2005,53.9,300
+Greece,2006,53.9,300
+Greece,2007,53.9,300
+Greece,2008,53.9,300
+Greece,2009,53.9,300
+Greece,2010,54.3,300
+Greece,2011,53.1,300
+Greece,2012,52.2,300
+Greece,2013,49.8,300
+Greece,2014,49.8,300
+Greece,2015,49.4,300
+Greece,2016,49.3,300
+Greece,2017,49.3,300
+Greece,2018,49.6,300
+Guinea,2000,NULL,324
+Guinea,2001,NULL,324
+Guinea,2002,NULL,324
+Guinea,2003,NULL,324
+Guinea,2004,NULL,324
+Guinea,2005,NULL,324
+Guinea,2006,NULL,324
+Guinea,2007,NULL,324
+Guinea,2008,NULL,324
+Guinea,2009,NULL,324
+Guinea,2010,14.9,324
+Guinea,2011,NULL,324
+Guinea,2012,NULL,324
+Guinea,2013,NULL,324
+Guinea,2014,NULL,324
+Guinea,2015,NULL,324
+Guinea,2016,NULL,324
+Guinea,2017,NULL,324
+Guinea,2018,NULL,324
+Hungary,2000,52.6,348
+Hungary,2001,52.6,348
+Hungary,2002,52.6,348
+Hungary,2003,52.6,348
+Hungary,2004,52.6,348
+Hungary,2005,52.8,348
+Hungary,2006,52.8,348
+Hungary,2007,52.8,348
+Hungary,2008,52.8,348
+Hungary,2009,52.8,348
+Hungary,2010,49.4,348
+Hungary,2011,49.1,348
+Hungary,2012,49.2,348
+Hungary,2013,48.2,348
+Hungary,2014,47.2,348
+Hungary,2015,45.2,348
+Hungary,2016,47.1,348
+Hungary,2017,47.2,348
+Hungary,2018,48.2,348
+Iceland,2000,59.9,352
+Iceland,2001,59.9,352
+Iceland,2002,59.9,352
+Iceland,2003,59.9,352
+Iceland,2004,59.9,352
+Iceland,2005,59.1,352
+Iceland,2006,59.1,352
+Iceland,2007,59.1,352
+Iceland,2008,59.1,352
+Iceland,2009,59.1,352
+Iceland,2010,49.5,352
+Iceland,2011,51.7,352
+Iceland,2012,52.5,352
+Iceland,2013,53.5,352
+Iceland,2014,53.7,352
+Iceland,2015,53.7,352
+Iceland,2016,55.2,352
+Iceland,2017,57.9,352
+Iceland,2018,58.3,352
+Iraq,2000,NULL,368
+Iraq,2001,NULL,368
+Iraq,2002,NULL,368
+Iraq,2003,NULL,368
+Iraq,2004,NULL,368
+Iraq,2005,NULL,368
+Iraq,2006,NULL,368
+Iraq,2007,NULL,368
+Iraq,2008,NULL,368
+Iraq,2009,NULL,368
+Iraq,2010,25.6,368
+Iraq,2011,21.1,368
+Iraq,2012,23.4,368
+Iraq,2013,25.7,368
+Iraq,2014,26.9,368
+Iraq,2015,34.3,368
+Iraq,2016,37.7,368
+Iraq,2017,NULL,368
+Iraq,2018,NULL,368
+Ireland,2000,47.2,372
+Ireland,2001,47.2,372
+Ireland,2002,47.2,372
+Ireland,2003,47.2,372
+Ireland,2004,47.2,372
+Ireland,2005,46.5,372
+Ireland,2006,46.5,372
+Ireland,2007,46.5,372
+Ireland,2008,46.5,372
+Ireland,2009,46.5,372
+Ireland,2010,50.1,372
+Ireland,2011,48.3,372
+Ireland,2012,47.4,372
+Ireland,2013,47.3,372
+Ireland,2014,45,372
+Ireland,2015,35.6,372
+Ireland,2016,36.2,372
+Ireland,2017,34.9,372
+Ireland,2018,34.3,372
+Italy,2000,51.1,380
+Italy,2001,51.1,380
+Italy,2002,51.1,380
+Italy,2003,51.1,380
+Italy,2004,51.1,380
+Italy,2005,52.1,380
+Italy,2006,52.1,380
+Italy,2007,52.1,380
+Italy,2008,52.1,380
+Italy,2009,52.1,380
+Italy,2010,54.1,380
+Italy,2011,53.6,380
+Italy,2012,53.7,380
+Italy,2013,53.4,380
+Italy,2014,53,380
+Italy,2015,52.9,380
+Italy,2016,52.7,380
+Italy,2017,52.2,380
+Italy,2018,52.8,380
+Japan,2000,62.4,392
+Japan,2001,62.4,392
+Japan,2002,62.4,392
+Japan,2003,62.4,392
+Japan,2004,62.4,392
+Japan,2005,58.8,392
+Japan,2006,58.8,392
+Japan,2007,58.8,392
+Japan,2008,58.8,392
+Japan,2009,58.8,392
+Japan,2010,58.5,392
+Japan,2011,59.7,392
+Japan,2012,59.1,392
+Japan,2013,58.3,392
+Japan,2014,57.9,392
+Japan,2015,56.5,392
+Japan,2016,57.2,392
+Japan,2017,57.1,392
+Japan,2018,57.9,392
+Kuwait,2000,NULL,414
+Kuwait,2001,NULL,414
+Kuwait,2002,NULL,414
+Kuwait,2003,NULL,414
+Kuwait,2004,NULL,414
+Kuwait,2005,NULL,414
+Kuwait,2006,NULL,414
+Kuwait,2007,NULL,414
+Kuwait,2008,NULL,414
+Kuwait,2009,NULL,414
+Kuwait,2010,28.2,414
+Kuwait,2011,24.9,414
+Kuwait,2012,24.2,414
+Kuwait,2013,25.7,414
+Kuwait,2014,28.7,414
+Kuwait,2015,39.8,414
+Kuwait,2016,41.4,414
+Kuwait,2017,NULL,414
+Kuwait,2018,NULL,414
+Latvia,2000,48.7,428
+Latvia,2001,48.7,428
+Latvia,2002,48.7,428
+Latvia,2003,48.7,428
+Latvia,2004,48.7,428
+Latvia,2005,45.6,428
+Latvia,2006,45.6,428
+Latvia,2007,45.6,428
+Latvia,2008,45.6,428
+Latvia,2009,45.6,428
+Latvia,2010,48.6,428
+Latvia,2011,44.7,428
+Latvia,2012,45.3,428
+Latvia,2013,46.9,428
+Latvia,2014,48.5,428
+Latvia,2015,51.4,428
+Latvia,2016,53.4,428
+Latvia,2017,53.4,428
+Latvia,2018,53.6,428
+Lithuania,2000,48.6,440
+Lithuania,2001,48.6,440
+Lithuania,2002,48.6,440
+Lithuania,2003,48.6,440
+Lithuania,2004,48.6,440
+Lithuania,2005,49.1,440
+Lithuania,2006,49.1,440
+Lithuania,2007,49.1,440
+Lithuania,2008,49.1,440
+Lithuania,2009,49.1,440
+Lithuania,2010,45.9,440
+Lithuania,2011,44,440
+Lithuania,2012,43.8,440
+Lithuania,2013,44.6,440
+Lithuania,2014,45.5,440
+Lithuania,2015,47.7,440
+Lithuania,2016,50,440
+Lithuania,2017,49.8,440
+Lithuania,2018,50.6,440
+Luxembourg,2000,49.7,442
+Luxembourg,2001,49.7,442
+Luxembourg,2002,49.7,442
+Luxembourg,2003,49.7,442
+Luxembourg,2004,49.7,442
+Luxembourg,2005,52.2,442
+Luxembourg,2006,52.2,442
+Luxembourg,2007,52.2,442
+Luxembourg,2008,52.2,442
+Luxembourg,2009,52.2,442
+Luxembourg,2010,52.7,442
+Luxembourg,2011,51.5,442
+Luxembourg,2012,52.5,442
+Luxembourg,2013,51.9,442
+Luxembourg,2014,51.4,442
+Luxembourg,2015,51.8,442
+Luxembourg,2016,52.1,442
+Luxembourg,2017,53.7,442
+Luxembourg,2018,53.4,442
+Malaysia,2000,NULL,458
+Malaysia,2001,NULL,458
+Malaysia,2002,NULL,458
+Malaysia,2003,NULL,458
+Malaysia,2004,NULL,458
+Malaysia,2005,NULL,458
+Malaysia,2006,NULL,458
+Malaysia,2007,NULL,458
+Malaysia,2008,NULL,458
+Malaysia,2009,NULL,458
+Malaysia,2010,NULL,458
+Malaysia,2011,NULL,458
+Malaysia,2012,NULL,458
+Malaysia,2013,33.6,458
+Malaysia,2014,NULL,458
+Malaysia,2015,34.8,458
+Malaysia,2016,NULL,458
+Malaysia,2017,NULL,458
+Malaysia,2018,NULL,458
+Malta,2000,49.2,470
+Malta,2001,49.2,470
+Malta,2002,49.2,470
+Malta,2003,49.2,470
+Malta,2004,49.2,470
+Malta,2005,49.3,470
+Malta,2006,49.3,470
+Malta,2007,49.3,470
+Malta,2008,49.3,470
+Malta,2009,49.3,470
+Malta,2010,49.3,470
+Malta,2011,50.6,470
+Malta,2012,51.2,470
+Malta,2013,50.9,470
+Malta,2014,48.9,470
+Malta,2015,47.3,470
+Malta,2016,47.3,470
+Malta,2017,46.5,470
+Malta,2018,45.9,470
+Mexico,2000,39.3,484
+Mexico,2001,39.3,484
+Mexico,2002,39.3,484
+Mexico,2003,39.3,484
+Mexico,2004,39.3,484
+Mexico,2005,39.7,484
+Mexico,2006,39.7,484
+Mexico,2007,39.7,484
+Mexico,2008,39.7,484
+Mexico,2009,39.7,484
+Mexico,2010,38.7,484
+Mexico,2011,37.7,484
+Mexico,2012,37.7,484
+Mexico,2013,38.4,484
+Mexico,2014,37.7,484
+Mexico,2015,37.6,484
+Mexico,2016,36.6,484
+Mexico,2017,35.9,484
+Mexico,2018,35.5,484
+Mongolia,2000,NULL,496
+Mongolia,2001,NULL,496
+Mongolia,2002,NULL,496
+Mongolia,2003,NULL,496
+Mongolia,2004,NULL,496
+Mongolia,2005,NULL,496
+Mongolia,2006,NULL,496
+Mongolia,2007,NULL,496
+Mongolia,2008,NULL,496
+Mongolia,2009,NULL,496
+Mongolia,2010,22.6,496
+Mongolia,2011,23.9,496
+Mongolia,2012,26.3,496
+Mongolia,2013,26,496
+Mongolia,2014,26.3,496
+Mongolia,2015,27,496
+Mongolia,2016,27.6,496
+Mongolia,2017,NULL,496
+Mongolia,2018,NULL,496
+Netherlands,2000,59.3,528
+Netherlands,2001,59.3,528
+Netherlands,2002,59.3,528
+Netherlands,2003,59.3,528
+Netherlands,2004,59.3,528
+Netherlands,2005,57,528
+Netherlands,2006,57,528
+Netherlands,2007,57,528
+Netherlands,2008,57,528
+Netherlands,2009,57,528
+Netherlands,2010,57.9,528
+Netherlands,2011,58.5,528
+Netherlands,2012,59.2,528
+Netherlands,2013,58.9,528
+Netherlands,2014,58.9,528
+Netherlands,2015,57.6,528
+Netherlands,2016,57.7,528
+Netherlands,2017,57.4,528
+Netherlands,2018,57.3,528
+New Zealand,2000,47.8,554
+New Zealand,2001,47.8,554
+New Zealand,2002,47.8,554
+New Zealand,2003,47.8,554
+New Zealand,2004,47.8,554
+New Zealand,2005,51.1,554
+New Zealand,2006,51.1,554
+New Zealand,2007,51.1,554
+New Zealand,2008,51.1,554
+New Zealand,2009,51.1,554
+New Zealand,2010,52.3,554
+New Zealand,2011,52,554
+New Zealand,2012,52.3,554
+New Zealand,2013,50.2,554
+New Zealand,2014,50.8,554
+New Zealand,2015,50.4,554
+New Zealand,2016,51.3,554
+New Zealand,2017,51.1,554
+New Zealand,2018,52.3,554
+Norway,2000,45.8,578
+Norway,2001,45.8,578
+Norway,2002,45.8,578
+Norway,2003,45.8,578
+Norway,2004,45.8,578
+Norway,2005,44.1,578
+Norway,2006,44.1,578
+Norway,2007,44.1,578
+Norway,2008,44.1,578
+Norway,2009,44.1,578
+Norway,2010,47.3,578
+Norway,2011,46.7,578
+Norway,2012,46.9,578
+Norway,2013,47.8,578
+Norway,2014,48.8,578
+Norway,2015,50.8,578
+Norway,2016,51.6,578
+Norway,2017,50.3,578
+Norway,2018,49.3,578
+Peru,2000,NULL,604
+Peru,2001,NULL,604
+Peru,2002,NULL,604
+Peru,2003,NULL,604
+Peru,2004,NULL,604
+Peru,2005,NULL,604
+Peru,2006,NULL,604
+Peru,2007,NULL,604
+Peru,2008,NULL,604
+Peru,2009,NULL,604
+Peru,2010,NULL,604
+Peru,2011,23.1,604
+Peru,2012,23.6,604
+Peru,2013,NULL,604
+Peru,2014,NULL,604
+Peru,2015,NULL,604
+Peru,2016,NULL,604
+Peru,2017,NULL,604
+Peru,2018,NULL,604
+Philippines,2000,NULL,608
+Philippines,2001,NULL,608
+Philippines,2002,NULL,608
+Philippines,2003,NULL,608
+Philippines,2004,NULL,608
+Philippines,2005,NULL,608
+Philippines,2006,NULL,608
+Philippines,2007,NULL,608
+Philippines,2008,NULL,608
+Philippines,2009,NULL,608
+Philippines,2010,32.2,608
+Philippines,2011,35,608
+Philippines,2012,35.1,608
+Philippines,2013,34.6,608
+Philippines,2014,34.9,608
+Philippines,2015,35.3,608
+Philippines,2016,35.7,608
+Philippines,2017,36.3,608
+Philippines,2018,NULL,608
+Poland,2000,56.8,616
+Poland,2001,56.8,616
+Poland,2002,56.8,616
+Poland,2003,56.8,616
+Poland,2004,56.8,616
+Poland,2005,49.7,616
+Poland,2006,49.7,616
+Poland,2007,49.7,616
+Poland,2008,49.7,616
+Poland,2009,49.7,616
+Poland,2010,49,616
+Poland,2011,47.9,616
+Poland,2012,47.8,616
+Poland,2013,47.7,616
+Poland,2014,47.8,616
+Poland,2015,47.1,616
+Poland,2016,48.2,616
+Poland,2017,48.3,616
+Poland,2018,49,616
+Portugal,2000,60.2,620
+Portugal,2001,60.2,620
+Portugal,2002,60.2,620
+Portugal,2003,60.2,620
+Portugal,2004,60.2,620
+Portugal,2005,58.7,620
+Portugal,2006,58.7,620
+Portugal,2007,58.7,620
+Portugal,2008,58.7,620
+Portugal,2009,58.7,620
+Portugal,2010,56.5,620
+Portugal,2011,55.5,620
+Portugal,2012,54,620
+Portugal,2013,53.7,620
+Portugal,2014,52.7,620
+Portugal,2015,51.6,620
+Portugal,2016,51.4,620
+Portugal,2017,51.7,620
+Portugal,2018,52.1,620
+Qatar,2000,NULL,634
+Qatar,2001,NULL,634
+Qatar,2002,NULL,634
+Qatar,2003,NULL,634
+Qatar,2004,NULL,634
+Qatar,2005,NULL,634
+Qatar,2006,NULL,634
+Qatar,2007,NULL,634
+Qatar,2008,NULL,634
+Qatar,2009,NULL,634
+Qatar,2010,NULL,634
+Qatar,2011,22.4,634
+Qatar,2012,19.2,634
+Qatar,2013,NULL,634
+Qatar,2014,18.8,634
+Qatar,2015,18.8,634
+Qatar,2016,NULL,634
+Qatar,2017,NULL,634
+Qatar,2018,NULL,634
+San Marino,2000,NULL,674
+San Marino,2001,NULL,674
+San Marino,2002,NULL,674
+San Marino,2003,NULL,674
+San Marino,2004,NULL,674
+San Marino,2005,NULL,674
+San Marino,2006,NULL,674
+San Marino,2007,NULL,674
+San Marino,2008,NULL,674
+San Marino,2009,NULL,674
+San Marino,2010,NULL,674
+San Marino,2011,NULL,674
+San Marino,2012,NULL,674
+San Marino,2013,NULL,674
+San Marino,2014,NULL,674
+San Marino,2015,NULL,674
+San Marino,2016,49.5,674
+San Marino,2017,NULL,674
+San Marino,2018,NULL,674
+Serbia,2000,NULL,688
+Serbia,2001,NULL,688
+Serbia,2002,NULL,688
+Serbia,2003,NULL,688
+Serbia,2004,NULL,688
+Serbia,2005,NULL,688
+Serbia,2006,NULL,688
+Serbia,2007,NULL,688
+Serbia,2008,NULL,688
+Serbia,2009,NULL,688
+Serbia,2010,41.9,688
+Serbia,2011,41.5,688
+Serbia,2012,42.7,688
+Serbia,2013,41.8,688
+Serbia,2014,43.2,688
+Serbia,2015,41.7,688
+Serbia,2016,NULL,688
+Serbia,2017,NULL,688
+Serbia,2018,NULL,688
+Slovakia,2000,44.6,703
+Slovakia,2001,44.6,703
+Slovakia,2002,44.6,703
+Slovakia,2003,44.6,703
+Slovakia,2004,44.6,703
+Slovakia,2005,42.3,703
+Slovakia,2006,42.3,703
+Slovakia,2007,42.3,703
+Slovakia,2008,42.3,703
+Slovakia,2009,42.3,703
+Slovakia,2010,44.3,703
+Slovakia,2011,44,703
+Slovakia,2012,43.9,703
+Slovakia,2013,43.8,703
+Slovakia,2014,44.1,703
+Slovakia,2015,44.7,703
+Slovakia,2016,45.5,703
+Slovakia,2017,46.9,703
+Slovakia,2018,47.4,703
+Slovenia,2000,61.7,705
+Slovenia,2001,61.7,705
+Slovenia,2002,61.7,705
+Slovenia,2003,61.7,705
+Slovenia,2004,61.7,705
+Slovenia,2005,60.4,705
+Slovenia,2006,60.4,705
+Slovenia,2007,60.4,705
+Slovenia,2008,60.4,705
+Slovenia,2009,60.4,705
+Slovenia,2010,64,705
+Slovenia,2011,62.8,705
+Slovenia,2012,63,705
+Slovenia,2013,62.3,705
+Slovenia,2014,61.1,705
+Slovenia,2015,60.6,705
+Slovenia,2016,61.2,705
+Slovenia,2017,61,705
+Slovenia,2018,61.2,705
+Spain,2000,58.4,724
+Spain,2001,58.4,724
+Spain,2002,58.4,724
+Spain,2003,58.4,724
+Spain,2004,58.4,724
+Spain,2005,55.9,724
+Spain,2006,55.9,724
+Spain,2007,55.9,724
+Spain,2008,55.9,724
+Spain,2009,55.9,724
+Spain,2010,57.7,724
+Spain,2011,57.1,724
+Spain,2012,55.6,724
+Spain,2013,55.1,724
+Spain,2014,55,724
+Spain,2015,55.1,724
+Spain,2016,54.5,724
+Spain,2017,53.9,724
+Spain,2018,53.9,724
+Sweden,2000,48,752
+Sweden,2001,48,752
+Sweden,2002,48,752
+Sweden,2003,48,752
+Sweden,2004,48,752
+Sweden,2005,47.7,752
+Sweden,2006,47.7,752
+Sweden,2007,47.7,752
+Sweden,2008,47.7,752
+Sweden,2009,47.7,752
+Sweden,2010,48.1,752
+Sweden,2011,48.8,752
+Sweden,2012,50.3,752
+Sweden,2013,50.6,752
+Sweden,2014,50.2,752
+Sweden,2015,49.1,752
+Sweden,2016,49.1,752
+Sweden,2017,49.1,752
+Sweden,2018,49.5,752
+Switzerland,2000,62.4,756
+Switzerland,2001,62.4,756
+Switzerland,2002,62.4,756
+Switzerland,2003,62.4,756
+Switzerland,2004,62.4,756
+Switzerland,2005,62.7,756
+Switzerland,2006,62.7,756
+Switzerland,2007,62.7,756
+Switzerland,2008,62.7,756
+Switzerland,2009,62.7,756
+Switzerland,2010,63,756
+Switzerland,2011,64,756
+Switzerland,2012,65,756
+Switzerland,2013,65.3,756
+Switzerland,2014,65,756
+Switzerland,2015,65.4,756
+Switzerland,2016,65.4,756
+Switzerland,2017,65.4,756
+Switzerland,2018,64.5,756
+Turkey,2000,55.3,792
+Turkey,2001,55.3,792
+Turkey,2002,55.3,792
+Turkey,2003,55.3,792
+Turkey,2004,55.3,792
+Turkey,2005,44,792
+Turkey,2006,44,792
+Turkey,2007,44,792
+Turkey,2008,44,792
+Turkey,2009,44,792
+Turkey,2010,44.5,792
+Turkey,2011,43.2,792
+Turkey,2012,44.4,792
+Turkey,2013,43.7,792
+Turkey,2014,45.1,792
+Turkey,2015,45.6,792
+Turkey,2016,50.3,792
+Turkey,2017,47.6,792
+Turkey,2018,47.4,792
+Ukraine,2000,NULL,804
+Ukraine,2001,NULL,804
+Ukraine,2002,NULL,804
+Ukraine,2003,NULL,804
+Ukraine,2004,NULL,804
+Ukraine,2005,NULL,804
+Ukraine,2006,NULL,804
+Ukraine,2007,NULL,804
+Ukraine,2008,NULL,804
+Ukraine,2009,NULL,804
+Ukraine,2010,NULL,804
+Ukraine,2011,47,804
+Ukraine,2012,50.2,804
+Ukraine,2013,NULL,804
+Ukraine,2014,NULL,804
+Ukraine,2015,NULL,804
+Ukraine,2016,36.6,804
+Ukraine,2017,38.9,804
+Ukraine,2018,NULL,804
+United Kingdom,2000,56.3,826
+United Kingdom,2001,56.3,826
+United Kingdom,2002,56.3,826
+United Kingdom,2003,56.3,826
+United Kingdom,2004,56.3,826
+United Kingdom,2005,57,826
+United Kingdom,2006,57,826
+United Kingdom,2007,57,826
+United Kingdom,2008,57,826
+United Kingdom,2009,57,826
+United Kingdom,2010,59.7,826
+United Kingdom,2011,58.6,826
+United Kingdom,2012,58.5,826
+United Kingdom,2013,58.5,826
+United Kingdom,2014,57.5,826
+United Kingdom,2015,57.6,826
+United Kingdom,2016,57.8,826
+United Kingdom,2017,57.9,826
+United Kingdom,2018,58.2,826
+United States,2000,61.6,840
+United States,2001,61.6,840
+United States,2002,61.6,840
+United States,2003,61.6,840
+United States,2004,61.6,840
+United States,2005,58.5,840
+United States,2006,58.5,840
+United States,2007,58.5,840
+United States,2008,58.5,840
+United States,2009,58.5,840
+United States,2010,56.8,840
+United States,2011,56.8,840
+United States,2012,56.7,840
+United States,2013,56.3,840
+United States,2014,56.4,840
+United States,2015,56.9,840
+United States,2016,56.8,840
+United States,2017,57,840
+United States,2018,56.5,840
+Zimbabwe,2000,NULL,716
+Zimbabwe,2001,NULL,716
+Zimbabwe,2002,NULL,716
+Zimbabwe,2003,NULL,716
+Zimbabwe,2004,NULL,716
+Zimbabwe,2005,NULL,716
+Zimbabwe,2006,NULL,716
+Zimbabwe,2007,NULL,716
+Zimbabwe,2008,NULL,716
+Zimbabwe,2009,NULL,716
+Zimbabwe,2010,37.1,716
+Zimbabwe,2011,37,716
+Zimbabwe,2012,NULL,716
+Zimbabwe,2013,NULL,716
+Zimbabwe,2014,50,716
+Zimbabwe,2015,NULL,716
+Zimbabwe,2016,NULL,716
+Zimbabwe,2017,NULL,716
+Zimbabwe,2018,NULL,716
+Afghanistan,2000,NULL,4
+Afghanistan,2001,NULL,4
+Afghanistan,2002,NULL,4
+Afghanistan,2003,NULL,4
+Afghanistan,2004,NULL,4
+Afghanistan,2005,NULL,4
+Afghanistan,2006,NULL,4
+Afghanistan,2007,NULL,4
+Afghanistan,2008,NULL,4
+Afghanistan,2009,NULL,4
+Afghanistan,2010,NULL,4
+Afghanistan,2011,NULL,4
+Afghanistan,2012,NULL,4
+Afghanistan,2013,NULL,4
+Afghanistan,2014,NULL,4
+Afghanistan,2015,NULL,4
+Afghanistan,2016,NULL,4
+Afghanistan,2017,NULL,4
+Afghanistan,2018,NULL,4
+Angola,2000,NULL,24
+Angola,2001,NULL,24
+Angola,2002,NULL,24
+Angola,2003,NULL,24
+Angola,2004,NULL,24
+Angola,2005,NULL,24
+Angola,2006,NULL,24
+Angola,2007,NULL,24
+Angola,2008,NULL,24
+Angola,2009,NULL,24
+Angola,2010,NULL,24
+Angola,2011,NULL,24
+Angola,2012,NULL,24
+Angola,2013,NULL,24
+Angola,2014,NULL,24
+Angola,2015,NULL,24
+Angola,2016,NULL,24
+Angola,2017,NULL,24
+Angola,2018,NULL,24
+Albania,2000,NULL,8
+Albania,2001,NULL,8
+Albania,2002,NULL,8
+Albania,2003,NULL,8
+Albania,2004,NULL,8
+Albania,2005,NULL,8
+Albania,2006,NULL,8
+Albania,2007,NULL,8
+Albania,2008,NULL,8
+Albania,2009,NULL,8
+Albania,2010,NULL,8
+Albania,2011,NULL,8
+Albania,2012,NULL,8
+Albania,2013,NULL,8
+Albania,2014,NULL,8
+Albania,2015,NULL,8
+Albania,2016,NULL,8
+Albania,2017,NULL,8
+Albania,2018,NULL,8
+Andorra,2000,NULL,20
+Andorra,2001,NULL,20
+Andorra,2002,NULL,20
+Andorra,2003,NULL,20
+Andorra,2004,NULL,20
+Andorra,2005,NULL,20
+Andorra,2006,NULL,20
+Andorra,2007,NULL,20
+Andorra,2008,NULL,20
+Andorra,2009,NULL,20
+Andorra,2010,NULL,20
+Andorra,2011,NULL,20
+Andorra,2012,NULL,20
+Andorra,2013,NULL,20
+Andorra,2014,NULL,20
+Andorra,2015,NULL,20
+Andorra,2016,NULL,20
+Andorra,2017,NULL,20
+Andorra,2018,NULL,20
+United Arab Emirates,2000,NULL,784
+United Arab Emirates,2001,NULL,784
+United Arab Emirates,2002,NULL,784
+United Arab Emirates,2003,NULL,784
+United Arab Emirates,2004,NULL,784
+United Arab Emirates,2005,NULL,784
+United Arab Emirates,2006,NULL,784
+United Arab Emirates,2007,NULL,784
+United Arab Emirates,2008,NULL,784
+United Arab Emirates,2009,NULL,784
+United Arab Emirates,2010,NULL,784
+United Arab Emirates,2011,NULL,784
+United Arab Emirates,2012,NULL,784
+United Arab Emirates,2013,NULL,784
+United Arab Emirates,2014,NULL,784
+United Arab Emirates,2015,NULL,784
+United Arab Emirates,2016,NULL,784
+United Arab Emirates,2017,NULL,784
+United Arab Emirates,2018,NULL,784
+Argentina,2000,NULL,32
+Argentina,2001,NULL,32
+Argentina,2002,NULL,32
+Argentina,2003,NULL,32
+Argentina,2004,NULL,32
+Argentina,2005,NULL,32
+Argentina,2006,NULL,32
+Argentina,2007,NULL,32
+Argentina,2008,NULL,32
+Argentina,2009,NULL,32
+Argentina,2010,NULL,32
+Argentina,2011,NULL,32
+Argentina,2012,NULL,32
+Argentina,2013,NULL,32
+Argentina,2014,NULL,32
+Argentina,2015,NULL,32
+Argentina,2016,NULL,32
+Argentina,2017,NULL,32
+Argentina,2018,NULL,32
+Armenia,2000,NULL,51
+Armenia,2001,NULL,51
+Armenia,2002,NULL,51
+Armenia,2003,NULL,51
+Armenia,2004,NULL,51
+Armenia,2005,NULL,51
+Armenia,2006,NULL,51
+Armenia,2007,NULL,51
+Armenia,2008,NULL,51
+Armenia,2009,NULL,51
+Armenia,2010,NULL,51
+Armenia,2011,NULL,51
+Armenia,2012,NULL,51
+Armenia,2013,NULL,51
+Armenia,2014,NULL,51
+Armenia,2015,NULL,51
+Armenia,2016,NULL,51
+Armenia,2017,NULL,51
+Armenia,2018,NULL,51
+Antigua and Barbuda,2000,NULL,28
+Antigua and Barbuda,2001,NULL,28
+Antigua and Barbuda,2002,NULL,28
+Antigua and Barbuda,2003,NULL,28
+Antigua and Barbuda,2004,NULL,28
+Antigua and Barbuda,2005,NULL,28
+Antigua and Barbuda,2006,NULL,28
+Antigua and Barbuda,2007,NULL,28
+Antigua and Barbuda,2008,NULL,28
+Antigua and Barbuda,2009,NULL,28
+Antigua and Barbuda,2010,NULL,28
+Antigua and Barbuda,2011,NULL,28
+Antigua and Barbuda,2012,NULL,28
+Antigua and Barbuda,2013,NULL,28
+Antigua and Barbuda,2014,NULL,28
+Antigua and Barbuda,2015,NULL,28
+Antigua and Barbuda,2016,NULL,28
+Antigua and Barbuda,2017,NULL,28
+Antigua and Barbuda,2018,NULL,28
+Burundi,2000,NULL,108
+Burundi,2001,NULL,108
+Burundi,2002,NULL,108
+Burundi,2003,NULL,108
+Burundi,2004,NULL,108
+Burundi,2005,NULL,108
+Burundi,2006,NULL,108
+Burundi,2007,NULL,108
+Burundi,2008,NULL,108
+Burundi,2009,NULL,108
+Burundi,2010,NULL,108
+Burundi,2011,NULL,108
+Burundi,2012,NULL,108
+Burundi,2013,NULL,108
+Burundi,2014,NULL,108
+Burundi,2015,NULL,108
+Burundi,2016,NULL,108
+Burundi,2017,NULL,108
+Burundi,2018,NULL,108
+Benin,2000,NULL,204
+Benin,2001,NULL,204
+Benin,2002,NULL,204
+Benin,2003,NULL,204
+Benin,2004,NULL,204
+Benin,2005,NULL,204
+Benin,2006,NULL,204
+Benin,2007,NULL,204
+Benin,2008,NULL,204
+Benin,2009,NULL,204
+Benin,2010,NULL,204
+Benin,2011,NULL,204
+Benin,2012,NULL,204
+Benin,2013,NULL,204
+Benin,2014,NULL,204
+Benin,2015,NULL,204
+Benin,2016,NULL,204
+Benin,2017,NULL,204
+Benin,2018,NULL,204
+Burkina Faso,2000,NULL,854
+Burkina Faso,2001,NULL,854
+Burkina Faso,2002,NULL,854
+Burkina Faso,2003,NULL,854
+Burkina Faso,2004,NULL,854
+Burkina Faso,2005,NULL,854
+Burkina Faso,2006,NULL,854
+Burkina Faso,2007,NULL,854
+Burkina Faso,2008,NULL,854
+Burkina Faso,2009,NULL,854
+Burkina Faso,2010,NULL,854
+Burkina Faso,2011,NULL,854
+Burkina Faso,2012,NULL,854
+Burkina Faso,2013,NULL,854
+Burkina Faso,2014,NULL,854
+Burkina Faso,2015,NULL,854
+Burkina Faso,2016,NULL,854
+Burkina Faso,2017,NULL,854
+Burkina Faso,2018,NULL,854
+Bangladesh,2000,NULL,50
+Bangladesh,2001,NULL,50
+Bangladesh,2002,NULL,50
+Bangladesh,2003,NULL,50
+Bangladesh,2004,NULL,50
+Bangladesh,2005,NULL,50
+Bangladesh,2006,NULL,50
+Bangladesh,2007,NULL,50
+Bangladesh,2008,NULL,50
+Bangladesh,2009,NULL,50
+Bangladesh,2010,NULL,50
+Bangladesh,2011,NULL,50
+Bangladesh,2012,NULL,50
+Bangladesh,2013,NULL,50
+Bangladesh,2014,NULL,50
+Bangladesh,2015,NULL,50
+Bangladesh,2016,NULL,50
+Bangladesh,2017,NULL,50
+Bangladesh,2018,NULL,50
+Bahrain,2000,NULL,48
+Bahrain,2001,NULL,48
+Bahrain,2002,NULL,48
+Bahrain,2003,NULL,48
+Bahrain,2004,NULL,48
+Bahrain,2005,NULL,48
+Bahrain,2006,NULL,48
+Bahrain,2007,NULL,48
+Bahrain,2008,NULL,48
+Bahrain,2009,NULL,48
+Bahrain,2010,NULL,48
+Bahrain,2011,NULL,48
+Bahrain,2012,NULL,48
+Bahrain,2013,NULL,48
+Bahrain,2014,NULL,48
+Bahrain,2015,NULL,48
+Bahrain,2016,NULL,48
+Bahrain,2017,NULL,48
+Bahrain,2018,NULL,48
+Bahamas,2000,NULL,44
+Bahamas,2001,NULL,44
+Bahamas,2002,NULL,44
+Bahamas,2003,NULL,44
+Bahamas,2004,NULL,44
+Bahamas,2005,NULL,44
+Bahamas,2006,NULL,44
+Bahamas,2007,NULL,44
+Bahamas,2008,NULL,44
+Bahamas,2009,NULL,44
+Bahamas,2010,NULL,44
+Bahamas,2011,NULL,44
+Bahamas,2012,NULL,44
+Bahamas,2013,NULL,44
+Bahamas,2014,NULL,44
+Bahamas,2015,NULL,44
+Bahamas,2016,NULL,44
+Bahamas,2017,NULL,44
+Bahamas,2018,NULL,44
+Bosnia and Herzegovina,2000,NULL,70
+Bosnia and Herzegovina,2001,NULL,70
+Bosnia and Herzegovina,2002,NULL,70
+Bosnia and Herzegovina,2003,NULL,70
+Bosnia and Herzegovina,2004,NULL,70
+Bosnia and Herzegovina,2005,NULL,70
+Bosnia and Herzegovina,2006,NULL,70
+Bosnia and Herzegovina,2007,NULL,70
+Bosnia and Herzegovina,2008,NULL,70
+Bosnia and Herzegovina,2009,NULL,70
+Bosnia and Herzegovina,2010,NULL,70
+Bosnia and Herzegovina,2011,NULL,70
+Bosnia and Herzegovina,2012,NULL,70
+Bosnia and Herzegovina,2013,NULL,70
+Bosnia and Herzegovina,2014,NULL,70
+Bosnia and Herzegovina,2015,NULL,70
+Bosnia and Herzegovina,2016,NULL,70
+Bosnia and Herzegovina,2017,NULL,70
+Bosnia and Herzegovina,2018,NULL,70
+Belarus,2000,NULL,112
+Belarus,2001,NULL,112
+Belarus,2002,NULL,112
+Belarus,2003,NULL,112
+Belarus,2004,NULL,112
+Belarus,2005,NULL,112
+Belarus,2006,NULL,112
+Belarus,2007,NULL,112
+Belarus,2008,NULL,112
+Belarus,2009,NULL,112
+Belarus,2010,NULL,112
+Belarus,2011,NULL,112
+Belarus,2012,NULL,112
+Belarus,2013,NULL,112
+Belarus,2014,NULL,112
+Belarus,2015,NULL,112
+Belarus,2016,NULL,112
+Belarus,2017,NULL,112
+Belarus,2018,NULL,112
+Belize,2000,NULL,84
+Belize,2001,NULL,84
+Belize,2002,NULL,84
+Belize,2003,NULL,84
+Belize,2004,NULL,84
+Belize,2005,NULL,84
+Belize,2006,NULL,84
+Belize,2007,NULL,84
+Belize,2008,NULL,84
+Belize,2009,NULL,84
+Belize,2010,NULL,84
+Belize,2011,NULL,84
+Belize,2012,NULL,84
+Belize,2013,NULL,84
+Belize,2014,NULL,84
+Belize,2015,NULL,84
+Belize,2016,NULL,84
+Belize,2017,NULL,84
+Belize,2018,NULL,84
+Brazil,2000,NULL,76
+Brazil,2001,NULL,76
+Brazil,2002,NULL,76
+Brazil,2003,NULL,76
+Brazil,2004,NULL,76
+Brazil,2005,NULL,76
+Brazil,2006,NULL,76
+Brazil,2007,NULL,76
+Brazil,2008,NULL,76
+Brazil,2009,NULL,76
+Brazil,2010,NULL,76
+Brazil,2011,NULL,76
+Brazil,2012,NULL,76
+Brazil,2013,NULL,76
+Brazil,2014,NULL,76
+Brazil,2015,NULL,76
+Brazil,2016,NULL,76
+Brazil,2017,NULL,76
+Brazil,2018,NULL,76
+Barbados,2000,NULL,52
+Barbados,2001,NULL,52
+Barbados,2002,NULL,52
+Barbados,2003,NULL,52
+Barbados,2004,NULL,52
+Barbados,2005,NULL,52
+Barbados,2006,NULL,52
+Barbados,2007,NULL,52
+Barbados,2008,NULL,52
+Barbados,2009,NULL,52
+Barbados,2010,NULL,52
+Barbados,2011,NULL,52
+Barbados,2012,NULL,52
+Barbados,2013,NULL,52
+Barbados,2014,NULL,52
+Barbados,2015,NULL,52
+Barbados,2016,NULL,52
+Barbados,2017,NULL,52
+Barbados,2018,NULL,52
+Bhutan,2000,NULL,64
+Bhutan,2001,NULL,64
+Bhutan,2002,NULL,64
+Bhutan,2003,NULL,64
+Bhutan,2004,NULL,64
+Bhutan,2005,NULL,64
+Bhutan,2006,NULL,64
+Bhutan,2007,NULL,64
+Bhutan,2008,NULL,64
+Bhutan,2009,NULL,64
+Bhutan,2010,NULL,64
+Bhutan,2011,NULL,64
+Bhutan,2012,NULL,64
+Bhutan,2013,NULL,64
+Bhutan,2014,NULL,64
+Bhutan,2015,NULL,64
+Bhutan,2016,NULL,64
+Bhutan,2017,NULL,64
+Bhutan,2018,NULL,64
+Botswana,2000,NULL,72
+Botswana,2001,NULL,72
+Botswana,2002,NULL,72
+Botswana,2003,NULL,72
+Botswana,2004,NULL,72
+Botswana,2005,NULL,72
+Botswana,2006,NULL,72
+Botswana,2007,NULL,72
+Botswana,2008,NULL,72
+Botswana,2009,NULL,72
+Botswana,2010,NULL,72
+Botswana,2011,NULL,72
+Botswana,2012,NULL,72
+Botswana,2013,NULL,72
+Botswana,2014,NULL,72
+Botswana,2015,NULL,72
+Botswana,2016,NULL,72
+Botswana,2017,NULL,72
+Botswana,2018,NULL,72
+Central African Republic,2000,NULL,140
+Central African Republic,2001,NULL,140
+Central African Republic,2002,NULL,140
+Central African Republic,2003,NULL,140
+Central African Republic,2004,NULL,140
+Central African Republic,2005,NULL,140
+Central African Republic,2006,NULL,140
+Central African Republic,2007,NULL,140
+Central African Republic,2008,NULL,140
+Central African Republic,2009,NULL,140
+Central African Republic,2010,NULL,140
+Central African Republic,2011,NULL,140
+Central African Republic,2012,NULL,140
+Central African Republic,2013,NULL,140
+Central African Republic,2014,NULL,140
+Central African Republic,2015,NULL,140
+Central African Republic,2016,NULL,140
+Central African Republic,2017,NULL,140
+Central African Republic,2018,NULL,140
+China,2000,NULL,156
+China,2001,NULL,156
+China,2002,NULL,156
+China,2003,NULL,156
+China,2004,NULL,156
+China,2005,NULL,156
+China,2006,NULL,156
+China,2007,NULL,156
+China,2008,NULL,156
+China,2009,NULL,156
+China,2010,NULL,156
+China,2011,NULL,156
+China,2012,NULL,156
+China,2013,NULL,156
+China,2014,NULL,156
+China,2015,NULL,156
+China,2016,NULL,156
+China,2017,NULL,156
+China,2018,NULL,156
+Cameroon,2000,NULL,120
+Cameroon,2001,NULL,120
+Cameroon,2002,NULL,120
+Cameroon,2003,NULL,120
+Cameroon,2004,NULL,120
+Cameroon,2005,NULL,120
+Cameroon,2006,NULL,120
+Cameroon,2007,NULL,120
+Cameroon,2008,NULL,120
+Cameroon,2009,NULL,120
+Cameroon,2010,NULL,120
+Cameroon,2011,NULL,120
+Cameroon,2012,NULL,120
+Cameroon,2013,NULL,120
+Cameroon,2014,NULL,120
+Cameroon,2015,NULL,120
+Cameroon,2016,NULL,120
+Cameroon,2017,NULL,120
+Cameroon,2018,NULL,120
+Comoros,2000,NULL,174
+Comoros,2001,NULL,174
+Comoros,2002,NULL,174
+Comoros,2003,NULL,174
+Comoros,2004,NULL,174
+Comoros,2005,NULL,174
+Comoros,2006,NULL,174
+Comoros,2007,NULL,174
+Comoros,2008,NULL,174
+Comoros,2009,NULL,174
+Comoros,2010,NULL,174
+Comoros,2011,NULL,174
+Comoros,2012,NULL,174
+Comoros,2013,NULL,174
+Comoros,2014,NULL,174
+Comoros,2015,NULL,174
+Comoros,2016,NULL,174
+Comoros,2017,NULL,174
+Comoros,2018,NULL,174
+Costa Rica,2000,NULL,188
+Costa Rica,2001,NULL,188
+Costa Rica,2002,NULL,188
+Costa Rica,2003,NULL,188
+Costa Rica,2004,NULL,188
+Costa Rica,2005,NULL,188
+Costa Rica,2006,NULL,188
+Costa Rica,2007,NULL,188
+Costa Rica,2008,NULL,188
+Costa Rica,2009,NULL,188
+Costa Rica,2010,NULL,188
+Costa Rica,2011,NULL,188
+Costa Rica,2012,NULL,188
+Costa Rica,2013,NULL,188
+Costa Rica,2014,NULL,188
+Costa Rica,2015,NULL,188
+Costa Rica,2016,NULL,188
+Costa Rica,2017,NULL,188
+Costa Rica,2018,NULL,188
+Cuba,2000,NULL,192
+Cuba,2001,NULL,192
+Cuba,2002,NULL,192
+Cuba,2003,NULL,192
+Cuba,2004,NULL,192
+Cuba,2005,NULL,192
+Cuba,2006,NULL,192
+Cuba,2007,NULL,192
+Cuba,2008,NULL,192
+Cuba,2009,NULL,192
+Cuba,2010,NULL,192
+Cuba,2011,NULL,192
+Cuba,2012,NULL,192
+Cuba,2013,NULL,192
+Cuba,2014,NULL,192
+Cuba,2015,NULL,192
+Cuba,2016,NULL,192
+Cuba,2017,NULL,192
+Cuba,2018,NULL,192
+Djibouti,2000,NULL,262
+Djibouti,2001,NULL,262
+Djibouti,2002,NULL,262
+Djibouti,2003,NULL,262
+Djibouti,2004,NULL,262
+Djibouti,2005,NULL,262
+Djibouti,2006,NULL,262
+Djibouti,2007,NULL,262
+Djibouti,2008,NULL,262
+Djibouti,2009,NULL,262
+Djibouti,2010,NULL,262
+Djibouti,2011,NULL,262
+Djibouti,2012,NULL,262
+Djibouti,2013,NULL,262
+Djibouti,2014,NULL,262
+Djibouti,2015,NULL,262
+Djibouti,2016,NULL,262
+Djibouti,2017,NULL,262
+Djibouti,2018,NULL,262
+Dominica,2000,NULL,212
+Dominica,2001,NULL,212
+Dominica,2002,NULL,212
+Dominica,2003,NULL,212
+Dominica,2004,NULL,212
+Dominica,2005,NULL,212
+Dominica,2006,NULL,212
+Dominica,2007,NULL,212
+Dominica,2008,NULL,212
+Dominica,2009,NULL,212
+Dominica,2010,NULL,212
+Dominica,2011,NULL,212
+Dominica,2012,NULL,212
+Dominica,2013,NULL,212
+Dominica,2014,NULL,212
+Dominica,2015,NULL,212
+Dominica,2016,NULL,212
+Dominica,2017,NULL,212
+Dominica,2018,NULL,212
+Dominican Republic,2000,NULL,214
+Dominican Republic,2001,NULL,214
+Dominican Republic,2002,NULL,214
+Dominican Republic,2003,NULL,214
+Dominican Republic,2004,NULL,214
+Dominican Republic,2005,NULL,214
+Dominican Republic,2006,NULL,214
+Dominican Republic,2007,NULL,214
+Dominican Republic,2008,NULL,214
+Dominican Republic,2009,NULL,214
+Dominican Republic,2010,NULL,214
+Dominican Republic,2011,NULL,214
+Dominican Republic,2012,NULL,214
+Dominican Republic,2013,NULL,214
+Dominican Republic,2014,NULL,214
+Dominican Republic,2015,NULL,214
+Dominican Republic,2016,NULL,214
+Dominican Republic,2017,NULL,214
+Dominican Republic,2018,NULL,214
+Algeria,2000,NULL,12
+Algeria,2001,NULL,12
+Algeria,2002,NULL,12
+Algeria,2003,NULL,12
+Algeria,2004,NULL,12
+Algeria,2005,NULL,12
+Algeria,2006,NULL,12
+Algeria,2007,NULL,12
+Algeria,2008,NULL,12
+Algeria,2009,NULL,12
+Algeria,2010,NULL,12
+Algeria,2011,NULL,12
+Algeria,2012,NULL,12
+Algeria,2013,NULL,12
+Algeria,2014,NULL,12
+Algeria,2015,NULL,12
+Algeria,2016,NULL,12
+Algeria,2017,NULL,12
+Algeria,2018,NULL,12
+Ecuador,2000,NULL,218
+Ecuador,2001,NULL,218
+Ecuador,2002,NULL,218
+Ecuador,2003,NULL,218
+Ecuador,2004,NULL,218
+Ecuador,2005,NULL,218
+Ecuador,2006,NULL,218
+Ecuador,2007,NULL,218
+Ecuador,2008,NULL,218
+Ecuador,2009,NULL,218
+Ecuador,2010,NULL,218
+Ecuador,2011,NULL,218
+Ecuador,2012,NULL,218
+Ecuador,2013,NULL,218
+Ecuador,2014,NULL,218
+Ecuador,2015,NULL,218
+Ecuador,2016,NULL,218
+Ecuador,2017,NULL,218
+Ecuador,2018,NULL,218
+Egypt,2000,NULL,818
+Egypt,2001,NULL,818
+Egypt,2002,NULL,818
+Egypt,2003,NULL,818
+Egypt,2004,NULL,818
+Egypt,2005,NULL,818
+Egypt,2006,NULL,818
+Egypt,2007,NULL,818
+Egypt,2008,NULL,818
+Egypt,2009,NULL,818
+Egypt,2010,NULL,818
+Egypt,2011,NULL,818
+Egypt,2012,NULL,818
+Egypt,2013,NULL,818
+Egypt,2014,NULL,818
+Egypt,2015,NULL,818
+Egypt,2016,NULL,818
+Egypt,2017,NULL,818
+Egypt,2018,NULL,818
+Eritrea,2000,NULL,232
+Eritrea,2001,NULL,232
+Eritrea,2002,NULL,232
+Eritrea,2003,NULL,232
+Eritrea,2004,NULL,232
+Eritrea,2005,NULL,232
+Eritrea,2006,NULL,232
+Eritrea,2007,NULL,232
+Eritrea,2008,NULL,232
+Eritrea,2009,NULL,232
+Eritrea,2010,NULL,232
+Eritrea,2011,NULL,232
+Eritrea,2012,NULL,232
+Eritrea,2013,NULL,232
+Eritrea,2014,NULL,232
+Eritrea,2015,NULL,232
+Eritrea,2016,NULL,232
+Eritrea,2017,NULL,232
+Eritrea,2018,NULL,232
+Ethiopia,2000,NULL,231
+Ethiopia,2001,NULL,231
+Ethiopia,2002,NULL,231
+Ethiopia,2003,NULL,231
+Ethiopia,2004,NULL,231
+Ethiopia,2005,NULL,231
+Ethiopia,2006,NULL,231
+Ethiopia,2007,NULL,231
+Ethiopia,2008,NULL,231
+Ethiopia,2009,NULL,231
+Ethiopia,2010,NULL,231
+Ethiopia,2011,NULL,231
+Ethiopia,2012,NULL,231
+Ethiopia,2013,NULL,231
+Ethiopia,2014,NULL,231
+Ethiopia,2015,NULL,231
+Ethiopia,2016,NULL,231
+Ethiopia,2017,NULL,231
+Ethiopia,2018,NULL,231
+Fiji,2000,NULL,242
+Fiji,2001,NULL,242
+Fiji,2002,NULL,242
+Fiji,2003,NULL,242
+Fiji,2004,NULL,242
+Fiji,2005,NULL,242
+Fiji,2006,NULL,242
+Fiji,2007,NULL,242
+Fiji,2008,NULL,242
+Fiji,2009,NULL,242
+Fiji,2010,NULL,242
+Fiji,2011,NULL,242
+Fiji,2012,NULL,242
+Fiji,2013,NULL,242
+Fiji,2014,NULL,242
+Fiji,2015,NULL,242
+Fiji,2016,NULL,242
+Fiji,2017,NULL,242
+Fiji,2018,NULL,242
+Gabon,2000,NULL,266
+Gabon,2001,NULL,266
+Gabon,2002,NULL,266
+Gabon,2003,NULL,266
+Gabon,2004,NULL,266
+Gabon,2005,NULL,266
+Gabon,2006,NULL,266
+Gabon,2007,NULL,266
+Gabon,2008,NULL,266
+Gabon,2009,NULL,266
+Gabon,2010,NULL,266
+Gabon,2011,NULL,266
+Gabon,2012,NULL,266
+Gabon,2013,NULL,266
+Gabon,2014,NULL,266
+Gabon,2015,NULL,266
+Gabon,2016,NULL,266
+Gabon,2017,NULL,266
+Gabon,2018,NULL,266
+Georgia,2000,NULL,268
+Georgia,2001,NULL,268
+Georgia,2002,NULL,268
+Georgia,2003,NULL,268
+Georgia,2004,NULL,268
+Georgia,2005,NULL,268
+Georgia,2006,NULL,268
+Georgia,2007,NULL,268
+Georgia,2008,NULL,268
+Georgia,2009,NULL,268
+Georgia,2010,NULL,268
+Georgia,2011,NULL,268
+Georgia,2012,NULL,268
+Georgia,2013,NULL,268
+Georgia,2014,NULL,268
+Georgia,2015,NULL,268
+Georgia,2016,NULL,268
+Georgia,2017,NULL,268
+Georgia,2018,NULL,268
+Ghana,2000,NULL,288
+Ghana,2001,NULL,288
+Ghana,2002,NULL,288
+Ghana,2003,NULL,288
+Ghana,2004,NULL,288
+Ghana,2005,NULL,288
+Ghana,2006,NULL,288
+Ghana,2007,NULL,288
+Ghana,2008,NULL,288
+Ghana,2009,NULL,288
+Ghana,2010,NULL,288
+Ghana,2011,NULL,288
+Ghana,2012,NULL,288
+Ghana,2013,NULL,288
+Ghana,2014,NULL,288
+Ghana,2015,NULL,288
+Ghana,2016,NULL,288
+Ghana,2017,NULL,288
+Ghana,2018,NULL,288
+Gambia,2000,NULL,270
+Gambia,2001,NULL,270
+Gambia,2002,NULL,270
+Gambia,2003,NULL,270
+Gambia,2004,NULL,270
+Gambia,2005,NULL,270
+Gambia,2006,NULL,270
+Gambia,2007,NULL,270
+Gambia,2008,NULL,270
+Gambia,2009,NULL,270
+Gambia,2010,NULL,270
+Gambia,2011,NULL,270
+Gambia,2012,NULL,270
+Gambia,2013,NULL,270
+Gambia,2014,NULL,270
+Gambia,2015,NULL,270
+Gambia,2016,NULL,270
+Gambia,2017,NULL,270
+Gambia,2018,NULL,270
+Guinea-Bissau,2000,NULL,624
+Guinea-Bissau,2001,NULL,624
+Guinea-Bissau,2002,NULL,624
+Guinea-Bissau,2003,NULL,624
+Guinea-Bissau,2004,NULL,624
+Guinea-Bissau,2005,NULL,624
+Guinea-Bissau,2006,NULL,624
+Guinea-Bissau,2007,NULL,624
+Guinea-Bissau,2008,NULL,624
+Guinea-Bissau,2009,NULL,624
+Guinea-Bissau,2010,NULL,624
+Guinea-Bissau,2011,NULL,624
+Guinea-Bissau,2012,NULL,624
+Guinea-Bissau,2013,NULL,624
+Guinea-Bissau,2014,NULL,624
+Guinea-Bissau,2015,NULL,624
+Guinea-Bissau,2016,NULL,624
+Guinea-Bissau,2017,NULL,624
+Guinea-Bissau,2018,NULL,624
+Equatorial Guinea,2000,NULL,226
+Equatorial Guinea,2001,NULL,226
+Equatorial Guinea,2002,NULL,226
+Equatorial Guinea,2003,NULL,226
+Equatorial Guinea,2004,NULL,226
+Equatorial Guinea,2005,NULL,226
+Equatorial Guinea,2006,NULL,226
+Equatorial Guinea,2007,NULL,226
+Equatorial Guinea,2008,NULL,226
+Equatorial Guinea,2009,NULL,226
+Equatorial Guinea,2010,NULL,226
+Equatorial Guinea,2011,NULL,226
+Equatorial Guinea,2012,NULL,226
+Equatorial Guinea,2013,NULL,226
+Equatorial Guinea,2014,NULL,226
+Equatorial Guinea,2015,NULL,226
+Equatorial Guinea,2016,NULL,226
+Equatorial Guinea,2017,NULL,226
+Equatorial Guinea,2018,NULL,226
+Grenada,2000,NULL,308
+Grenada,2001,NULL,308
+Grenada,2002,NULL,308
+Grenada,2003,NULL,308
+Grenada,2004,NULL,308
+Grenada,2005,NULL,308
+Grenada,2006,NULL,308
+Grenada,2007,NULL,308
+Grenada,2008,NULL,308
+Grenada,2009,NULL,308
+Grenada,2010,NULL,308
+Grenada,2011,NULL,308
+Grenada,2012,NULL,308
+Grenada,2013,NULL,308
+Grenada,2014,NULL,308
+Grenada,2015,NULL,308
+Grenada,2016,NULL,308
+Grenada,2017,NULL,308
+Grenada,2018,NULL,308
+Guatemala,2000,NULL,320
+Guatemala,2001,NULL,320
+Guatemala,2002,NULL,320
+Guatemala,2003,NULL,320
+Guatemala,2004,NULL,320
+Guatemala,2005,NULL,320
+Guatemala,2006,NULL,320
+Guatemala,2007,NULL,320
+Guatemala,2008,NULL,320
+Guatemala,2009,NULL,320
+Guatemala,2010,NULL,320
+Guatemala,2011,NULL,320
+Guatemala,2012,NULL,320
+Guatemala,2013,NULL,320
+Guatemala,2014,NULL,320
+Guatemala,2015,NULL,320
+Guatemala,2016,NULL,320
+Guatemala,2017,NULL,320
+Guatemala,2018,NULL,320
+Guyana,2000,NULL,328
+Guyana,2001,NULL,328
+Guyana,2002,NULL,328
+Guyana,2003,NULL,328
+Guyana,2004,NULL,328
+Guyana,2005,NULL,328
+Guyana,2006,NULL,328
+Guyana,2007,NULL,328
+Guyana,2008,NULL,328
+Guyana,2009,NULL,328
+Guyana,2010,NULL,328
+Guyana,2011,NULL,328
+Guyana,2012,NULL,328
+Guyana,2013,NULL,328
+Guyana,2014,NULL,328
+Guyana,2015,NULL,328
+Guyana,2016,NULL,328
+Guyana,2017,NULL,328
+Guyana,2018,NULL,328
+Honduras,2000,NULL,340
+Honduras,2001,NULL,340
+Honduras,2002,NULL,340
+Honduras,2003,NULL,340
+Honduras,2004,NULL,340
+Honduras,2005,NULL,340
+Honduras,2006,NULL,340
+Honduras,2007,NULL,340
+Honduras,2008,NULL,340
+Honduras,2009,NULL,340
+Honduras,2010,NULL,340
+Honduras,2011,NULL,340
+Honduras,2012,NULL,340
+Honduras,2013,NULL,340
+Honduras,2014,NULL,340
+Honduras,2015,NULL,340
+Honduras,2016,NULL,340
+Honduras,2017,NULL,340
+Honduras,2018,NULL,340
+Haiti,2000,NULL,332
+Haiti,2001,NULL,332
+Haiti,2002,NULL,332
+Haiti,2003,NULL,332
+Haiti,2004,NULL,332
+Haiti,2005,NULL,332
+Haiti,2006,NULL,332
+Haiti,2007,NULL,332
+Haiti,2008,NULL,332
+Haiti,2009,NULL,332
+Haiti,2010,NULL,332
+Haiti,2011,NULL,332
+Haiti,2012,NULL,332
+Haiti,2013,NULL,332
+Haiti,2014,NULL,332
+Haiti,2015,NULL,332
+Haiti,2016,NULL,332
+Haiti,2017,NULL,332
+Haiti,2018,NULL,332
+Indonesia,2000,NULL,360
+Indonesia,2001,NULL,360
+Indonesia,2002,NULL,360
+Indonesia,2003,NULL,360
+Indonesia,2004,NULL,360
+Indonesia,2005,NULL,360
+Indonesia,2006,NULL,360
+Indonesia,2007,NULL,360
+Indonesia,2008,NULL,360
+Indonesia,2009,NULL,360
+Indonesia,2010,NULL,360
+Indonesia,2011,NULL,360
+Indonesia,2012,NULL,360
+Indonesia,2013,NULL,360
+Indonesia,2014,NULL,360
+Indonesia,2015,NULL,360
+Indonesia,2016,NULL,360
+Indonesia,2017,NULL,360
+Indonesia,2018,NULL,360
+India,2000,NULL,356
+India,2001,NULL,356
+India,2002,NULL,356
+India,2003,NULL,356
+India,2004,NULL,356
+India,2005,NULL,356
+India,2006,NULL,356
+India,2007,NULL,356
+India,2008,NULL,356
+India,2009,NULL,356
+India,2010,NULL,356
+India,2011,NULL,356
+India,2012,NULL,356
+India,2013,NULL,356
+India,2014,NULL,356
+India,2015,NULL,356
+India,2016,NULL,356
+India,2017,NULL,356
+India,2018,NULL,356
+Israel,2000,NULL,376
+Israel,2001,NULL,376
+Israel,2002,NULL,376
+Israel,2003,NULL,376
+Israel,2004,NULL,376
+Israel,2005,NULL,376
+Israel,2006,NULL,376
+Israel,2007,NULL,376
+Israel,2008,NULL,376
+Israel,2009,NULL,376
+Israel,2010,NULL,376
+Israel,2011,NULL,376
+Israel,2012,NULL,376
+Israel,2013,NULL,376
+Israel,2014,NULL,376
+Israel,2015,NULL,376
+Israel,2016,NULL,376
+Israel,2017,NULL,376
+Israel,2018,NULL,376
+Jamaica,2000,NULL,388
+Jamaica,2001,NULL,388
+Jamaica,2002,NULL,388
+Jamaica,2003,NULL,388
+Jamaica,2004,NULL,388
+Jamaica,2005,NULL,388
+Jamaica,2006,NULL,388
+Jamaica,2007,NULL,388
+Jamaica,2008,NULL,388
+Jamaica,2009,NULL,388
+Jamaica,2010,NULL,388
+Jamaica,2011,NULL,388
+Jamaica,2012,NULL,388
+Jamaica,2013,NULL,388
+Jamaica,2014,NULL,388
+Jamaica,2015,NULL,388
+Jamaica,2016,NULL,388
+Jamaica,2017,NULL,388
+Jamaica,2018,NULL,388
+Jordan,2000,NULL,400
+Jordan,2001,NULL,400
+Jordan,2002,NULL,400
+Jordan,2003,NULL,400
+Jordan,2004,NULL,400
+Jordan,2005,NULL,400
+Jordan,2006,NULL,400
+Jordan,2007,NULL,400
+Jordan,2008,NULL,400
+Jordan,2009,NULL,400
+Jordan,2010,NULL,400
+Jordan,2011,NULL,400
+Jordan,2012,NULL,400
+Jordan,2013,NULL,400
+Jordan,2014,NULL,400
+Jordan,2015,NULL,400
+Jordan,2016,NULL,400
+Jordan,2017,NULL,400
+Jordan,2018,NULL,400
+Kazakhstan,2000,NULL,398
+Kazakhstan,2001,NULL,398
+Kazakhstan,2002,NULL,398
+Kazakhstan,2003,NULL,398
+Kazakhstan,2004,NULL,398
+Kazakhstan,2005,NULL,398
+Kazakhstan,2006,NULL,398
+Kazakhstan,2007,NULL,398
+Kazakhstan,2008,NULL,398
+Kazakhstan,2009,NULL,398
+Kazakhstan,2010,NULL,398
+Kazakhstan,2011,NULL,398
+Kazakhstan,2012,NULL,398
+Kazakhstan,2013,NULL,398
+Kazakhstan,2014,NULL,398
+Kazakhstan,2015,NULL,398
+Kazakhstan,2016,NULL,398
+Kazakhstan,2017,NULL,398
+Kazakhstan,2018,NULL,398
+Kenya,2000,NULL,404
+Kenya,2001,NULL,404
+Kenya,2002,NULL,404
+Kenya,2003,NULL,404
+Kenya,2004,NULL,404
+Kenya,2005,NULL,404
+Kenya,2006,NULL,404
+Kenya,2007,NULL,404
+Kenya,2008,NULL,404
+Kenya,2009,NULL,404
+Kenya,2010,NULL,404
+Kenya,2011,NULL,404
+Kenya,2012,NULL,404
+Kenya,2013,NULL,404
+Kenya,2014,NULL,404
+Kenya,2015,NULL,404
+Kenya,2016,NULL,404
+Kenya,2017,NULL,404
+Kenya,2018,NULL,404
+Kyrgyzstan,2000,NULL,417
+Kyrgyzstan,2001,NULL,417
+Kyrgyzstan,2002,NULL,417
+Kyrgyzstan,2003,NULL,417
+Kyrgyzstan,2004,NULL,417
+Kyrgyzstan,2005,NULL,417
+Kyrgyzstan,2006,NULL,417
+Kyrgyzstan,2007,NULL,417
+Kyrgyzstan,2008,NULL,417
+Kyrgyzstan,2009,NULL,417
+Kyrgyzstan,2010,NULL,417
+Kyrgyzstan,2011,NULL,417
+Kyrgyzstan,2012,NULL,417
+Kyrgyzstan,2013,NULL,417
+Kyrgyzstan,2014,NULL,417
+Kyrgyzstan,2015,NULL,417
+Kyrgyzstan,2016,NULL,417
+Kyrgyzstan,2017,NULL,417
+Kyrgyzstan,2018,NULL,417
+Cambodia,2000,NULL,116
+Cambodia,2001,NULL,116
+Cambodia,2002,NULL,116
+Cambodia,2003,NULL,116
+Cambodia,2004,NULL,116
+Cambodia,2005,NULL,116
+Cambodia,2006,NULL,116
+Cambodia,2007,NULL,116
+Cambodia,2008,NULL,116
+Cambodia,2009,NULL,116
+Cambodia,2010,NULL,116
+Cambodia,2011,NULL,116
+Cambodia,2012,NULL,116
+Cambodia,2013,NULL,116
+Cambodia,2014,NULL,116
+Cambodia,2015,NULL,116
+Cambodia,2016,NULL,116
+Cambodia,2017,NULL,116
+Cambodia,2018,NULL,116
+Kiribati,2000,NULL,296
+Kiribati,2001,NULL,296
+Kiribati,2002,NULL,296
+Kiribati,2003,NULL,296
+Kiribati,2004,NULL,296
+Kiribati,2005,NULL,296
+Kiribati,2006,NULL,296
+Kiribati,2007,NULL,296
+Kiribati,2008,NULL,296
+Kiribati,2009,NULL,296
+Kiribati,2010,NULL,296
+Kiribati,2011,NULL,296
+Kiribati,2012,NULL,296
+Kiribati,2013,NULL,296
+Kiribati,2014,NULL,296
+Kiribati,2015,NULL,296
+Kiribati,2016,NULL,296
+Kiribati,2017,NULL,296
+Kiribati,2018,NULL,296
+Saint Kitts and Nevis,2000,NULL,659
+Saint Kitts and Nevis,2001,NULL,659
+Saint Kitts and Nevis,2002,NULL,659
+Saint Kitts and Nevis,2003,NULL,659
+Saint Kitts and Nevis,2004,NULL,659
+Saint Kitts and Nevis,2005,NULL,659
+Saint Kitts and Nevis,2006,NULL,659
+Saint Kitts and Nevis,2007,NULL,659
+Saint Kitts and Nevis,2008,NULL,659
+Saint Kitts and Nevis,2009,NULL,659
+Saint Kitts and Nevis,2010,NULL,659
+Saint Kitts and Nevis,2011,NULL,659
+Saint Kitts and Nevis,2012,NULL,659
+Saint Kitts and Nevis,2013,NULL,659
+Saint Kitts and Nevis,2014,NULL,659
+Saint Kitts and Nevis,2015,NULL,659
+Saint Kitts and Nevis,2016,NULL,659
+Saint Kitts and Nevis,2017,NULL,659
+Saint Kitts and Nevis,2018,NULL,659
+Lebanon,2000,NULL,422
+Lebanon,2001,NULL,422
+Lebanon,2002,NULL,422
+Lebanon,2003,NULL,422
+Lebanon,2004,NULL,422
+Lebanon,2005,NULL,422
+Lebanon,2006,NULL,422
+Lebanon,2007,NULL,422
+Lebanon,2008,NULL,422
+Lebanon,2009,NULL,422
+Lebanon,2010,NULL,422
+Lebanon,2011,NULL,422
+Lebanon,2012,NULL,422
+Lebanon,2013,NULL,422
+Lebanon,2014,NULL,422
+Lebanon,2015,NULL,422
+Lebanon,2016,NULL,422
+Lebanon,2017,NULL,422
+Lebanon,2018,NULL,422
+Liberia,2000,NULL,430
+Liberia,2001,NULL,430
+Liberia,2002,NULL,430
+Liberia,2003,NULL,430
+Liberia,2004,NULL,430
+Liberia,2005,NULL,430
+Liberia,2006,NULL,430
+Liberia,2007,NULL,430
+Liberia,2008,NULL,430
+Liberia,2009,NULL,430
+Liberia,2010,NULL,430
+Liberia,2011,NULL,430
+Liberia,2012,NULL,430
+Liberia,2013,NULL,430
+Liberia,2014,NULL,430
+Liberia,2015,NULL,430
+Liberia,2016,NULL,430
+Liberia,2017,NULL,430
+Liberia,2018,NULL,430
+Libya,2000,NULL,434
+Libya,2001,NULL,434
+Libya,2002,NULL,434
+Libya,2003,NULL,434
+Libya,2004,NULL,434
+Libya,2005,NULL,434
+Libya,2006,NULL,434
+Libya,2007,NULL,434
+Libya,2008,NULL,434
+Libya,2009,NULL,434
+Libya,2010,NULL,434
+Libya,2011,NULL,434
+Libya,2012,NULL,434
+Libya,2013,NULL,434
+Libya,2014,NULL,434
+Libya,2015,NULL,434
+Libya,2016,NULL,434
+Libya,2017,NULL,434
+Libya,2018,NULL,434
+Saint Lucia,2000,NULL,662
+Saint Lucia,2001,NULL,662
+Saint Lucia,2002,NULL,662
+Saint Lucia,2003,NULL,662
+Saint Lucia,2004,NULL,662
+Saint Lucia,2005,NULL,662
+Saint Lucia,2006,NULL,662
+Saint Lucia,2007,NULL,662
+Saint Lucia,2008,NULL,662
+Saint Lucia,2009,NULL,662
+Saint Lucia,2010,NULL,662
+Saint Lucia,2011,NULL,662
+Saint Lucia,2012,NULL,662
+Saint Lucia,2013,NULL,662
+Saint Lucia,2014,NULL,662
+Saint Lucia,2015,NULL,662
+Saint Lucia,2016,NULL,662
+Saint Lucia,2017,NULL,662
+Saint Lucia,2018,NULL,662
+Liechtenstein,2000,NULL,438
+Liechtenstein,2001,NULL,438
+Liechtenstein,2002,NULL,438
+Liechtenstein,2003,NULL,438
+Liechtenstein,2004,NULL,438
+Liechtenstein,2005,NULL,438
+Liechtenstein,2006,NULL,438
+Liechtenstein,2007,NULL,438
+Liechtenstein,2008,NULL,438
+Liechtenstein,2009,NULL,438
+Liechtenstein,2010,NULL,438
+Liechtenstein,2011,NULL,438
+Liechtenstein,2012,NULL,438
+Liechtenstein,2013,NULL,438
+Liechtenstein,2014,NULL,438
+Liechtenstein,2015,NULL,438
+Liechtenstein,2016,NULL,438
+Liechtenstein,2017,NULL,438
+Liechtenstein,2018,NULL,438
+Sri Lanka,2000,NULL,144
+Sri Lanka,2001,NULL,144
+Sri Lanka,2002,NULL,144
+Sri Lanka,2003,NULL,144
+Sri Lanka,2004,NULL,144
+Sri Lanka,2005,NULL,144
+Sri Lanka,2006,NULL,144
+Sri Lanka,2007,NULL,144
+Sri Lanka,2008,NULL,144
+Sri Lanka,2009,NULL,144
+Sri Lanka,2010,NULL,144
+Sri Lanka,2011,NULL,144
+Sri Lanka,2012,NULL,144
+Sri Lanka,2013,NULL,144
+Sri Lanka,2014,NULL,144
+Sri Lanka,2015,NULL,144
+Sri Lanka,2016,NULL,144
+Sri Lanka,2017,NULL,144
+Sri Lanka,2018,NULL,144
+Lesotho,2000,NULL,426
+Lesotho,2001,NULL,426
+Lesotho,2002,NULL,426
+Lesotho,2003,NULL,426
+Lesotho,2004,NULL,426
+Lesotho,2005,NULL,426
+Lesotho,2006,NULL,426
+Lesotho,2007,NULL,426
+Lesotho,2008,NULL,426
+Lesotho,2009,NULL,426
+Lesotho,2010,NULL,426
+Lesotho,2011,NULL,426
+Lesotho,2012,NULL,426
+Lesotho,2013,NULL,426
+Lesotho,2014,NULL,426
+Lesotho,2015,NULL,426
+Lesotho,2016,NULL,426
+Lesotho,2017,NULL,426
+Lesotho,2018,NULL,426
+Morocco,2000,NULL,504
+Morocco,2001,NULL,504
+Morocco,2002,NULL,504
+Morocco,2003,NULL,504
+Morocco,2004,NULL,504
+Morocco,2005,NULL,504
+Morocco,2006,NULL,504
+Morocco,2007,NULL,504
+Morocco,2008,NULL,504
+Morocco,2009,NULL,504
+Morocco,2010,NULL,504
+Morocco,2011,NULL,504
+Morocco,2012,NULL,504
+Morocco,2013,NULL,504
+Morocco,2014,NULL,504
+Morocco,2015,NULL,504
+Morocco,2016,NULL,504
+Morocco,2017,NULL,504
+Morocco,2018,NULL,504
+Madagascar,2000,NULL,450
+Madagascar,2001,NULL,450
+Madagascar,2002,NULL,450
+Madagascar,2003,NULL,450
+Madagascar,2004,NULL,450
+Madagascar,2005,NULL,450
+Madagascar,2006,NULL,450
+Madagascar,2007,NULL,450
+Madagascar,2008,NULL,450
+Madagascar,2009,NULL,450
+Madagascar,2010,NULL,450
+Madagascar,2011,NULL,450
+Madagascar,2012,NULL,450
+Madagascar,2013,NULL,450
+Madagascar,2014,NULL,450
+Madagascar,2015,NULL,450
+Madagascar,2016,NULL,450
+Madagascar,2017,NULL,450
+Madagascar,2018,NULL,450
+Maldives,2000,NULL,462
+Maldives,2001,NULL,462
+Maldives,2002,NULL,462
+Maldives,2003,NULL,462
+Maldives,2004,NULL,462
+Maldives,2005,NULL,462
+Maldives,2006,NULL,462
+Maldives,2007,NULL,462
+Maldives,2008,NULL,462
+Maldives,2009,NULL,462
+Maldives,2010,NULL,462
+Maldives,2011,NULL,462
+Maldives,2012,NULL,462
+Maldives,2013,NULL,462
+Maldives,2014,NULL,462
+Maldives,2015,NULL,462
+Maldives,2016,NULL,462
+Maldives,2017,NULL,462
+Maldives,2018,NULL,462
+Marshall Islands,2000,NULL,584
+Marshall Islands,2001,NULL,584
+Marshall Islands,2002,NULL,584
+Marshall Islands,2003,NULL,584
+Marshall Islands,2004,NULL,584
+Marshall Islands,2005,NULL,584
+Marshall Islands,2006,NULL,584
+Marshall Islands,2007,NULL,584
+Marshall Islands,2008,NULL,584
+Marshall Islands,2009,NULL,584
+Marshall Islands,2010,NULL,584
+Marshall Islands,2011,NULL,584
+Marshall Islands,2012,NULL,584
+Marshall Islands,2013,NULL,584
+Marshall Islands,2014,NULL,584
+Marshall Islands,2015,NULL,584
+Marshall Islands,2016,NULL,584
+Marshall Islands,2017,NULL,584
+Marshall Islands,2018,NULL,584
+Mali,2000,NULL,466
+Mali,2001,NULL,466
+Mali,2002,NULL,466
+Mali,2003,NULL,466
+Mali,2004,NULL,466
+Mali,2005,NULL,466
+Mali,2006,NULL,466
+Mali,2007,NULL,466
+Mali,2008,NULL,466
+Mali,2009,NULL,466
+Mali,2010,NULL,466
+Mali,2011,NULL,466
+Mali,2012,NULL,466
+Mali,2013,NULL,466
+Mali,2014,NULL,466
+Mali,2015,NULL,466
+Mali,2016,NULL,466
+Mali,2017,NULL,466
+Mali,2018,NULL,466
+Myanmar,2000,NULL,104
+Myanmar,2001,NULL,104
+Myanmar,2002,NULL,104
+Myanmar,2003,NULL,104
+Myanmar,2004,NULL,104
+Myanmar,2005,NULL,104
+Myanmar,2006,NULL,104
+Myanmar,2007,NULL,104
+Myanmar,2008,NULL,104
+Myanmar,2009,NULL,104
+Myanmar,2010,NULL,104
+Myanmar,2011,NULL,104
+Myanmar,2012,NULL,104
+Myanmar,2013,NULL,104
+Myanmar,2014,NULL,104
+Myanmar,2015,NULL,104
+Myanmar,2016,NULL,104
+Myanmar,2017,NULL,104
+Myanmar,2018,NULL,104
+Montenegro,2000,NULL,499
+Montenegro,2001,NULL,499
+Montenegro,2002,NULL,499
+Montenegro,2003,NULL,499
+Montenegro,2004,NULL,499
+Montenegro,2005,NULL,499
+Montenegro,2006,NULL,499
+Montenegro,2007,NULL,499
+Montenegro,2008,NULL,499
+Montenegro,2009,NULL,499
+Montenegro,2010,NULL,499
+Montenegro,2011,NULL,499
+Montenegro,2012,NULL,499
+Montenegro,2013,NULL,499
+Montenegro,2014,NULL,499
+Montenegro,2015,NULL,499
+Montenegro,2016,NULL,499
+Montenegro,2017,NULL,499
+Montenegro,2018,NULL,499
+Mozambique,2000,NULL,508
+Mozambique,2001,NULL,508
+Mozambique,2002,NULL,508
+Mozambique,2003,NULL,508
+Mozambique,2004,NULL,508
+Mozambique,2005,NULL,508
+Mozambique,2006,NULL,508
+Mozambique,2007,NULL,508
+Mozambique,2008,NULL,508
+Mozambique,2009,NULL,508
+Mozambique,2010,NULL,508
+Mozambique,2011,NULL,508
+Mozambique,2012,NULL,508
+Mozambique,2013,NULL,508
+Mozambique,2014,NULL,508
+Mozambique,2015,NULL,508
+Mozambique,2016,NULL,508
+Mozambique,2017,NULL,508
+Mozambique,2018,NULL,508
+Mauritania,2000,NULL,478
+Mauritania,2001,NULL,478
+Mauritania,2002,NULL,478
+Mauritania,2003,NULL,478
+Mauritania,2004,NULL,478
+Mauritania,2005,NULL,478
+Mauritania,2006,NULL,478
+Mauritania,2007,NULL,478
+Mauritania,2008,NULL,478
+Mauritania,2009,NULL,478
+Mauritania,2010,NULL,478
+Mauritania,2011,NULL,478
+Mauritania,2012,NULL,478
+Mauritania,2013,NULL,478
+Mauritania,2014,NULL,478
+Mauritania,2015,NULL,478
+Mauritania,2016,NULL,478
+Mauritania,2017,NULL,478
+Mauritania,2018,NULL,478
+Mauritius,2000,NULL,480
+Mauritius,2001,NULL,480
+Mauritius,2002,NULL,480
+Mauritius,2003,NULL,480
+Mauritius,2004,NULL,480
+Mauritius,2005,NULL,480
+Mauritius,2006,NULL,480
+Mauritius,2007,NULL,480
+Mauritius,2008,NULL,480
+Mauritius,2009,NULL,480
+Mauritius,2010,NULL,480
+Mauritius,2011,NULL,480
+Mauritius,2012,NULL,480
+Mauritius,2013,NULL,480
+Mauritius,2014,NULL,480
+Mauritius,2015,NULL,480
+Mauritius,2016,NULL,480
+Mauritius,2017,NULL,480
+Mauritius,2018,NULL,480
+Malawi,2000,NULL,454
+Malawi,2001,NULL,454
+Malawi,2002,NULL,454
+Malawi,2003,NULL,454
+Malawi,2004,NULL,454
+Malawi,2005,NULL,454
+Malawi,2006,NULL,454
+Malawi,2007,NULL,454
+Malawi,2008,NULL,454
+Malawi,2009,NULL,454
+Malawi,2010,NULL,454
+Malawi,2011,NULL,454
+Malawi,2012,NULL,454
+Malawi,2013,NULL,454
+Malawi,2014,NULL,454
+Malawi,2015,NULL,454
+Malawi,2016,NULL,454
+Malawi,2017,NULL,454
+Malawi,2018,NULL,454
+Namibia,2000,NULL,516
+Namibia,2001,NULL,516
+Namibia,2002,NULL,516
+Namibia,2003,NULL,516
+Namibia,2004,NULL,516
+Namibia,2005,NULL,516
+Namibia,2006,NULL,516
+Namibia,2007,NULL,516
+Namibia,2008,NULL,516
+Namibia,2009,NULL,516
+Namibia,2010,NULL,516
+Namibia,2011,NULL,516
+Namibia,2012,NULL,516
+Namibia,2013,NULL,516
+Namibia,2014,NULL,516
+Namibia,2015,NULL,516
+Namibia,2016,NULL,516
+Namibia,2017,NULL,516
+Namibia,2018,NULL,516
+Niger,2000,NULL,562
+Niger,2001,NULL,562
+Niger,2002,NULL,562
+Niger,2003,NULL,562
+Niger,2004,NULL,562
+Niger,2005,NULL,562
+Niger,2006,NULL,562
+Niger,2007,NULL,562
+Niger,2008,NULL,562
+Niger,2009,NULL,562
+Niger,2010,NULL,562
+Niger,2011,NULL,562
+Niger,2012,NULL,562
+Niger,2013,NULL,562
+Niger,2014,NULL,562
+Niger,2015,NULL,562
+Niger,2016,NULL,562
+Niger,2017,NULL,562
+Niger,2018,NULL,562
+Nigeria,2000,NULL,566
+Nigeria,2001,NULL,566
+Nigeria,2002,NULL,566
+Nigeria,2003,NULL,566
+Nigeria,2004,NULL,566
+Nigeria,2005,NULL,566
+Nigeria,2006,NULL,566
+Nigeria,2007,NULL,566
+Nigeria,2008,NULL,566
+Nigeria,2009,NULL,566
+Nigeria,2010,NULL,566
+Nigeria,2011,NULL,566
+Nigeria,2012,NULL,566
+Nigeria,2013,NULL,566
+Nigeria,2014,NULL,566
+Nigeria,2015,NULL,566
+Nigeria,2016,NULL,566
+Nigeria,2017,NULL,566
+Nigeria,2018,NULL,566
+Nicaragua,2000,NULL,558
+Nicaragua,2001,NULL,558
+Nicaragua,2002,NULL,558
+Nicaragua,2003,NULL,558
+Nicaragua,2004,NULL,558
+Nicaragua,2005,NULL,558
+Nicaragua,2006,NULL,558
+Nicaragua,2007,NULL,558
+Nicaragua,2008,NULL,558
+Nicaragua,2009,NULL,558
+Nicaragua,2010,NULL,558
+Nicaragua,2011,NULL,558
+Nicaragua,2012,NULL,558
+Nicaragua,2013,NULL,558
+Nicaragua,2014,NULL,558
+Nicaragua,2015,NULL,558
+Nicaragua,2016,NULL,558
+Nicaragua,2017,NULL,558
+Nicaragua,2018,NULL,558
+Nepal,2000,NULL,524
+Nepal,2001,NULL,524
+Nepal,2002,NULL,524
+Nepal,2003,NULL,524
+Nepal,2004,NULL,524
+Nepal,2005,NULL,524
+Nepal,2006,NULL,524
+Nepal,2007,NULL,524
+Nepal,2008,NULL,524
+Nepal,2009,NULL,524
+Nepal,2010,NULL,524
+Nepal,2011,NULL,524
+Nepal,2012,NULL,524
+Nepal,2013,NULL,524
+Nepal,2014,NULL,524
+Nepal,2015,NULL,524
+Nepal,2016,NULL,524
+Nepal,2017,NULL,524
+Nepal,2018,NULL,524
+Oman,2000,NULL,512
+Oman,2001,NULL,512
+Oman,2002,NULL,512
+Oman,2003,NULL,512
+Oman,2004,NULL,512
+Oman,2005,NULL,512
+Oman,2006,NULL,512
+Oman,2007,NULL,512
+Oman,2008,NULL,512
+Oman,2009,NULL,512
+Oman,2010,NULL,512
+Oman,2011,NULL,512
+Oman,2012,NULL,512
+Oman,2013,NULL,512
+Oman,2014,NULL,512
+Oman,2015,NULL,512
+Oman,2016,NULL,512
+Oman,2017,NULL,512
+Oman,2018,NULL,512
+Pakistan,2000,NULL,586
+Pakistan,2001,NULL,586
+Pakistan,2002,NULL,586
+Pakistan,2003,NULL,586
+Pakistan,2004,NULL,586
+Pakistan,2005,NULL,586
+Pakistan,2006,NULL,586
+Pakistan,2007,NULL,586
+Pakistan,2008,NULL,586
+Pakistan,2009,NULL,586
+Pakistan,2010,NULL,586
+Pakistan,2011,NULL,586
+Pakistan,2012,NULL,586
+Pakistan,2013,NULL,586
+Pakistan,2014,NULL,586
+Pakistan,2015,NULL,586
+Pakistan,2016,NULL,586
+Pakistan,2017,NULL,586
+Pakistan,2018,NULL,586
+Panama,2000,NULL,591
+Panama,2001,NULL,591
+Panama,2002,NULL,591
+Panama,2003,NULL,591
+Panama,2004,NULL,591
+Panama,2005,NULL,591
+Panama,2006,NULL,591
+Panama,2007,NULL,591
+Panama,2008,NULL,591
+Panama,2009,NULL,591
+Panama,2010,NULL,591
+Panama,2011,NULL,591
+Panama,2012,NULL,591
+Panama,2013,NULL,591
+Panama,2014,NULL,591
+Panama,2015,NULL,591
+Panama,2016,NULL,591
+Panama,2017,NULL,591
+Panama,2018,NULL,591
+Palau,2000,NULL,585
+Palau,2001,NULL,585
+Palau,2002,NULL,585
+Palau,2003,NULL,585
+Palau,2004,NULL,585
+Palau,2005,NULL,585
+Palau,2006,NULL,585
+Palau,2007,NULL,585
+Palau,2008,NULL,585
+Palau,2009,NULL,585
+Palau,2010,NULL,585
+Palau,2011,NULL,585
+Palau,2012,NULL,585
+Palau,2013,NULL,585
+Palau,2014,NULL,585
+Palau,2015,NULL,585
+Palau,2016,NULL,585
+Palau,2017,NULL,585
+Palau,2018,NULL,585
+Papua New Guinea,2000,NULL,598
+Papua New Guinea,2001,NULL,598
+Papua New Guinea,2002,NULL,598
+Papua New Guinea,2003,NULL,598
+Papua New Guinea,2004,NULL,598
+Papua New Guinea,2005,NULL,598
+Papua New Guinea,2006,NULL,598
+Papua New Guinea,2007,NULL,598
+Papua New Guinea,2008,NULL,598
+Papua New Guinea,2009,NULL,598
+Papua New Guinea,2010,NULL,598
+Papua New Guinea,2011,NULL,598
+Papua New Guinea,2012,NULL,598
+Papua New Guinea,2013,NULL,598
+Papua New Guinea,2014,NULL,598
+Papua New Guinea,2015,NULL,598
+Papua New Guinea,2016,NULL,598
+Papua New Guinea,2017,NULL,598
+Papua New Guinea,2018,NULL,598
+Paraguay,2000,NULL,600
+Paraguay,2001,NULL,600
+Paraguay,2002,NULL,600
+Paraguay,2003,NULL,600
+Paraguay,2004,NULL,600
+Paraguay,2005,NULL,600
+Paraguay,2006,NULL,600
+Paraguay,2007,NULL,600
+Paraguay,2008,NULL,600
+Paraguay,2009,NULL,600
+Paraguay,2010,NULL,600
+Paraguay,2011,NULL,600
+Paraguay,2012,NULL,600
+Paraguay,2013,NULL,600
+Paraguay,2014,NULL,600
+Paraguay,2015,NULL,600
+Paraguay,2016,NULL,600
+Paraguay,2017,NULL,600
+Paraguay,2018,NULL,600
+Romania,2000,NULL,642
+Romania,2001,NULL,642
+Romania,2002,NULL,642
+Romania,2003,NULL,642
+Romania,2004,NULL,642
+Romania,2005,NULL,642
+Romania,2006,NULL,642
+Romania,2007,NULL,642
+Romania,2008,NULL,642
+Romania,2009,NULL,642
+Romania,2010,NULL,642
+Romania,2011,NULL,642
+Romania,2012,NULL,642
+Romania,2013,NULL,642
+Romania,2014,NULL,642
+Romania,2015,NULL,642
+Romania,2016,NULL,642
+Romania,2017,NULL,642
+Romania,2018,NULL,642
+Rwanda,2000,NULL,646
+Rwanda,2001,NULL,646
+Rwanda,2002,NULL,646
+Rwanda,2003,NULL,646
+Rwanda,2004,NULL,646
+Rwanda,2005,NULL,646
+Rwanda,2006,NULL,646
+Rwanda,2007,NULL,646
+Rwanda,2008,NULL,646
+Rwanda,2009,NULL,646
+Rwanda,2010,NULL,646
+Rwanda,2011,NULL,646
+Rwanda,2012,NULL,646
+Rwanda,2013,NULL,646
+Rwanda,2014,NULL,646
+Rwanda,2015,NULL,646
+Rwanda,2016,NULL,646
+Rwanda,2017,NULL,646
+Rwanda,2018,NULL,646
+Saudi Arabia,2000,NULL,682
+Saudi Arabia,2001,NULL,682
+Saudi Arabia,2002,NULL,682
+Saudi Arabia,2003,NULL,682
+Saudi Arabia,2004,NULL,682
+Saudi Arabia,2005,NULL,682
+Saudi Arabia,2006,NULL,682
+Saudi Arabia,2007,NULL,682
+Saudi Arabia,2008,NULL,682
+Saudi Arabia,2009,NULL,682
+Saudi Arabia,2010,NULL,682
+Saudi Arabia,2011,NULL,682
+Saudi Arabia,2012,NULL,682
+Saudi Arabia,2013,NULL,682
+Saudi Arabia,2014,NULL,682
+Saudi Arabia,2015,NULL,682
+Saudi Arabia,2016,NULL,682
+Saudi Arabia,2017,NULL,682
+Saudi Arabia,2018,NULL,682
+Sudan,2000,NULL,729
+Sudan,2001,NULL,729
+Sudan,2002,NULL,729
+Sudan,2003,NULL,729
+Sudan,2004,NULL,729
+Sudan,2005,NULL,729
+Sudan,2006,NULL,729
+Sudan,2007,NULL,729
+Sudan,2008,NULL,729
+Sudan,2009,NULL,729
+Sudan,2010,NULL,729
+Sudan,2011,NULL,729
+Sudan,2012,NULL,729
+Sudan,2013,NULL,729
+Sudan,2014,NULL,729
+Sudan,2015,NULL,729
+Sudan,2016,NULL,729
+Sudan,2017,NULL,729
+Sudan,2018,NULL,729
+Senegal,2000,NULL,686
+Senegal,2001,NULL,686
+Senegal,2002,NULL,686
+Senegal,2003,NULL,686
+Senegal,2004,NULL,686
+Senegal,2005,NULL,686
+Senegal,2006,NULL,686
+Senegal,2007,NULL,686
+Senegal,2008,NULL,686
+Senegal,2009,NULL,686
+Senegal,2010,NULL,686
+Senegal,2011,NULL,686
+Senegal,2012,NULL,686
+Senegal,2013,NULL,686
+Senegal,2014,NULL,686
+Senegal,2015,NULL,686
+Senegal,2016,NULL,686
+Senegal,2017,NULL,686
+Senegal,2018,NULL,686
+Singapore,2000,NULL,702
+Singapore,2001,NULL,702
+Singapore,2002,NULL,702
+Singapore,2003,NULL,702
+Singapore,2004,NULL,702
+Singapore,2005,NULL,702
+Singapore,2006,NULL,702
+Singapore,2007,NULL,702
+Singapore,2008,NULL,702
+Singapore,2009,NULL,702
+Singapore,2010,NULL,702
+Singapore,2011,NULL,702
+Singapore,2012,NULL,702
+Singapore,2013,NULL,702
+Singapore,2014,NULL,702
+Singapore,2015,NULL,702
+Singapore,2016,NULL,702
+Singapore,2017,NULL,702
+Singapore,2018,NULL,702
+Solomon Islands,2000,NULL,90
+Solomon Islands,2001,NULL,90
+Solomon Islands,2002,NULL,90
+Solomon Islands,2003,NULL,90
+Solomon Islands,2004,NULL,90
+Solomon Islands,2005,NULL,90
+Solomon Islands,2006,NULL,90
+Solomon Islands,2007,NULL,90
+Solomon Islands,2008,NULL,90
+Solomon Islands,2009,NULL,90
+Solomon Islands,2010,NULL,90
+Solomon Islands,2011,NULL,90
+Solomon Islands,2012,NULL,90
+Solomon Islands,2013,NULL,90
+Solomon Islands,2014,NULL,90
+Solomon Islands,2015,NULL,90
+Solomon Islands,2016,NULL,90
+Solomon Islands,2017,NULL,90
+Solomon Islands,2018,NULL,90
+Sierra Leone,2000,NULL,694
+Sierra Leone,2001,NULL,694
+Sierra Leone,2002,NULL,694
+Sierra Leone,2003,NULL,694
+Sierra Leone,2004,NULL,694
+Sierra Leone,2005,NULL,694
+Sierra Leone,2006,NULL,694
+Sierra Leone,2007,NULL,694
+Sierra Leone,2008,NULL,694
+Sierra Leone,2009,NULL,694
+Sierra Leone,2010,NULL,694
+Sierra Leone,2011,NULL,694
+Sierra Leone,2012,NULL,694
+Sierra Leone,2013,NULL,694
+Sierra Leone,2014,NULL,694
+Sierra Leone,2015,NULL,694
+Sierra Leone,2016,NULL,694
+Sierra Leone,2017,NULL,694
+Sierra Leone,2018,NULL,694
+El Salvador,2000,NULL,222
+El Salvador,2001,NULL,222
+El Salvador,2002,NULL,222
+El Salvador,2003,NULL,222
+El Salvador,2004,NULL,222
+El Salvador,2005,NULL,222
+El Salvador,2006,NULL,222
+El Salvador,2007,NULL,222
+El Salvador,2008,NULL,222
+El Salvador,2009,NULL,222
+El Salvador,2010,NULL,222
+El Salvador,2011,NULL,222
+El Salvador,2012,NULL,222
+El Salvador,2013,NULL,222
+El Salvador,2014,NULL,222
+El Salvador,2015,NULL,222
+El Salvador,2016,NULL,222
+El Salvador,2017,NULL,222
+El Salvador,2018,NULL,222
+South Sudan,2000,NULL,728
+South Sudan,2001,NULL,728
+South Sudan,2002,NULL,728
+South Sudan,2003,NULL,728
+South Sudan,2004,NULL,728
+South Sudan,2005,NULL,728
+South Sudan,2006,NULL,728
+South Sudan,2007,NULL,728
+South Sudan,2008,NULL,728
+South Sudan,2009,NULL,728
+South Sudan,2010,NULL,728
+South Sudan,2011,NULL,728
+South Sudan,2012,NULL,728
+South Sudan,2013,NULL,728
+South Sudan,2014,NULL,728
+South Sudan,2015,NULL,728
+South Sudan,2016,NULL,728
+South Sudan,2017,NULL,728
+South Sudan,2018,NULL,728
+Sao Tome and Principe,2000,NULL,678
+Sao Tome and Principe,2001,NULL,678
+Sao Tome and Principe,2002,NULL,678
+Sao Tome and Principe,2003,NULL,678
+Sao Tome and Principe,2004,NULL,678
+Sao Tome and Principe,2005,NULL,678
+Sao Tome and Principe,2006,NULL,678
+Sao Tome and Principe,2007,NULL,678
+Sao Tome and Principe,2008,NULL,678
+Sao Tome and Principe,2009,NULL,678
+Sao Tome and Principe,2010,NULL,678
+Sao Tome and Principe,2011,NULL,678
+Sao Tome and Principe,2012,NULL,678
+Sao Tome and Principe,2013,NULL,678
+Sao Tome and Principe,2014,NULL,678
+Sao Tome and Principe,2015,NULL,678
+Sao Tome and Principe,2016,NULL,678
+Sao Tome and Principe,2017,NULL,678
+Sao Tome and Principe,2018,NULL,678
+Suriname,2000,NULL,740
+Suriname,2001,NULL,740
+Suriname,2002,NULL,740
+Suriname,2003,NULL,740
+Suriname,2004,NULL,740
+Suriname,2005,NULL,740
+Suriname,2006,NULL,740
+Suriname,2007,NULL,740
+Suriname,2008,NULL,740
+Suriname,2009,NULL,740
+Suriname,2010,NULL,740
+Suriname,2011,NULL,740
+Suriname,2012,NULL,740
+Suriname,2013,NULL,740
+Suriname,2014,NULL,740
+Suriname,2015,NULL,740
+Suriname,2016,NULL,740
+Suriname,2017,NULL,740
+Suriname,2018,NULL,740
+Seychelles,2000,NULL,690
+Seychelles,2001,NULL,690
+Seychelles,2002,NULL,690
+Seychelles,2003,NULL,690
+Seychelles,2004,NULL,690
+Seychelles,2005,NULL,690
+Seychelles,2006,NULL,690
+Seychelles,2007,NULL,690
+Seychelles,2008,NULL,690
+Seychelles,2009,NULL,690
+Seychelles,2010,NULL,690
+Seychelles,2011,NULL,690
+Seychelles,2012,NULL,690
+Seychelles,2013,NULL,690
+Seychelles,2014,NULL,690
+Seychelles,2015,NULL,690
+Seychelles,2016,NULL,690
+Seychelles,2017,NULL,690
+Seychelles,2018,NULL,690
+Chad,2000,NULL,148
+Chad,2001,NULL,148
+Chad,2002,NULL,148
+Chad,2003,NULL,148
+Chad,2004,NULL,148
+Chad,2005,NULL,148
+Chad,2006,NULL,148
+Chad,2007,NULL,148
+Chad,2008,NULL,148
+Chad,2009,NULL,148
+Chad,2010,NULL,148
+Chad,2011,NULL,148
+Chad,2012,NULL,148
+Chad,2013,NULL,148
+Chad,2014,NULL,148
+Chad,2015,NULL,148
+Chad,2016,NULL,148
+Chad,2017,NULL,148
+Chad,2018,NULL,148
+Togo,2000,NULL,768
+Togo,2001,NULL,768
+Togo,2002,NULL,768
+Togo,2003,NULL,768
+Togo,2004,NULL,768
+Togo,2005,NULL,768
+Togo,2006,NULL,768
+Togo,2007,NULL,768
+Togo,2008,NULL,768
+Togo,2009,NULL,768
+Togo,2010,NULL,768
+Togo,2011,NULL,768
+Togo,2012,NULL,768
+Togo,2013,NULL,768
+Togo,2014,NULL,768
+Togo,2015,NULL,768
+Togo,2016,NULL,768
+Togo,2017,NULL,768
+Togo,2018,NULL,768
+Thailand,2000,NULL,764
+Thailand,2001,NULL,764
+Thailand,2002,NULL,764
+Thailand,2003,NULL,764
+Thailand,2004,NULL,764
+Thailand,2005,NULL,764
+Thailand,2006,NULL,764
+Thailand,2007,NULL,764
+Thailand,2008,NULL,764
+Thailand,2009,NULL,764
+Thailand,2010,NULL,764
+Thailand,2011,NULL,764
+Thailand,2012,NULL,764
+Thailand,2013,NULL,764
+Thailand,2014,NULL,764
+Thailand,2015,NULL,764
+Thailand,2016,NULL,764
+Thailand,2017,NULL,764
+Thailand,2018,NULL,764
+Tajikistan,2000,NULL,762
+Tajikistan,2001,NULL,762
+Tajikistan,2002,NULL,762
+Tajikistan,2003,NULL,762
+Tajikistan,2004,NULL,762
+Tajikistan,2005,NULL,762
+Tajikistan,2006,NULL,762
+Tajikistan,2007,NULL,762
+Tajikistan,2008,NULL,762
+Tajikistan,2009,NULL,762
+Tajikistan,2010,NULL,762
+Tajikistan,2011,NULL,762
+Tajikistan,2012,NULL,762
+Tajikistan,2013,NULL,762
+Tajikistan,2014,NULL,762
+Tajikistan,2015,NULL,762
+Tajikistan,2016,NULL,762
+Tajikistan,2017,NULL,762
+Tajikistan,2018,NULL,762
+Turkmenistan,2000,NULL,795
+Turkmenistan,2001,NULL,795
+Turkmenistan,2002,NULL,795
+Turkmenistan,2003,NULL,795
+Turkmenistan,2004,NULL,795
+Turkmenistan,2005,NULL,795
+Turkmenistan,2006,NULL,795
+Turkmenistan,2007,NULL,795
+Turkmenistan,2008,NULL,795
+Turkmenistan,2009,NULL,795
+Turkmenistan,2010,NULL,795
+Turkmenistan,2011,NULL,795
+Turkmenistan,2012,NULL,795
+Turkmenistan,2013,NULL,795
+Turkmenistan,2014,NULL,795
+Turkmenistan,2015,NULL,795
+Turkmenistan,2016,NULL,795
+Turkmenistan,2017,NULL,795
+Turkmenistan,2018,NULL,795
+Tonga,2000,NULL,776
+Tonga,2001,NULL,776
+Tonga,2002,NULL,776
+Tonga,2003,NULL,776
+Tonga,2004,NULL,776
+Tonga,2005,NULL,776
+Tonga,2006,NULL,776
+Tonga,2007,NULL,776
+Tonga,2008,NULL,776
+Tonga,2009,NULL,776
+Tonga,2010,NULL,776
+Tonga,2011,NULL,776
+Tonga,2012,NULL,776
+Tonga,2013,NULL,776
+Tonga,2014,NULL,776
+Tonga,2015,NULL,776
+Tonga,2016,NULL,776
+Tonga,2017,NULL,776
+Tonga,2018,NULL,776
+Trinidad and Tobago,2000,NULL,780
+Trinidad and Tobago,2001,NULL,780
+Trinidad and Tobago,2002,NULL,780
+Trinidad and Tobago,2003,NULL,780
+Trinidad and Tobago,2004,NULL,780
+Trinidad and Tobago,2005,NULL,780
+Trinidad and Tobago,2006,NULL,780
+Trinidad and Tobago,2007,NULL,780
+Trinidad and Tobago,2008,NULL,780
+Trinidad and Tobago,2009,NULL,780
+Trinidad and Tobago,2010,NULL,780
+Trinidad and Tobago,2011,NULL,780
+Trinidad and Tobago,2012,NULL,780
+Trinidad and Tobago,2013,NULL,780
+Trinidad and Tobago,2014,NULL,780
+Trinidad and Tobago,2015,NULL,780
+Trinidad and Tobago,2016,NULL,780
+Trinidad and Tobago,2017,NULL,780
+Trinidad and Tobago,2018,NULL,780
+Tunisia,2000,NULL,788
+Tunisia,2001,NULL,788
+Tunisia,2002,NULL,788
+Tunisia,2003,NULL,788
+Tunisia,2004,NULL,788
+Tunisia,2005,NULL,788
+Tunisia,2006,NULL,788
+Tunisia,2007,NULL,788
+Tunisia,2008,NULL,788
+Tunisia,2009,NULL,788
+Tunisia,2010,NULL,788
+Tunisia,2011,NULL,788
+Tunisia,2012,NULL,788
+Tunisia,2013,NULL,788
+Tunisia,2014,NULL,788
+Tunisia,2015,NULL,788
+Tunisia,2016,NULL,788
+Tunisia,2017,NULL,788
+Tunisia,2018,NULL,788
+Uganda,2000,NULL,800
+Uganda,2001,NULL,800
+Uganda,2002,NULL,800
+Uganda,2003,NULL,800
+Uganda,2004,NULL,800
+Uganda,2005,NULL,800
+Uganda,2006,NULL,800
+Uganda,2007,NULL,800
+Uganda,2008,NULL,800
+Uganda,2009,NULL,800
+Uganda,2010,NULL,800
+Uganda,2011,NULL,800
+Uganda,2012,NULL,800
+Uganda,2013,NULL,800
+Uganda,2014,NULL,800
+Uganda,2015,NULL,800
+Uganda,2016,NULL,800
+Uganda,2017,NULL,800
+Uganda,2018,NULL,800
+Uruguay,2000,NULL,858
+Uruguay,2001,NULL,858
+Uruguay,2002,NULL,858
+Uruguay,2003,NULL,858
+Uruguay,2004,NULL,858
+Uruguay,2005,NULL,858
+Uruguay,2006,NULL,858
+Uruguay,2007,NULL,858
+Uruguay,2008,NULL,858
+Uruguay,2009,NULL,858
+Uruguay,2010,NULL,858
+Uruguay,2011,NULL,858
+Uruguay,2012,NULL,858
+Uruguay,2013,NULL,858
+Uruguay,2014,NULL,858
+Uruguay,2015,NULL,858
+Uruguay,2016,NULL,858
+Uruguay,2017,NULL,858
+Uruguay,2018,NULL,858
+Uzbekistan,2000,NULL,860
+Uzbekistan,2001,NULL,860
+Uzbekistan,2002,NULL,860
+Uzbekistan,2003,NULL,860
+Uzbekistan,2004,NULL,860
+Uzbekistan,2005,NULL,860
+Uzbekistan,2006,NULL,860
+Uzbekistan,2007,NULL,860
+Uzbekistan,2008,NULL,860
+Uzbekistan,2009,NULL,860
+Uzbekistan,2010,NULL,860
+Uzbekistan,2011,NULL,860
+Uzbekistan,2012,NULL,860
+Uzbekistan,2013,NULL,860
+Uzbekistan,2014,NULL,860
+Uzbekistan,2015,NULL,860
+Uzbekistan,2016,NULL,860
+Uzbekistan,2017,NULL,860
+Uzbekistan,2018,NULL,860
+Saint Vincent and the Grenadines,2000,NULL,670
+Saint Vincent and the Grenadines,2001,NULL,670
+Saint Vincent and the Grenadines,2002,NULL,670
+Saint Vincent and the Grenadines,2003,NULL,670
+Saint Vincent and the Grenadines,2004,NULL,670
+Saint Vincent and the Grenadines,2005,NULL,670
+Saint Vincent and the Grenadines,2006,NULL,670
+Saint Vincent and the Grenadines,2007,NULL,670
+Saint Vincent and the Grenadines,2008,NULL,670
+Saint Vincent and the Grenadines,2009,NULL,670
+Saint Vincent and the Grenadines,2010,NULL,670
+Saint Vincent and the Grenadines,2011,NULL,670
+Saint Vincent and the Grenadines,2012,NULL,670
+Saint Vincent and the Grenadines,2013,NULL,670
+Saint Vincent and the Grenadines,2014,NULL,670
+Saint Vincent and the Grenadines,2015,NULL,670
+Saint Vincent and the Grenadines,2016,NULL,670
+Saint Vincent and the Grenadines,2017,NULL,670
+Saint Vincent and the Grenadines,2018,NULL,670
+Vanuatu,2000,NULL,548
+Vanuatu,2001,NULL,548
+Vanuatu,2002,NULL,548
+Vanuatu,2003,NULL,548
+Vanuatu,2004,NULL,548
+Vanuatu,2005,NULL,548
+Vanuatu,2006,NULL,548
+Vanuatu,2007,NULL,548
+Vanuatu,2008,NULL,548
+Vanuatu,2009,NULL,548
+Vanuatu,2010,NULL,548
+Vanuatu,2011,NULL,548
+Vanuatu,2012,NULL,548
+Vanuatu,2013,NULL,548
+Vanuatu,2014,NULL,548
+Vanuatu,2015,NULL,548
+Vanuatu,2016,NULL,548
+Vanuatu,2017,NULL,548
+Vanuatu,2018,NULL,548
+Samoa,2000,NULL,882
+Samoa,2001,NULL,882
+Samoa,2002,NULL,882
+Samoa,2003,NULL,882
+Samoa,2004,NULL,882
+Samoa,2005,NULL,882
+Samoa,2006,NULL,882
+Samoa,2007,NULL,882
+Samoa,2008,NULL,882
+Samoa,2009,NULL,882
+Samoa,2010,NULL,882
+Samoa,2011,NULL,882
+Samoa,2012,NULL,882
+Samoa,2013,NULL,882
+Samoa,2014,NULL,882
+Samoa,2015,NULL,882
+Samoa,2016,NULL,882
+Samoa,2017,NULL,882
+Samoa,2018,NULL,882
+Yemen,2000,NULL,887
+Yemen,2001,NULL,887
+Yemen,2002,NULL,887
+Yemen,2003,NULL,887
+Yemen,2004,NULL,887
+Yemen,2005,NULL,887
+Yemen,2006,NULL,887
+Yemen,2007,NULL,887
+Yemen,2008,NULL,887
+Yemen,2009,NULL,887
+Yemen,2010,NULL,887
+Yemen,2011,NULL,887
+Yemen,2012,NULL,887
+Yemen,2013,NULL,887
+Yemen,2014,NULL,887
+Yemen,2015,NULL,887
+Yemen,2016,NULL,887
+Yemen,2017,NULL,887
+Yemen,2018,NULL,887
+South Africa,2000,NULL,710
+South Africa,2001,NULL,710
+South Africa,2002,NULL,710
+South Africa,2003,NULL,710
+South Africa,2004,NULL,710
+South Africa,2005,NULL,710
+South Africa,2006,NULL,710
+South Africa,2007,NULL,710
+South Africa,2008,NULL,710
+South Africa,2009,NULL,710
+South Africa,2010,NULL,710
+South Africa,2011,NULL,710
+South Africa,2012,NULL,710
+South Africa,2013,NULL,710
+South Africa,2014,NULL,710
+South Africa,2015,NULL,710
+South Africa,2016,NULL,710
+South Africa,2017,NULL,710
+South Africa,2018,NULL,710
+Zambia,2000,NULL,894
+Zambia,2001,NULL,894
+Zambia,2002,NULL,894
+Zambia,2003,NULL,894
+Zambia,2004,NULL,894
+Zambia,2005,NULL,894
+Zambia,2006,NULL,894
+Zambia,2007,NULL,894
+Zambia,2008,NULL,894
+Zambia,2009,NULL,894
+Zambia,2010,NULL,894
+Zambia,2011,NULL,894
+Zambia,2012,NULL,894
+Zambia,2013,NULL,894
+Zambia,2014,NULL,894
+Zambia,2015,NULL,894
+Zambia,2016,NULL,894
+Zambia,2017,NULL,894
+Zambia,2018,NULL,894
