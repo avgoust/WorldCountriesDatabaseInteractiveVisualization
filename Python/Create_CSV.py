@@ -19,6 +19,8 @@ def create_new_countries_csv():
         for column in range(23):
             if row[column] == '':
                 row[column] = 'NULL'    # Opou uparxei keno sto csv bainei NULL.
+                if row[10].startswith('+'):
+                    row[10] = 'NULL'
     
     with open('country_names_area.csv') as file:
         file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
