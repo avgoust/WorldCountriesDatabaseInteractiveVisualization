@@ -1,253 +1,253 @@
-ISO,ISO3,ISO_Code,FIPS,Display_Name,Official_Name,Capital,Continent,CurrencyCode,CurrencyName,Phone,Region Code,Region Name,Sub-region Code,Sub-region Name,Intermediate Region Code,Intermediate Region Name,Status,Developed or Developing,Small Island Developing States (SIDS),Land Locked Developing Countries (LLDC),Least Developed Countries (LDC),Area_SqKm,Population,Country_area
-AF,AFG,4,AF,Afghanistan,Afghanistan,Kabul,Asia,AFN,Afghani,93,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,647500,29121286,652230
-AX,ALA,248,NULL,Aland Islands,Åland Islands,Mariehamn,Europe,EUR,Euro,340,150,Europe,154,Northern Europe,NULL,NULL,Part of FI,Developed,NULL,NULL,NULL,1580,26711,NULL
-AL,ALB,8,AL,Albania,Albania,Tirana,Europe,ALL,Lek,355,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,28748,2986952,27398
-DZ,DZA,12,AG,Algeria,Algeria,Algiers,Africa,DZD,Dinar,213,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,2381740,34586184,2381741
-AS,ASM,16,AQ,American Samoa,American Samoa,Pago Pago,Oceania,USD,Dollar,-683,9,Oceania,61,Polynesia,NULL,NULL,Territory of US,Developing,TRUE,NULL,NULL,199,57881,199
-AD,AND,20,AN,Andorra,Andorra,Andorra la Vella,Europe,EUR,Euro,376,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,468,84000,468
-AO,AGO,24,AO,Angola,Angola,Luanda,Africa,AOA,Kwanza,244,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,TRUE,1246700,13068161,1246700
-AI,AIA,660,AV,Anguilla,Anguilla,The Valley,North America,XCD,Dollar,-263,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,NULL,NULL,102,13254,91
-AQ,ATA,10,AY,Antarctica,Antarctica,NULL,Antarctica,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,International,NULL,NULL,NULL,NULL,14000000,0,NULL
-AG,ATG,28,AC,Antigua and Barbuda,Antigua and Barbuda,St. John's,North America,XCD,Dollar,-267,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,443,86754,442.6
-AR,ARG,32,AR,Argentina,Argentina,Buenos Aires,South America,ARS,Peso,54,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,2766890,41343201,2736690
-AM,ARM,51,AM,Armenia,Armenia,Yerevan,Asia,AMD,Dram,374,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,29800,2968000,28203
-AW,ABW,533,AA,Aruba,Aruba,Oranjestad,North America,AWG,Guilder,297,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,193,71566,180
-AU,AUS,36,AS,Australia,Australia,Canberra,Oceania,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,NULL,NULL,Independent,Developed,NULL,NULL,NULL,7686850,21515754,7682300
-AT,AUT,40,AU,Austria,Austria,Vienna,Europe,EUR,Euro,43,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,83858,8205000,82445
-AZ,AZE,31,AJ,Azerbaijan,Azerbaijan,Baku,Asia,AZN,Manat,994,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,86600,8303512,82629
-BS,BHS,44,BF,Bahamas,Bahamas,Nassau,North America,BSD,Dollar,-241,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,13940,301790,NULL
-BH,BHR,48,BA,Bahrain,Bahrain,Manama,Asia,BHD,Dinar,973,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,665,738004,760
-BD,BGD,50,BG,Bangladesh,Bangladesh,Dhaka,Asia,BDT,Taka,880,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,144000,156118464,130170
-BB,BRB,52,BB,Barbados,Barbados,Bridgetown,North America,BBD,Dollar,-245,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,431,285653,430
-BY,BLR,112,BO,Belarus,Belarus,Minsk,Europe,BYN,Belarusian ruble,375,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,207600,9685000,202900
-BE,BEL,56,BE,Belgium,Belgium,Brussels,Europe,EUR,Euro,32,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,30510,10403000,30278
-BZ,BLZ,84,BH,Belize,Belize,Belmopan,North America,BZD,Dollar,501,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,TRUE,NULL,NULL,22966,314522,22806
-BJ,BEN,204,BN,Benin,Benin,Porto-Novo,Africa,XOF,Franc,229,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,112620,9056010,110622
-BM,BMU,60,BD,Bermuda,Bermuda,Hamilton,North America,BMD,Dollar,-440,19,Americas,21,Northern America,NULL,NULL,Territory of GB,Developed,NULL,NULL,NULL,53,65365,54
-BT,BTN,64,BT,Bhutan,Bhutan,Thimphu,Asia,BTN,Ngultrum,975,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,47000,699847,38394
-BO,BOL,68,BL,Bolivia,Bolivia (Plurinational State of),Sucre,South America,BOB,Boliviano,591,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,TRUE,NULL,1098580,9947418,1083301
-BQ,BES,535,NULL,"Bonaire, Saint Eustatius and Saba ","Bonaire, Sint Eustatius and Saba",NULL,North America,USD,Dollar,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,328,18012,NULL
-BA,BIH,70,BK,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,BAM,Marka,387,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,51129,4590000,51187
-BW,BWA,72,BC,Botswana,Botswana,Gaborone,Africa,BWP,Pula,267,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,TRUE,NULL,600370,2029307,566730
-BV,BVT,74,BV,Bouvet Island,Bouvet Island,NULL,Antarctica,NOK,Krone,NULL,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of NO,Developing,NULL,NULL,NULL,49,0,NULL
-BR,BRA,76,BR,Brazil,Brazil,Brasilia,South America,BRL,Real,55,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,8511965,201103330,8358140
-IO,IOT,86,IO,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia,Asia,USD,Dollar,246,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Territory of GB,Developing,NULL,NULL,NULL,60,4000,NULL
-VG,VGB,92,VI,British Virgin Islands,British Virgin Islands,Road Town,North America,USD,Dollar,-283,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,NULL,NULL,153,21730,NULL
-BN,BRN,96,BX,Brunei,Brunei Darussalam,Bandar Seri Begawan,Asia,BND,Dollar,673,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,5770,395027,5265
-BG,BGR,100,BU,Bulgaria,Bulgaria,Sofia,Europe,BGN,Lev,359,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,110910,7148785,108489
-BF,BFA,854,UV,Burkina Faso,Burkina Faso,Ouagadougou,Africa,XOF,Franc,226,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,TRUE,TRUE,274200,16241811,273800
-BI,BDI,108,BY,Burundi,Burundi,Bujumbura,Africa,BIF,Franc,257,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,27830,9863117,25680
-KH,KHM,116,CB,Cambodia,Cambodia,Phnom Penh,Asia,KHR,Riels,855,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,181040,14453680,176515
-CM,CMR,120,CM,Cameroon,Cameroon,Yaounde,Africa,XAF,Franc,237,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,475440,19294149,472710
-CA,CAN,124,CA,Canada,Canada,Ottawa,North America,CAD,Dollar,1,19,Americas,21,Northern America,NULL,NULL,Independent,Developed,NULL,NULL,NULL,9984670,33679000,9093507
-CV,CPV,132,CV,Cape Verde,Cabo Verde,Praia,Africa,CVE,Escudo,238,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,NULL,NULL,4033,508659,NULL
-KY,CYM,136,CJ,Cayman Islands,Cayman Islands,George Town,North America,KYD,Dollar,-344,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,NULL,NULL,NULL,262,44270,264
-CF,CAF,140,CT,Central African Republic,Central African Republic,Bangui,Africa,XAF,Franc,236,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,TRUE,TRUE,622984,4844927,622984
-TD,TCD,148,CD,Chad,Chad,N'Djamena,Africa,XAF,Franc,235,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,TRUE,TRUE,1284000,10543464,1259200
-CL,CHL,152,CI,Chile,Chile,Santiago,South America,CLP,Peso,56,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,756950,16746491,743812
-CN,CHN,156,CH,China,China,Beijing,Asia,CNY,Yuan Renminbi,86,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,9596960,1330044000,9326410
-CX,CXR,162,KT,Christmas Island,Christmas Island,Flying Fish Cove,Oceania,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,135,1500,NULL
-CC,CCK,166,CK,Cocos Islands,Cocos (Keeling) Islands,West Island,Asia,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,14,628,NULL
-CO,COL,170,CO,Colombia,Colombia,Bogota,South America,COP,Peso,57,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,1138910,47790000,1038700
-KM,COM,174,CN,Comoros,Comoros,Moroni,Africa,KMF,Franc,269,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,NULL,TRUE,2170,773407,2235
-CK,COK,184,CW,Cook Islands,Cook Islands,Avarua,Oceania,NZD,Dollar,682,9,Oceania,61,Polynesia,NULL,NULL,Associated with NZ,Developing,TRUE,NULL,NULL,240,21388,236
-CR,CRI,188,CS,Costa Rica,Costa Rica,San Jose,North America,CRC,Colon,506,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,51100,4516220,51060
-HR,HRV,191,HR,Croatia,Croatia,Zagreb,Europe,HRK,Kuna,385,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,56542,4284889,55974
-CU,CUB,192,CU,Cuba,Cuba,Havana,North America,CUP,Peso,53,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,110860,11423000,109820
-CW,CUW,531,UC,Curacao,Curaçao, Willemstad,North America,ANG,Guilder,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,444,141766,444
-CY,CYP,196,CY,Cyprus,Cyprus,Nicosia,Europe,EUR,Euro,357,142,Asia,145,Western Asia,NULL,NULL,Independent,Developed,NULL,NULL,NULL,9250,1102677,9241
-CZ,CZE,203,EZ,Czechia,Czechia,Prague,Europe,CZK,Koruna,420,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,78866,10476000,77247
-CD,COD,180,CG,Democratic Republic of the Congo,Democratic Republic of the Congo,Kinshasa,Africa,CDF,Franc,243,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,TRUE,2345410,70916439,NULL
-DK,DNK,208,DA,Denmark,Denmark,Copenhagen,Europe,DKK,Krone,45,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,43094,5484000,42434
-DJ,DJI,262,DJ,Djibouti,Djibouti,Djibouti,Africa,DJF,Franc,253,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,23000,740528,23180
-DM,DMA,212,DO,Dominica,Dominica,Roseau,North America,XCD,Dollar,-766,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,754,72813,751
-DO,DOM,214,DR,Dominican Republic,Dominican Republic,Santo Domingo,North America,DOP,Peso,+1-809 and 1-829,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,48730,9823821,48320
-EC,ECU,218,EC,Ecuador,Ecuador,Quito,South America,USD,Dollar,593,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,283560,14790608,276841
-EG,EGY,818,EG,Egypt,Egypt,Cairo,Africa,EGP,Pound,20,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1001450,80471869,995450
-SV,SLV,222,ES,El Salvador,El Salvador,San Salvador,North America,USD,Dollar,503,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,21040,6052064,20721
-GQ,GNQ,226,EK,Equatorial Guinea,Equatorial Guinea,Malabo,Africa,XAF,Franc,240,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,28051,1014999,28051
-ER,ERI,232,ER,Eritrea,Eritrea,Asmara,Africa,ERN,Nakfa,291,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,121320,5792984,101000
-EE,EST,233,EN,Estonia,Estonia,Tallinn,Europe,EUR,Euro,372,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,45226,1291170,42388
-ET,ETH,231,ET,Ethiopia,Ethiopia,Addis Ababa,Africa,ETB,Birr,251,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,1127127,88013491,1000000
-FK,FLK,238,FK,Falkland Islands,Falkland Islands (Malvinas),Stanley,South America,FKP,Pound,500,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of GB,Developing,NULL,NULL,NULL,12173,2638,NULL
-FO,FRO,234,FO,Faroe Islands,Faroe Islands,Torshavn,Europe,DKK,Krone,298,150,Europe,154,Northern Europe,NULL,NULL,Part of DK,Developed,NULL,NULL,NULL,1399,48228,1393
-FJ,FJI,242,FJ,Fiji,Fiji,Suva,Oceania,FJD,Dollar,679,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,18270,875983,18274
-FI,FIN,246,FI,Finland,Finland,Helsinki,Europe,EUR,Euro,358,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,337030,5244000,303815
-FR,FRA,250,FR,France,France,Paris,Europe,EUR,Euro,33,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,547030,64768389,640427
-GF,GUF,254,FG,French Guiana,French Guiana,Cayenne,South America,EUR,Euro,594,19,Americas,419,Latin America and the Caribbean,5,South America,Part of FR,Developing,NULL,NULL,NULL,91000,195506,NULL
-PF,PYF,258,FP,French Polynesia,French Polynesia,Papeete,Oceania,XPF,Franc,689,9,Oceania,61,Polynesia,NULL,NULL,Territory of FR,Developing,TRUE,NULL,NULL,4167,270485,3827
-TF,ATF,260,FS,French Southern Territories,French Southern Territories,Port-aux-Francais,Antarctica,EUR,Euro  ,NULL,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Territory of FR,Developing,NULL,NULL,NULL,7829,140,NULL
-GA,GAB,266,GB,Gabon,Gabon,Libreville,Africa,XAF,Franc,241,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,267667,1545255,257667
-GM,GMB,270,GA,Gambia,Gambia,Banjul,Africa,GMD,Dalasi,220,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,11300,1593256,NULL
-GE,GEO,268,GG,Georgia,Georgia,Tbilisi,Asia,GEL,Lari,995,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,69700,4630000,69700
-DE,DEU,276,GM,Germany,Germany,Berlin,Europe,EUR,Euro,49,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,357021,81802257,348672
-GH,GHA,288,GH,Ghana,Ghana,Accra,Africa,GHS,Cedi,233,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,NULL,239460,24339838,227533
-GI,GIB,292,GI,Gibraltar,Gibraltar,Gibraltar,Europe,GIP,Pound,350,150,Europe,39,Southern Europe,NULL,NULL,Territory of GB,Developed,NULL,NULL,NULL,6.5,27884,6.5
-GR,GRC,300,GR,Greece,Greece,Athens,Europe,EUR,Euro,30,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,131940,11000000,130647
-GL,GRL,304,GL,Greenland,Greenland,Nuuk,North America,DKK,Krone,299,19,Americas,21,Northern America,NULL,NULL,Part of DK,Developed,NULL,NULL,NULL,2166086,56375,2166086
-GD,GRD,308,GJ,Grenada,Grenada,St. George's,North America,XCD,Dollar,-472,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,344,107818,344
-GP,GLP,312,GP,Guadeloupe,Guadeloupe,Basse-Terre,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,1780,443000,NULL
-GU,GUM,316,GQ,Guam,Guam,Hagatna,Oceania,USD,Dollar,-670,9,Oceania,57,Micronesia,NULL,NULL,Territory of US,Developing,TRUE,NULL,NULL,549,159358,544
-GT,GTM,320,GT,Guatemala,Guatemala,Guatemala City,North America,GTQ,Quetzal,502,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,108890,13550440,107159
-GG,GGY,831,GK,Guernsey,Guernsey,St Peter Port,Europe,GBP,Pound,-1437,150,Europe,154,Northern Europe,830,Channel Islands,Crown dependency of GB,Developed,NULL,NULL,NULL,78,65228,78
-GN,GIN,324,GV,Guinea,Guinea,Conakry,Africa,GNF,Franc,224,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,245857,10324025,245717
-GW,GNB,624,PU,Guinea-Bissau,Guinea-Bissau,Bissau,Africa,XOF,Franc,245,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,NULL,TRUE,36120,1565126,28120
-GY,GUY,328,GY,Guyana,Guyana,Georgetown,South America,GYD,Dollar,592,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,NULL,NULL,214970,748486,196849
-HT,HTI,332,HA,Haiti,Haiti,Port-au-Prince,North America,HTG,Gourde,509,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,TRUE,27750,9648924,27560
-HM,HMD,334,HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,NULL,Antarctica,AUD,Dollar, ,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,412,0,NULL
-HN,HND,340,HO,Honduras,Honduras,Tegucigalpa,North America,HNL,Lempira,504,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,112090,7989415,111890
-HK,HKG,344,HK,Hong Kong,"China, Hong Kong Special Administrative Region",Hong Kong,Asia,HKD,Dollar,852,142,Asia,30,Eastern Asia,NULL,NULL,Part of CN,Developing,NULL,NULL,NULL,1092,6898686,1073
-HU,HUN,348,HU,Hungary,Hungary,Budapest,Europe,HUF,Forint,36,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,93030,9982000,89608
-IS,ISL,352,IC,Iceland,Iceland,Reykjavik,Europe,ISK,Krona,354,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,103000,308910,100250
-IN,IND,356,IN,India,India,New Delhi,Asia,INR,Rupee,91,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,3287590,1173108018,2973193
-ID,IDN,360,ID,Indonesia,Indonesia,Jakarta,Asia,IDR,Rupiah,62,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1919440,242968342,1811569
-IR,IRN,364,IR,Iran,Iran (Islamic Republic of),Tehran,Asia,IRR,Rial,98,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1648000,76923300,1531595
-IQ,IRQ,368,IZ,Iraq,Iraq,Baghdad,Asia,IQD,Dinar,964,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,437072,29671605,437367
-IE,IRL,372,EI,Ireland,Ireland,Dublin,Europe,EUR,Euro,353,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,70280,4622917,68883
-IM,IMN,833,IM,Isle of Man,Isle of Man,Douglas,Europe,GBP,Pound,-1580,150,Europe,154,Northern Europe,NULL,NULL,Crown dependency of GB,Developed,NULL,NULL,NULL,572,75049,572
-IL,ISR,376,IS,Israel,Israel,Jerusalem,Asia,ILS,Shekel,972,142,Asia,145,Western Asia,NULL,NULL,Independent,Developed,NULL,NULL,NULL,20770,7353985,20330
-IT,ITA,380,IT,Italy,Italy,Rome,Europe,EUR,Euro,39,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,301230,60340328,294140
-CI,CIV,384,IV,Ivory Coast,Côte d'Ivoire,Yamoussoukro,Africa,XOF,Franc,225,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,NULL,322460,21058798,NULL
-JM,JAM,388,JM,Jamaica,Jamaica,Kingston,North America,JMD,Dollar,-875,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,10991,2847232,10831
-JP,JPN,392,JA,Japan,Japan,Tokyo,Asia,JPY,Yen,81,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developed,NULL,NULL,NULL,377835,127288000,364485
-JE,JEY,832,JE,Jersey,Jersey,Saint Helier,Europe,GBP,Pound,-1490,150,Europe,154,Northern Europe,830,Channel Islands,Crown dependency of GB,Developed,NULL,NULL,NULL,116,90812,116
-JO,JOR,400,JO,Jordan,Jordan,Amman,Asia,JOD,Dinar,962,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,92300,6407085,88802
-KZ,KAZ,398,KZ,Kazakhstan,Kazakhstan,Astana,Asia,KZT,Tenge,7,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,2717300,15340000,2699700
-KE,KEN,404,KE,Kenya,Kenya,Nairobi,Africa,KES,Shilling,254,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,NULL,582650,40046566,569140
-KI,KIR,296,KR,Kiribati,Kiribati,Tarawa,Oceania,AUD,Dollar,686,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,811,92533,811
-XK,XKX,0,KV,Kosovo,NULL,Pristina,Europe,EUR,Euro,NULL,150,Europe,39,Southern Europe,NULL,NULL,#N/A,#N/A,#N/A,#N/A,#N/A,10908,1800000,10887
-KW,KWT,414,KU,Kuwait,Kuwait,Kuwait City,Asia,KWD,Dinar,965,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,17820,2789132,17818
-KG,KGZ,417,KG,Kyrgyzstan,Kyrgyzstan,Bishkek,Asia,KGS,Som,996,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,198500,5776500,191801
-LA,LAO,418,LA,Laos,Lao People's Democratic Republic,Vientiane,Asia,LAK,Kip,856,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,236800,6368162,230800
-LV,LVA,428,LG,Latvia,Latvia,Riga,Europe,EUR,Euro,371,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,64589,2217969,62249
-LB,LBN,422,LE,Lebanon,Lebanon,Beirut,Asia,LBP,Pound,961,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,10400,4125247,10230
-LS,LSO,426,LT,Lesotho,Lesotho,Maseru,Africa,LSL,Loti,266,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,TRUE,TRUE,30355,1919552,30355
-LR,LBR,430,LI,Liberia,Liberia,Monrovia,Africa,LRD,Dollar,231,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,111370,3685076,96320
-LY,LBY,434,LY,Libya,Libya,Tripoli,Africa,LYD,Dinar,218,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1759540,6461454,1759540
-LI,LIE,438,LS,Liechtenstein,Liechtenstein,Vaduz,Europe,CHF,Franc,423,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,160,35000,160
-LT,LTU,440,LH,Lithuania,Lithuania,Vilnius,Europe,EUR,Euro,370,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,65200,2944459,62680
-LU,LUX,442,LU,Luxembourg,Luxembourg,Luxembourg,Europe,EUR,Euro,352,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,2586,497538,2586
-MO,MAC,446,MC,Macao,"China, Macao Special Administrative Region",Macao,Asia,MOP,Pataca,853,142,Asia,30,Eastern Asia,NULL,NULL,Part of CN,Developing,NULL,NULL,NULL,254,449198,NULL
-MK,MKD,807,MK,Macedonia,The former Yugoslav Republic of Macedonia,Skopje,Europe,MKD,Denar,389,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,TRUE,NULL,25333,2062294,25433
-MG,MDG,450,MA,Madagascar,Madagascar,Antananarivo,Africa,MGA,Ariary,261,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,587040,21281844,581540
-MW,MWI,454,MI,Malawi,Malawi,Lilongwe,Africa,MWK,Kwacha,265,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,118480,15447500,94080
-MY,MYS,458,MY,Malaysia,Malaysia,Kuala Lumpur,Asia,MYR,Ringgit,60,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,329750,28274729,328657
-MV,MDV,462,MV,Maldives,Maldives,Male,Asia,MVR,Rufiyaa,960,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,300,395650,298
-ML,MLI,466,ML,Mali,Mali,Bamako,Africa,XOF,Franc,223,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,TRUE,TRUE,1240000,13796354,1220190
-MT,MLT,470,MT,Malta,Malta,Valletta,Europe,EUR,Euro,356,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,316,403000,316
-MH,MHL,584,RM,Marshall Islands,Marshall Islands,Majuro,Oceania,USD,Dollar,692,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,181.3,65859,181
-MQ,MTQ,474,MB,Martinique,Martinique,Fort-de-France,North America,EUR,Euro,596,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,1100,432900,NULL
-MR,MRT,478,MR,Mauritania,Mauritania,Nouakchott,Africa,MRO,Ouguiya,222,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,1030700,3205060,1030700
-MU,MUS,480,MP,Mauritius,Mauritius,Port Louis,Africa,MUR,Rupee,230,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,NULL,NULL,2040,1294104,2030
-YT,MYT,175,MF,Mayotte,Mayotte,Mamoudzou,Africa,EUR,Euro,262,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Part of FR,Developing,NULL,NULL,NULL,374,159042,NULL
-MX,MEX,484,MX,Mexico,Mexico,Mexico City,North America,MXN,Peso,52,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,1972550,112468855,1943945
-FM,FSM,583,FM,Micronesia,Micronesia (Federated States of),Palikir,Oceania,USD,Dollar,691,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,702,107708,NULL
-MD,MDA,498,MD,Moldova,Republic of Moldova,Chisinau,Europe,MDL,Leu,373,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,TRUE,NULL,33843,4324000,32891
-MC,MCO,492,MN,Monaco,Monaco,Monaco,Europe,EUR,Euro,377,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,1.95,32965,2
-MN,MNG,496,MG,Mongolia,Mongolia,Ulan Bator,Asia,MNT,Tugrik,976,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,1565000,3086918,1553556
-ME,MNE,499,MJ,Montenegro,Montenegro,Podgorica,Europe,EUR,Euro,382,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,14026,666730,13452
-MS,MSR,500,MH,Montserrat,Montserrat,Plymouth,North America,XCD,Dollar,-663,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,NULL,NULL,102,9341,102
-MA,MAR,504,MO,Morocco,Morocco,Rabat,Africa,MAD,Dirham,212,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,446550,33848242,446300
-MZ,MOZ,508,MZ,Mozambique,Mozambique,Maputo,Africa,MZN,Metical,258,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,801590,22061451,786380
-MM,MMR,104,BM,Myanmar,Myanmar,Nay Pyi Taw,Asia,MMK,Kyat,95,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,678500,53414374,NULL
-NA,NAM,516,WA,Namibia,Namibia,Windhoek,Africa,NAD,Dollar,264,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,NULL,NULL,825418,2128471,823290
-NR,NRU,520,NR,Nauru,Nauru,Yaren,Oceania,AUD,Dollar,674,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,21,10065,21
-NP,NPL,524,NP,Nepal,Nepal,Kathmandu,Asia,NPR,Rupee,977,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,140800,28951852,143351
-NL,NLD,528,NL,Netherlands,Netherlands,Amsterdam,Europe,EUR,Euro,31,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,41526,16645000,33893
-AN,ANT,530,NT,Netherlands Antilles,NULL,Willemstad,North America,ANG,Guilder,599,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,960,300000,NULL
-NC,NCL,540,NC,New Caledonia,New Caledonia,Noumea,Oceania,XPF,Franc,687,9,Oceania,54,Melanesia,NULL,NULL,Territory of FR,Developing,TRUE,NULL,NULL,19060,216494,18275
-NZ,NZL,554,NZ,New Zealand,New Zealand,Wellington,Oceania,NZD,Dollar,64,9,Oceania,53,Australia and New Zealand,NULL,NULL,Independent,Developed,NULL,NULL,NULL,268680,4252277,264537
-NI,NIC,558,NU,Nicaragua,Nicaragua,Managua,North America,NIO,Cordoba,505,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,129494,5995928,119990
-NE,NER,562,NG,Niger,Niger,Niamey,Africa,XOF,Franc,227,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,TRUE,TRUE,1267000,15878271,1266700
-NG,NGA,566,NI,Nigeria,Nigeria,Abuja,Africa,NGN,Naira,234,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,NULL,923768,154000000,910768
-NU,NIU,570,NE,Niue,Niue,Alofi,Oceania,NZD,Dollar,683,9,Oceania,61,Polynesia,NULL,NULL,Associated with NZ,Developing,TRUE,NULL,NULL,260,2166,NULL
-NF,NFK,574,NF,Norfolk Island,Norfolk Island,Kingston,Oceania,AUD,Dollar,672,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,34.6,1828,NULL
-KP,PRK,408,KN,North Korea,Democratic People's Republic of Korea,Pyongyang,Asia,KPW,Won,850,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,120540,22912177,NULL
-MP,MNP,580,CQ,Northern Mariana Islands,Northern Mariana Islands,Saipan,Oceania,USD,Dollar,-669,9,Oceania,57,Micronesia,NULL,NULL,Commonwealth of US,Developing,TRUE,NULL,NULL,477,53883,464
-NO,NOR,578,NO,Norway,Norway,Oslo,Europe,NOK,Krone,47,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,324220,5009150,304282
-OM,OMN,512,MU,Oman,Oman,Muscat,Asia,OMR,Rial,968,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,212460,2967717,309500
-PK,PAK,586,PK,Pakistan,Pakistan,Islamabad,Asia,PKR,Rupee,92,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,803940,184404791,770875
-PW,PLW,585,PS,Palau,Palau,Melekeok,Oceania,USD,Dollar,680,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,458,19907,459
-PS,PSE,275,WE,Palestinian Territory,State of Palestine,East Jerusalem,Asia,ILS,Shekel,970,142,Asia,145,Western Asia,NULL,NULL,In contention,Developing,NULL,NULL,NULL,5970,3800000,NULL
-PA,PAN,591,PM,Panama,Panama,Panama City,North America,PAB,Balboa,507,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,78200,3410676,74340
-PG,PNG,598,PP,Papua New Guinea,Papua New Guinea,Port Moresby,Oceania,PGK,Kina,675,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,462840,6064515,452860
-PY,PRY,600,PA,Paraguay,Paraguay,Asuncion,South America,PYG,Guarani,595,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,TRUE,NULL,406750,6375830,397302
-PE,PER,604,PE,Peru,Peru,Lima,South America,PEN,Sol,51,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,1285220,29907003,1279996
-PH,PHL,608,RP,Philippines,Philippines,Manila,Asia,PHP,Peso,63,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,300000,99900177,298170
-PN,PCN,612,PC,Pitcairn,Pitcairn,Adamstown,Oceania,NZD,Dollar,870,9,Oceania,61,Polynesia,NULL,NULL,Territory of GB,Developing,NULL,NULL,NULL,47,46,NULL
-PL,POL,616,PL,Poland,Poland,Warsaw,Europe,PLN,Zloty,48,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,312685,38500000,304255
-PT,PRT,620,PO,Portugal,Portugal,Lisbon,Europe,EUR,Euro,351,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,92391,10676000,91470
-PR,PRI,630,RQ,Puerto Rico,Puerto Rico,San Juan,North America,USD,Dollar,+1-787 and 1-939,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Commonwealth of US,Developing,TRUE,NULL,NULL,9104,3916632,8870
-QA,QAT,634,QA,Qatar,Qatar,Doha,Asia,QAR,Rial,974,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,11437,840926,11586
-CG,COG,178,CF,Republic of the Congo,Congo,Brazzaville,Africa,XAF,Franc,242,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,342000,3039126,NULL
-RE,REU,638,RE,Reunion,Réunion,Saint-Denis,Africa,EUR,Euro,262,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Part of FR,Developing,NULL,NULL,NULL,2517,776948,NULL
-RO,ROU,642,RO,Romania,Romania,Bucharest,Europe,RON,Leu,40,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,237500,21959278,229891
-RU,RUS,643,RS,Russia,Russian Federation,Moscow,Europe,RUB,Ruble,7,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,17100000,140702000,16377742
-RW,RWA,646,RW,Rwanda,Rwanda,Kigali,Africa,RWF,Franc,250,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,26338,11055976,24668
-BL,BLM,652,TB,Saint Barthelemy,Saint Barthélemy,Gustavia,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,21,8450,25
-SH,SHN,654,SH,Saint Helena,Saint Helena,Jamestown,Africa,SHP,Pound,290,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Territory of GB,Developing,NULL,NULL,NULL,410,7460,308
-KN,KNA,659,SC,Saint Kitts and Nevis,Saint Kitts and Nevis,Basseterre,North America,XCD,Dollar,-868,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,261,51134,261
-LC,LCA,662,ST,Saint Lucia,Saint Lucia,Castries,North America,XCD,Dollar,-757,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,616,160922,606
-MF,MAF,663,RN,Saint Martin,Saint Martin (French Part),Marigot,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,53,35925,54.4
-PM,SPM,666,SB,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint-Pierre,North America,EUR,Euro,508,19,Americas,21,Northern America,NULL,NULL,Part of FR,Developed,NULL,NULL,NULL,242,7012,242
-VC,VCT,670,VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,North America,XCD,Dollar,-783,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,389,104217,389
-WS,WSM,882,WS,Samoa,Samoa,Apia,Oceania,WST,Tala,685,9,Oceania,61,Polynesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,2944,192001,2821
-SM,SMR,674,SM,San Marino,San Marino,San Marino,Europe,EUR,Euro,378,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,61.2,31477,61
-ST,STP,678,TP,Sao Tome and Principe,Sao Tome and Principe,Sao Tome,Africa,STD,Dobra,239,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,TRUE,NULL,TRUE,1001,175808,964
-SA,SAU,682,SA,Saudi Arabia,Saudi Arabia,Riyadh,Asia,SAR,Rial,966,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1960582,25731776,2149690
-SN,SEN,686,SG,Senegal,Senegal,Dakar,Africa,XOF,Franc,221,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,196190,12323252,192530
-RS,SRB,688,RI,Serbia,Serbia,Belgrade,Europe,RSD,Dinar,381,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,88361,7344847,77474
-CS,SCG,891,YI,Serbia and Montenegro,NULL,Belgrade,Europe,RSD,Dinar,381,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,102350,10829175,NULL
-SC,SYC,690,SE,Seychelles,Seychelles,Victoria,Africa,SCR,Rupee,248,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,NULL,NULL,455,88340,455
-SL,SLE,694,SL,Sierra Leone,Sierra Leone,Freetown,Africa,SLL,Leone,232,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,71740,5245695,71620
-SG,SGP,702,SN,Singapore,Singapore,Singapore,Asia,SGD,Dollar,65,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,692.7,4701069,687
-SX,SXM,534,NN,Sint Maarten,Sint Maarten (Dutch part),Philipsburg,North America,ANG,Guilder,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,21,37429,34
-SK,SVK,703,LO,Slovakia,Slovakia,Bratislava,Europe,EUR,Euro,421,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,48845,5455000,48105
-SI,SVN,705,SI,Slovenia,Slovenia,Ljubljana,Europe,EUR,Euro,386,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,20273,2007000,20151
-SB,SLB,90,BP,Solomon Islands,Solomon Islands,Honiara,Oceania,SBD,Dollar,677,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,28450,559198,27986
-SO,SOM,706,SO,Somalia,Somalia,Mogadishu,Africa,SOS,Shilling,252,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,637657,10112453,627337
-ZA,ZAF,710,SF,South Africa,South Africa,Pretoria,Africa,ZAR,Rand,27,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,NULL,NULL,1219912,49000000,1214470
-GS,SGS,239,SX,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,Grytviken,Antarctica,GBP,Pound,NULL,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of GB,Developing,NULL,NULL,NULL,3903,30,NULL
-KR,KOR,410,KS,South Korea,Republic of Korea,Seoul,Asia,KRW,Won,82,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,98480,48422644,NULL
-SS,SSD,728,OD,South Sudan,South Sudan,Juba,Africa,SSP,Pound,211,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,644329,8260490,644329
-ES,ESP,724,SP,Spain,Spain,Madrid,Europe,EUR,Euro,34,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,504782,46505963,498980
-LK,LKA,144,CE,Sri Lanka,Sri Lanka,Colombo,Asia,LKR,Rupee,94,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,65610,21513990,64630
-SD,SDN,729,SU,Sudan,Sudan,Khartoum,Africa,SDG,Pound,249,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,1861484,35000000,1861484
-SR,SUR,740,NS,Suriname,Suriname,Paramaribo,South America,SRD,Dollar,597,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,NULL,NULL,163270,492829,156000
-SJ,SJM,744,SV,Svalbard and Jan Mayen,Svalbard and Jan Mayen Islands,Longyearbyen,Europe,NOK,Krone,47,150,Europe,154,Northern Europe,NULL,NULL,Territory of NO,Developed,NULL,NULL,NULL,62049,2550,NULL
-SZ,SWZ,748,WZ,Swaziland,Eswatini,Mbabane,Africa,SZL,Lilangeni,268,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,TRUE,NULL,17363,1354051,17204
-SE,SWE,752,SW,Sweden,Sweden,Stockholm,Europe,SEK,Krona,46,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,449964,9828655,410335
-CH,CHE,756,SZ,Switzerland,Switzerland,Bern,Europe,CHF,Franc,41,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,41290,7581000,39997
-SY,SYR,760,SY,Syria,Syrian Arab Republic,Damascus,Asia,SYP,Pound,963,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,185180,22198110,183630
-TW,TWN,158,TW,Taiwan,Republic of China,Taipei,Asia,TWD,Dollar,886,142,Asia,30,Eastern Asia,NULL,NULL,Independent,NULL,NULL,NULL,NULL,35980,22894384,32260
-TJ,TJK,762,TI,Tajikistan,Tajikistan,Dushanbe,Asia,TJS,Somoni,992,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,143100,7487489,141510
-TZ,TZA,834,TZ,Tanzania,United Republic of Tanzania,Dodoma,Africa,TZS,Shilling,255,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,945087,41892895,885800
-TH,THA,764,TH,Thailand,Thailand,Bangkok,Asia,THB,Baht,66,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,514000,67089500,510890
-TL,TLS,626,TT,Timor Leste,Timor-Leste,Dili,Oceania,USD,Dollar,670,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,15007,1154625,NULL
-TG,TGO,768,TO,Togo,Togo,Lome,Africa,XOF,Franc,228,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,56785,6587239,54385
-TK,TKL,772,TL,Tokelau,Tokelau,NULL,Oceania,NZD,Dollar,690,9,Oceania,61,Polynesia,NULL,NULL,Territory of NZ,Developing,NULL,NULL,NULL,10,1466,NULL
-TO,TON,776,TN,Tonga,Tonga,Nuku'alofa,Oceania,TOP,Pa'anga,676,9,Oceania,61,Polynesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,748,122580,717
-TT,TTO,780,TD,Trinidad and Tobago,Trinidad and Tobago,Port of Spain,North America,TTD,Dollar,-867,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,5128,1328019,5128
-TN,TUN,788,TS,Tunisia,Tunisia,Tunis,Africa,TND,Dinar,216,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,163610,10589025,155360
-TR,TUR,792,TU,Turkey,Turkey,Ankara,Asia,TRY,Lira,90,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,780580,77804122,769632
-TM,TKM,795,TX,Turkmenistan,Turkmenistan,Ashgabat,Asia,TMT,Manat,993,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,488100,4940916,469930
-TC,TCA,796,TK,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,North America,USD,Dollar,-648,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,NULL,NULL,NULL,430,20556,948
-TV,TUV,798,TV,Tuvalu,Tuvalu,Funafuti,Oceania,AUD,Dollar,688,9,Oceania,61,Polynesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,26,10472,26
-VI,VIR,850,VQ,U.S. Virgin Islands,United States Virgin Islands,Charlotte Amalie,North America,USD,Dollar,-339,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of US,Developing,TRUE,NULL,NULL,352,108708,NULL
-UG,UGA,800,UG,Uganda,Uganda,Kampala,Africa,UGX,Shilling,256,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,236040,33398682,197100
-UA,UKR,804,UP,Ukraine,Ukraine,Kyiv,Europe,UAH,Hryvnia,380,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,603700,45415596,579330
-AE,ARE,784,AE,United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,AED,Dirham,971,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,82880,4975593,83600
-GB,GBR,826,UK,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,Europe,GBP,Pound,44,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,244820,62348447,241930
-US,USA,840,US,United States,United States of America,Washington,North America,USD,Dollar,1,19,Americas,21,Northern America,NULL,NULL,Independent,Developed,NULL,NULL,NULL,9629091,310232863,9147593
-UM,UMI,581,NULL,United States Minor Outlying Islands,United States Minor Outlying Islands,NULL,Oceania,USD,Dollar ,1,9,Oceania,57,Micronesia,NULL,NULL,Territories of US,Developing,NULL,NULL,NULL,0,0,NULL
-UY,URY,858,UY,Uruguay,Uruguay,Montevideo,South America,UYU,Peso,598,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,176220,3477000,175015
-UZ,UZB,860,UZ,Uzbekistan,Uzbekistan,Tashkent,Asia,UZS,Som,998,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,447400,27865738,425400
-VU,VUT,548,NH,Vanuatu,Vanuatu,Port Vila,Oceania,VUV,Vatu,678,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,12200,221552,12189
-VA,VAT,336,VT,Vatican,Holy See,Vatican City,Europe,EUR,Euro,379,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,0.44,921,NULL
-VE,VEN,862,VE,Venezuela,Venezuela (Bolivarian Republic of),Caracas,South America,VES,Bolivar Soberano,58,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,912050,27223228,882050
-VN,VNM,704,VM,Vietnam,Viet Nam,Hanoi,Asia,VND,Dong,84,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,329560,89571130,310070
-WF,WLF,876,WF,Wallis and Futuna,Wallis and Futuna Islands,Mata Utu,Oceania,XPF,Franc,681,9,Oceania,61,Polynesia,NULL,NULL,Territory of FR,Developing,NULL,NULL,NULL,274,16025,142
-EH,ESH,732,WI,Western Sahara,Western Sahara,El-Aaiun,Africa,MAD,Dirham,212,2,Africa,15,Northern Africa,NULL,NULL,In contention,Developing,NULL,NULL,NULL,266000,273008,266000
-YE,YEM,887,YM,Yemen,Yemen,Sanaa,Asia,YER,Rial,967,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,527970,23495361,527968
-ZM,ZMB,894,ZA,Zambia,Zambia,Lusaka,Africa,ZMW,Kwacha,260,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,752614,13460305,743398
-ZW,ZWE,716,ZI,Zimbabwe,Zimbabwe,Harare,Africa,ZWL,Dollar,263,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,NULL,390580,13061000,386847
+ISO,ISO3,ISO_Code,FIPS,Display_Name,Capital,Continent,CurrencyCode,CurrencyName,Phone,Region Code,Region Name,Sub-region Code,Sub-region Name,Intermediate Region Code,Intermediate Region Name,Status,Developed or Developing,Small Island Developing States (SIDS),Land Locked Developing Countries (LLDC),Least Developed Countries (LDC),Area_SqKm,Population,Country_area
+AF,AFG,4,AF,Afghanistan,Kabul,Asia,AFN,Afghani,93,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,647500,29121286,652230
+AX,ALA,248,NULL,Aland Islands,Mariehamn,Europe,EUR,Euro,340,150,Europe,154,Northern Europe,NULL,NULL,Part of FI,Developed,NULL,NULL,NULL,1580,26711,NULL
+AL,ALB,8,AL,Albania,Tirana,Europe,ALL,Lek,355,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,28748,2986952,27398
+DZ,DZA,12,AG,Algeria,Algiers,Africa,DZD,Dinar,213,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,2381740,34586184,2381741
+AS,ASM,16,AQ,American Samoa,Pago Pago,Oceania,USD,Dollar,-683,9,Oceania,61,Polynesia,NULL,NULL,Territory of US,Developing,TRUE,NULL,NULL,199,57881,199
+AD,AND,20,AN,Andorra,Andorra la Vella,Europe,EUR,Euro,376,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,468,84000,468
+AO,AGO,24,AO,Angola,Luanda,Africa,AOA,Kwanza,244,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,TRUE,1246700,13068161,1246700
+AI,AIA,660,AV,Anguilla,The Valley,North America,XCD,Dollar,-263,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,NULL,NULL,102,13254,91
+AQ,ATA,10,AY,Antarctica,NULL,Antarctica,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,International,NULL,NULL,NULL,NULL,14000000,0,NULL
+AG,ATG,28,AC,Antigua and Barbuda,St. John's,North America,XCD,Dollar,-267,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,443,86754,442.6
+AR,ARG,32,AR,Argentina,Buenos Aires,South America,ARS,Peso,54,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,2766890,41343201,2736690
+AM,ARM,51,AM,Armenia,Yerevan,Asia,AMD,Dram,374,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,29800,2968000,28203
+AW,ABW,533,AA,Aruba,Oranjestad,North America,AWG,Guilder,297,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,193,71566,180
+AU,AUS,36,AS,Australia,Canberra,Oceania,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,NULL,NULL,Independent,Developed,NULL,NULL,NULL,7686850,21515754,7682300
+AT,AUT,40,AU,Austria,Vienna,Europe,EUR,Euro,43,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,83858,8205000,82445
+AZ,AZE,31,AJ,Azerbaijan,Baku,Asia,AZN,Manat,994,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,86600,8303512,82629
+BS,BHS,44,BF,Bahamas,Nassau,North America,BSD,Dollar,-241,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,13940,301790,NULL
+BH,BHR,48,BA,Bahrain,Manama,Asia,BHD,Dinar,973,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,665,738004,760
+BD,BGD,50,BG,Bangladesh,Dhaka,Asia,BDT,Taka,880,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,144000,156118464,130170
+BB,BRB,52,BB,Barbados,Bridgetown,North America,BBD,Dollar,-245,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,431,285653,430
+BY,BLR,112,BO,Belarus,Minsk,Europe,BYN,Belarusian ruble,375,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,207600,9685000,202900
+BE,BEL,56,BE,Belgium,Brussels,Europe,EUR,Euro,32,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,30510,10403000,30278
+BZ,BLZ,84,BH,Belize,Belmopan,North America,BZD,Dollar,501,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,TRUE,NULL,NULL,22966,314522,22806
+BJ,BEN,204,BN,Benin,Porto-Novo,Africa,XOF,Franc,229,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,112620,9056010,110622
+BM,BMU,60,BD,Bermuda,Hamilton,North America,BMD,Dollar,-440,19,Americas,21,Northern America,NULL,NULL,Territory of GB,Developed,NULL,NULL,NULL,53,65365,54
+BT,BTN,64,BT,Bhutan,Thimphu,Asia,BTN,Ngultrum,975,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,47000,699847,38394
+BO,BOL,68,BL,Bolivia,Sucre,South America,BOB,Boliviano,591,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,TRUE,NULL,1098580,9947418,1083301
+BQ,BES,535,NULL,"Bonaire, Saint Eustatius and Saba ",NULL,North America,USD,Dollar,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,328,18012,NULL
+BA,BIH,70,BK,Bosnia and Herzegovina,Sarajevo,Europe,BAM,Marka,387,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,51129,4590000,51187
+BW,BWA,72,BC,Botswana,Gaborone,Africa,BWP,Pula,267,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,TRUE,NULL,600370,2029307,566730
+BV,BVT,74,BV,Bouvet Island,NULL,Antarctica,NOK,Krone,NULL,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of NO,Developing,NULL,NULL,NULL,49,0,NULL
+BR,BRA,76,BR,Brazil,Brasilia,South America,BRL,Real,55,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,8511965,201103330,8358140
+IO,IOT,86,IO,British Indian Ocean Territory,Diego Garcia,Asia,USD,Dollar,246,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Territory of GB,Developing,NULL,NULL,NULL,60,4000,NULL
+VG,VGB,92,VI,British Virgin Islands,Road Town,North America,USD,Dollar,-283,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,NULL,NULL,153,21730,NULL
+BN,BRN,96,BX,Brunei,Bandar Seri Begawan,Asia,BND,Dollar,673,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,5770,395027,5265
+BG,BGR,100,BU,Bulgaria,Sofia,Europe,BGN,Lev,359,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,110910,7148785,108489
+BF,BFA,854,UV,Burkina Faso,Ouagadougou,Africa,XOF,Franc,226,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,TRUE,TRUE,274200,16241811,273800
+BI,BDI,108,BY,Burundi,Bujumbura,Africa,BIF,Franc,257,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,27830,9863117,25680
+KH,KHM,116,CB,Cambodia,Phnom Penh,Asia,KHR,Riels,855,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,181040,14453680,176515
+CM,CMR,120,CM,Cameroon,Yaounde,Africa,XAF,Franc,237,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,475440,19294149,472710
+CA,CAN,124,CA,Canada,Ottawa,North America,CAD,Dollar,1,19,Americas,21,Northern America,NULL,NULL,Independent,Developed,NULL,NULL,NULL,9984670,33679000,9093507
+CV,CPV,132,CV,Cape Verde,Praia,Africa,CVE,Escudo,238,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,NULL,NULL,4033,508659,NULL
+KY,CYM,136,CJ,Cayman Islands,George Town,North America,KYD,Dollar,-344,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,NULL,NULL,NULL,262,44270,264
+CF,CAF,140,CT,Central African Republic,Bangui,Africa,XAF,Franc,236,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,TRUE,TRUE,622984,4844927,622984
+TD,TCD,148,CD,Chad,N'Djamena,Africa,XAF,Franc,235,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,TRUE,TRUE,1284000,10543464,1259200
+CL,CHL,152,CI,Chile,Santiago,South America,CLP,Peso,56,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,756950,16746491,743812
+CN,CHN,156,CH,China,Beijing,Asia,CNY,Yuan Renminbi,86,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,9596960,1330044000,9326410
+CX,CXR,162,KT,Christmas Island,Flying Fish Cove,Oceania,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,135,1500,NULL
+CC,CCK,166,CK,Cocos Islands,West Island,Asia,AUD,Dollar,61,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,14,628,NULL
+CO,COL,170,CO,Colombia,Bogota,South America,COP,Peso,57,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,1138910,47790000,1038700
+KM,COM,174,CN,Comoros,Moroni,Africa,KMF,Franc,269,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,NULL,TRUE,2170,773407,2235
+CK,COK,184,CW,Cook Islands,Avarua,Oceania,NZD,Dollar,682,9,Oceania,61,Polynesia,NULL,NULL,Associated with NZ,Developing,TRUE,NULL,NULL,240,21388,236
+CR,CRI,188,CS,Costa Rica,San Jose,North America,CRC,Colon,506,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,51100,4516220,51060
+HR,HRV,191,HR,Croatia,Zagreb,Europe,HRK,Kuna,385,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,56542,4284889,55974
+CU,CUB,192,CU,Cuba,Havana,North America,CUP,Peso,53,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,110860,11423000,109820
+CW,CUW,531,UC,Curacao, Willemstad,North America,ANG,Guilder,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,444,141766,444
+CY,CYP,196,CY,Cyprus,Nicosia,Europe,EUR,Euro,357,142,Asia,145,Western Asia,NULL,NULL,Independent,Developed,NULL,NULL,NULL,9250,1102677,9241
+CZ,CZE,203,EZ,Czechia,Prague,Europe,CZK,Koruna,420,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,78866,10476000,77247
+CD,COD,180,CG,Democratic Republic of the Congo,Kinshasa,Africa,CDF,Franc,243,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,TRUE,2345410,70916439,NULL
+DK,DNK,208,DA,Denmark,Copenhagen,Europe,DKK,Krone,45,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,43094,5484000,42434
+DJ,DJI,262,DJ,Djibouti,Djibouti,Africa,DJF,Franc,253,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,23000,740528,23180
+DM,DMA,212,DO,Dominica,Roseau,North America,XCD,Dollar,-766,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,754,72813,751
+DO,DOM,214,DR,Dominican Republic,Santo Domingo,North America,DOP,Peso,NULL,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,48730,9823821,48320
+EC,ECU,218,EC,Ecuador,Quito,South America,USD,Dollar,593,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,283560,14790608,276841
+EG,EGY,818,EG,Egypt,Cairo,Africa,EGP,Pound,20,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1001450,80471869,995450
+SV,SLV,222,ES,El Salvador,San Salvador,North America,USD,Dollar,503,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,21040,6052064,20721
+GQ,GNQ,226,EK,Equatorial Guinea,Malabo,Africa,XAF,Franc,240,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,28051,1014999,28051
+ER,ERI,232,ER,Eritrea,Asmara,Africa,ERN,Nakfa,291,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,121320,5792984,101000
+EE,EST,233,EN,Estonia,Tallinn,Europe,EUR,Euro,372,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,45226,1291170,42388
+ET,ETH,231,ET,Ethiopia,Addis Ababa,Africa,ETB,Birr,251,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,1127127,88013491,1000000
+FK,FLK,238,FK,Falkland Islands,Stanley,South America,FKP,Pound,500,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of GB,Developing,NULL,NULL,NULL,12173,2638,NULL
+FO,FRO,234,FO,Faroe Islands,Torshavn,Europe,DKK,Krone,298,150,Europe,154,Northern Europe,NULL,NULL,Part of DK,Developed,NULL,NULL,NULL,1399,48228,1393
+FJ,FJI,242,FJ,Fiji,Suva,Oceania,FJD,Dollar,679,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,18270,875983,18274
+FI,FIN,246,FI,Finland,Helsinki,Europe,EUR,Euro,358,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,337030,5244000,303815
+FR,FRA,250,FR,France,Paris,Europe,EUR,Euro,33,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,547030,64768389,640427
+GF,GUF,254,FG,French Guiana,Cayenne,South America,EUR,Euro,594,19,Americas,419,Latin America and the Caribbean,5,South America,Part of FR,Developing,NULL,NULL,NULL,91000,195506,NULL
+PF,PYF,258,FP,French Polynesia,Papeete,Oceania,XPF,Franc,689,9,Oceania,61,Polynesia,NULL,NULL,Territory of FR,Developing,TRUE,NULL,NULL,4167,270485,3827
+TF,ATF,260,FS,French Southern Territories,Port-aux-Francais,Antarctica,EUR,Euro  ,NULL,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Territory of FR,Developing,NULL,NULL,NULL,7829,140,NULL
+GA,GAB,266,GB,Gabon,Libreville,Africa,XAF,Franc,241,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,267667,1545255,257667
+GM,GMB,270,GA,Gambia,Banjul,Africa,GMD,Dalasi,220,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,11300,1593256,NULL
+GE,GEO,268,GG,Georgia,Tbilisi,Asia,GEL,Lari,995,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,69700,4630000,69700
+DE,DEU,276,GM,Germany,Berlin,Europe,EUR,Euro,49,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,357021,81802257,348672
+GH,GHA,288,GH,Ghana,Accra,Africa,GHS,Cedi,233,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,NULL,239460,24339838,227533
+GI,GIB,292,GI,Gibraltar,Gibraltar,Europe,GIP,Pound,350,150,Europe,39,Southern Europe,NULL,NULL,Territory of GB,Developed,NULL,NULL,NULL,6.5,27884,6.5
+GR,GRC,300,GR,Greece,Athens,Europe,EUR,Euro,30,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,131940,11000000,130647
+GL,GRL,304,GL,Greenland,Nuuk,North America,DKK,Krone,299,19,Americas,21,Northern America,NULL,NULL,Part of DK,Developed,NULL,NULL,NULL,2166086,56375,2166086
+GD,GRD,308,GJ,Grenada,St. George's,North America,XCD,Dollar,-472,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,344,107818,344
+GP,GLP,312,GP,Guadeloupe,Basse-Terre,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,1780,443000,NULL
+GU,GUM,316,GQ,Guam,Hagatna,Oceania,USD,Dollar,-670,9,Oceania,57,Micronesia,NULL,NULL,Territory of US,Developing,TRUE,NULL,NULL,549,159358,544
+GT,GTM,320,GT,Guatemala,Guatemala City,North America,GTQ,Quetzal,502,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,108890,13550440,107159
+GG,GGY,831,GK,Guernsey,St Peter Port,Europe,GBP,Pound,-1437,150,Europe,154,Northern Europe,830,Channel Islands,Crown dependency of GB,Developed,NULL,NULL,NULL,78,65228,78
+GN,GIN,324,GV,Guinea,Conakry,Africa,GNF,Franc,224,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,245857,10324025,245717
+GW,GNB,624,PU,Guinea-Bissau,Bissau,Africa,XOF,Franc,245,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,NULL,TRUE,36120,1565126,28120
+GY,GUY,328,GY,Guyana,Georgetown,South America,GYD,Dollar,592,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,NULL,NULL,214970,748486,196849
+HT,HTI,332,HA,Haiti,Port-au-Prince,North America,HTG,Gourde,509,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,TRUE,27750,9648924,27560
+HM,HMD,334,HM,Heard Island and McDonald Islands,NULL,Antarctica,AUD,Dollar,NULL,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,412,0,NULL
+HN,HND,340,HO,Honduras,Tegucigalpa,North America,HNL,Lempira,504,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,112090,7989415,111890
+HK,HKG,344,HK,Hong Kong,Hong Kong,Asia,HKD,Dollar,852,142,Asia,30,Eastern Asia,NULL,NULL,Part of CN,Developing,NULL,NULL,NULL,1092,6898686,1073
+HU,HUN,348,HU,Hungary,Budapest,Europe,HUF,Forint,36,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,93030,9982000,89608
+IS,ISL,352,IC,Iceland,Reykjavik,Europe,ISK,Krona,354,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,103000,308910,100250
+IN,IND,356,IN,India,New Delhi,Asia,INR,Rupee,91,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,3287590,1173108018,2973193
+ID,IDN,360,ID,Indonesia,Jakarta,Asia,IDR,Rupiah,62,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1919440,242968342,1811569
+IR,IRN,364,IR,Iran,Tehran,Asia,IRR,Rial,98,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1648000,76923300,1531595
+IQ,IRQ,368,IZ,Iraq,Baghdad,Asia,IQD,Dinar,964,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,437072,29671605,437367
+IE,IRL,372,EI,Ireland,Dublin,Europe,EUR,Euro,353,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,70280,4622917,68883
+IM,IMN,833,IM,Isle of Man,Douglas,Europe,GBP,Pound,-1580,150,Europe,154,Northern Europe,NULL,NULL,Crown dependency of GB,Developed,NULL,NULL,NULL,572,75049,572
+IL,ISR,376,IS,Israel,Jerusalem,Asia,ILS,Shekel,972,142,Asia,145,Western Asia,NULL,NULL,Independent,Developed,NULL,NULL,NULL,20770,7353985,20330
+IT,ITA,380,IT,Italy,Rome,Europe,EUR,Euro,39,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,301230,60340328,294140
+CI,CIV,384,IV,Ivory Coast,Yamoussoukro,Africa,XOF,Franc,225,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,NULL,322460,21058798,NULL
+JM,JAM,388,JM,Jamaica,Kingston,North America,JMD,Dollar,-875,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,10991,2847232,10831
+JP,JPN,392,JA,Japan,Tokyo,Asia,JPY,Yen,81,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developed,NULL,NULL,NULL,377835,127288000,364485
+JE,JEY,832,JE,Jersey,Saint Helier,Europe,GBP,Pound,-1490,150,Europe,154,Northern Europe,830,Channel Islands,Crown dependency of GB,Developed,NULL,NULL,NULL,116,90812,116
+JO,JOR,400,JO,Jordan,Amman,Asia,JOD,Dinar,962,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,92300,6407085,88802
+KZ,KAZ,398,KZ,Kazakhstan,Astana,Asia,KZT,Tenge,7,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,2717300,15340000,2699700
+KE,KEN,404,KE,Kenya,Nairobi,Africa,KES,Shilling,254,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,NULL,582650,40046566,569140
+KI,KIR,296,KR,Kiribati,Tarawa,Oceania,AUD,Dollar,686,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,811,92533,811
+XK,XKX,0,KV,Kosovo,Pristina,Europe,EUR,Euro,NULL,150,Europe,39,Southern Europe,NULL,NULL,#N/A,#N/A,#N/A,#N/A,#N/A,10908,1800000,10887
+KW,KWT,414,KU,Kuwait,Kuwait City,Asia,KWD,Dinar,965,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,17820,2789132,17818
+KG,KGZ,417,KG,Kyrgyzstan,Bishkek,Asia,KGS,Som,996,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,198500,5776500,191801
+LA,LAO,418,LA,Laos,Vientiane,Asia,LAK,Kip,856,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,236800,6368162,230800
+LV,LVA,428,LG,Latvia,Riga,Europe,EUR,Euro,371,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,64589,2217969,62249
+LB,LBN,422,LE,Lebanon,Beirut,Asia,LBP,Pound,961,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,10400,4125247,10230
+LS,LSO,426,LT,Lesotho,Maseru,Africa,LSL,Loti,266,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,TRUE,TRUE,30355,1919552,30355
+LR,LBR,430,LI,Liberia,Monrovia,Africa,LRD,Dollar,231,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,111370,3685076,96320
+LY,LBY,434,LY,Libya,Tripoli,Africa,LYD,Dinar,218,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1759540,6461454,1759540
+LI,LIE,438,LS,Liechtenstein,Vaduz,Europe,CHF,Franc,423,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,160,35000,160
+LT,LTU,440,LH,Lithuania,Vilnius,Europe,EUR,Euro,370,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,65200,2944459,62680
+LU,LUX,442,LU,Luxembourg,Luxembourg,Europe,EUR,Euro,352,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,2586,497538,2586
+MO,MAC,446,MC,Macao,Macao,Asia,MOP,Pataca,853,142,Asia,30,Eastern Asia,NULL,NULL,Part of CN,Developing,NULL,NULL,NULL,254,449198,NULL
+MK,MKD,807,MK,Macedonia,Skopje,Europe,MKD,Denar,389,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,TRUE,NULL,25333,2062294,25433
+MG,MDG,450,MA,Madagascar,Antananarivo,Africa,MGA,Ariary,261,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,587040,21281844,581540
+MW,MWI,454,MI,Malawi,Lilongwe,Africa,MWK,Kwacha,265,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,118480,15447500,94080
+MY,MYS,458,MY,Malaysia,Kuala Lumpur,Asia,MYR,Ringgit,60,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,329750,28274729,328657
+MV,MDV,462,MV,Maldives,Male,Asia,MVR,Rufiyaa,960,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,300,395650,298
+ML,MLI,466,ML,Mali,Bamako,Africa,XOF,Franc,223,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,TRUE,TRUE,1240000,13796354,1220190
+MT,MLT,470,MT,Malta,Valletta,Europe,EUR,Euro,356,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,316,403000,316
+MH,MHL,584,RM,Marshall Islands,Majuro,Oceania,USD,Dollar,692,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,181.3,65859,181
+MQ,MTQ,474,MB,Martinique,Fort-de-France,North America,EUR,Euro,596,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,1100,432900,NULL
+MR,MRT,478,MR,Mauritania,Nouakchott,Africa,MRO,Ouguiya,222,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,1030700,3205060,1030700
+MU,MUS,480,MP,Mauritius,Port Louis,Africa,MUR,Rupee,230,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,NULL,NULL,2040,1294104,2030
+YT,MYT,175,MF,Mayotte,Mamoudzou,Africa,EUR,Euro,262,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Part of FR,Developing,NULL,NULL,NULL,374,159042,NULL
+MX,MEX,484,MX,Mexico,Mexico City,North America,MXN,Peso,52,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,1972550,112468855,1943945
+FM,FSM,583,FM,Micronesia,Palikir,Oceania,USD,Dollar,691,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,702,107708,NULL
+MD,MDA,498,MD,Moldova,Chisinau,Europe,MDL,Leu,373,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,TRUE,NULL,33843,4324000,32891
+MC,MCO,492,MN,Monaco,Monaco,Europe,EUR,Euro,377,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,1.95,32965,2
+MN,MNG,496,MG,Mongolia,Ulan Bator,Asia,MNT,Tugrik,976,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,1565000,3086918,1553556
+ME,MNE,499,MJ,Montenegro,Podgorica,Europe,EUR,Euro,382,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,14026,666730,13452
+MS,MSR,500,MH,Montserrat,Plymouth,North America,XCD,Dollar,-663,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,TRUE,NULL,NULL,102,9341,102
+MA,MAR,504,MO,Morocco,Rabat,Africa,MAD,Dirham,212,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,446550,33848242,446300
+MZ,MOZ,508,MZ,Mozambique,Maputo,Africa,MZN,Metical,258,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,801590,22061451,786380
+MM,MMR,104,BM,Myanmar,Nay Pyi Taw,Asia,MMK,Kyat,95,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,678500,53414374,NULL
+NA,NAM,516,WA,Namibia,Windhoek,Africa,NAD,Dollar,264,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,NULL,NULL,825418,2128471,823290
+NR,NRU,520,NR,Nauru,Yaren,Oceania,AUD,Dollar,674,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,21,10065,21
+NP,NPL,524,NP,Nepal,Kathmandu,Asia,NPR,Rupee,977,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,TRUE,TRUE,140800,28951852,143351
+NL,NLD,528,NL,Netherlands,Amsterdam,Europe,EUR,Euro,31,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,41526,16645000,33893
+AN,ANT,530,NT,Netherlands Antilles,Willemstad,North America,ANG,Guilder,599,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,960,300000,NULL
+NC,NCL,540,NC,New Caledonia,Noumea,Oceania,XPF,Franc,687,9,Oceania,54,Melanesia,NULL,NULL,Territory of FR,Developing,TRUE,NULL,NULL,19060,216494,18275
+NZ,NZL,554,NZ,New Zealand,Wellington,Oceania,NZD,Dollar,64,9,Oceania,53,Australia and New Zealand,NULL,NULL,Independent,Developed,NULL,NULL,NULL,268680,4252277,264537
+NI,NIC,558,NU,Nicaragua,Managua,North America,NIO,Cordoba,505,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,129494,5995928,119990
+NE,NER,562,NG,Niger,Niamey,Africa,XOF,Franc,227,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,TRUE,TRUE,1267000,15878271,1266700
+NG,NGA,566,NI,Nigeria,Abuja,Africa,NGN,Naira,234,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,NULL,923768,154000000,910768
+NU,NIU,570,NE,Niue,Alofi,Oceania,NZD,Dollar,683,9,Oceania,61,Polynesia,NULL,NULL,Associated with NZ,Developing,TRUE,NULL,NULL,260,2166,NULL
+NF,NFK,574,NF,Norfolk Island,Kingston,Oceania,AUD,Dollar,672,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,34.6,1828,NULL
+KP,PRK,408,KN,North Korea,Pyongyang,Asia,KPW,Won,850,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,120540,22912177,NULL
+MP,MNP,580,CQ,Northern Mariana Islands,Saipan,Oceania,USD,Dollar,-669,9,Oceania,57,Micronesia,NULL,NULL,Commonwealth of US,Developing,TRUE,NULL,NULL,477,53883,464
+NO,NOR,578,NO,Norway,Oslo,Europe,NOK,Krone,47,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,324220,5009150,304282
+OM,OMN,512,MU,Oman,Muscat,Asia,OMR,Rial,968,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,212460,2967717,309500
+PK,PAK,586,PK,Pakistan,Islamabad,Asia,PKR,Rupee,92,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,803940,184404791,770875
+PW,PLW,585,PS,Palau,Melekeok,Oceania,USD,Dollar,680,9,Oceania,57,Micronesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,458,19907,459
+PS,PSE,275,WE,Palestinian Territory,East Jerusalem,Asia,ILS,Shekel,970,142,Asia,145,Western Asia,NULL,NULL,In contention,Developing,NULL,NULL,NULL,5970,3800000,NULL
+PA,PAN,591,PM,Panama,Panama City,North America,PAB,Balboa,507,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,78200,3410676,74340
+PG,PNG,598,PP,Papua New Guinea,Port Moresby,Oceania,PGK,Kina,675,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,462840,6064515,452860
+PY,PRY,600,PA,Paraguay,Asuncion,South America,PYG,Guarani,595,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,TRUE,NULL,406750,6375830,397302
+PE,PER,604,PE,Peru,Lima,South America,PEN,Sol,51,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,1285220,29907003,1279996
+PH,PHL,608,RP,Philippines,Manila,Asia,PHP,Peso,63,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,300000,99900177,298170
+PN,PCN,612,PC,Pitcairn,Adamstown,Oceania,NZD,Dollar,870,9,Oceania,61,Polynesia,NULL,NULL,Territory of GB,Developing,NULL,NULL,NULL,47,46,NULL
+PL,POL,616,PL,Poland,Warsaw,Europe,PLN,Zloty,48,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,312685,38500000,304255
+PT,PRT,620,PO,Portugal,Lisbon,Europe,EUR,Euro,351,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,92391,10676000,91470
+PR,PRI,630,RQ,Puerto Rico,San Juan,North America,USD,Dollar,NULL,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Commonwealth of US,Developing,TRUE,NULL,NULL,9104,3916632,8870
+QA,QAT,634,QA,Qatar,Doha,Asia,QAR,Rial,974,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,11437,840926,11586
+CG,COG,178,CF,Republic of the Congo,Brazzaville,Africa,XAF,Franc,242,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,NULL,NULL,NULL,342000,3039126,NULL
+RE,REU,638,RE,Reunion,Saint-Denis,Africa,EUR,Euro,262,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Part of FR,Developing,NULL,NULL,NULL,2517,776948,NULL
+RO,ROU,642,RO,Romania,Bucharest,Europe,RON,Leu,40,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,237500,21959278,229891
+RU,RUS,643,RS,Russia,Moscow,Europe,RUB,Ruble,7,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,17100000,140702000,16377742
+RW,RWA,646,RW,Rwanda,Kigali,Africa,RWF,Franc,250,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,26338,11055976,24668
+BL,BLM,652,TB,Saint Barthelemy,Gustavia,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,21,8450,25
+SH,SHN,654,SH,Saint Helena,Jamestown,Africa,SHP,Pound,290,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Territory of GB,Developing,NULL,NULL,NULL,410,7460,308
+KN,KNA,659,SC,Saint Kitts and Nevis,Basseterre,North America,XCD,Dollar,-868,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,261,51134,261
+LC,LCA,662,ST,Saint Lucia,Castries,North America,XCD,Dollar,-757,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,616,160922,606
+MF,MAF,663,RN,Saint Martin,Marigot,North America,EUR,Euro,590,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of FR,Developing,NULL,NULL,NULL,53,35925,54.4
+PM,SPM,666,SB,Saint Pierre and Miquelon,Saint-Pierre,North America,EUR,Euro,508,19,Americas,21,Northern America,NULL,NULL,Part of FR,Developed,NULL,NULL,NULL,242,7012,242
+VC,VCT,670,VC,Saint Vincent and the Grenadines,Kingstown,North America,XCD,Dollar,-783,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,389,104217,389
+WS,WSM,882,WS,Samoa,Apia,Oceania,WST,Tala,685,9,Oceania,61,Polynesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,2944,192001,2821
+SM,SMR,674,SM,San Marino,San Marino,Europe,EUR,Euro,378,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,61.2,31477,61
+ST,STP,678,TP,Sao Tome and Principe,Sao Tome,Africa,STD,Dobra,239,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Independent,Developing,TRUE,NULL,TRUE,1001,175808,964
+SA,SAU,682,SA,Saudi Arabia,Riyadh,Asia,SAR,Rial,966,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,1960582,25731776,2149690
+SN,SEN,686,SG,Senegal,Dakar,Africa,XOF,Franc,221,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,196190,12323252,192530
+RS,SRB,688,RI,Serbia,Belgrade,Europe,RSD,Dinar,381,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,88361,7344847,77474
+CS,SCG,891,YI,Serbia and Montenegro,Belgrade,Europe,RSD,Dinar,381,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,102350,10829175,NULL
+SC,SYC,690,SE,Seychelles,Victoria,Africa,SCR,Rupee,248,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,TRUE,NULL,NULL,455,88340,455
+SL,SLE,694,SL,Sierra Leone,Freetown,Africa,SLL,Leone,232,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,71740,5245695,71620
+SG,SGP,702,SN,Singapore,Singapore,Asia,SGD,Dollar,65,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,692.7,4701069,687
+SX,SXM,534,NN,Sint Maarten,Philipsburg,North America,ANG,Guilder,599,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Part of NL,Developing,TRUE,NULL,NULL,21,37429,34
+SK,SVK,703,LO,Slovakia,Bratislava,Europe,EUR,Euro,421,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,48845,5455000,48105
+SI,SVN,705,SI,Slovenia,Ljubljana,Europe,EUR,Euro,386,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,20273,2007000,20151
+SB,SLB,90,BP,Solomon Islands,Honiara,Oceania,SBD,Dollar,677,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,28450,559198,27986
+SO,SOM,706,SO,Somalia,Mogadishu,Africa,SOS,Shilling,252,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,637657,10112453,627337
+ZA,ZAF,710,SF,South Africa,Pretoria,Africa,ZAR,Rand,27,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,NULL,NULL,1219912,49000000,1214470
+GS,SGS,239,SX,South Georgia and the South Sandwich Islands,Grytviken,Antarctica,GBP,Pound,NULL,19,Americas,419,Latin America and the Caribbean,5,South America,Territory of GB,Developing,NULL,NULL,NULL,3903,30,NULL
+KR,KOR,410,KS,South Korea,Seoul,Asia,KRW,Won,82,142,Asia,30,Eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,98480,48422644,NULL
+SS,SSD,728,OD,South Sudan,Juba,Africa,SSP,Pound,211,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,644329,8260490,644329
+ES,ESP,724,SP,Spain,Madrid,Europe,EUR,Euro,34,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,504782,46505963,498980
+LK,LKA,144,CE,Sri Lanka,Colombo,Asia,LKR,Rupee,94,142,Asia,34,Southern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,65610,21513990,64630
+SD,SDN,729,SU,Sudan,Khartoum,Africa,SDG,Pound,249,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,1861484,35000000,1861484
+SR,SUR,740,NS,Suriname,Paramaribo,South America,SRD,Dollar,597,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,NULL,NULL,163270,492829,156000
+SJ,SJM,744,SV,Svalbard and Jan Mayen,Longyearbyen,Europe,NOK,Krone,47,150,Europe,154,Northern Europe,NULL,NULL,Territory of NO,Developed,NULL,NULL,NULL,62049,2550,NULL
+SZ,SWZ,748,WZ,Swaziland,Mbabane,Africa,SZL,Lilangeni,268,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Independent,Developing,NULL,TRUE,NULL,17363,1354051,17204
+SE,SWE,752,SW,Sweden,Stockholm,Europe,SEK,Krona,46,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,449964,9828655,410335
+CH,CHE,756,SZ,Switzerland,Bern,Europe,CHF,Franc,41,150,Europe,155,Western Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,41290,7581000,39997
+SY,SYR,760,SY,Syria,Damascus,Asia,SYP,Pound,963,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,185180,22198110,183630
+TW,TWN,158,TW,Taiwan,Taipei,Asia,TWD,Dollar,886,142,Asia,30,Eastern Asia,NULL,NULL,Independent,NULL,NULL,NULL,NULL,35980,22894384,32260
+TJ,TJK,762,TI,Tajikistan,Dushanbe,Asia,TJS,Somoni,992,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,143100,7487489,141510
+TZ,TZA,834,TZ,Tanzania,Dodoma,Africa,TZS,Shilling,255,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,NULL,TRUE,945087,41892895,885800
+TH,THA,764,TH,Thailand,Bangkok,Asia,THB,Baht,66,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,514000,67089500,510890
+TL,TLS,626,TT,Timor Leste,Dili,Oceania,USD,Dollar,670,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,15007,1154625,NULL
+TG,TGO,768,TO,Togo,Lome,Africa,XOF,Franc,228,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,NULL,NULL,TRUE,56785,6587239,54385
+TK,TKL,772,TL,Tokelau,NULL,Oceania,NZD,Dollar,690,9,Oceania,61,Polynesia,NULL,NULL,Territory of NZ,Developing,NULL,NULL,NULL,10,1466,NULL
+TO,TON,776,TN,Tonga,Nuku'alofa,Oceania,TOP,Pa'anga,676,9,Oceania,61,Polynesia,NULL,NULL,Independent,Developing,TRUE,NULL,NULL,748,122580,717
+TT,TTO,780,TD,Trinidad and Tobago,Port of Spain,North America,TTD,Dollar,-867,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,NULL,5128,1328019,5128
+TN,TUN,788,TS,Tunisia,Tunis,Africa,TND,Dinar,216,2,Africa,15,Northern Africa,NULL,NULL,Independent,Developing,NULL,NULL,NULL,163610,10589025,155360
+TR,TUR,792,TU,Turkey,Ankara,Asia,TRY,Lira,90,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,780580,77804122,769632
+TM,TKM,795,TX,Turkmenistan,Ashgabat,Asia,TMT,Manat,993,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,488100,4940916,469930
+TC,TCA,796,TK,Turks and Caicos Islands,Cockburn Town,North America,USD,Dollar,-648,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of GB,Developing,NULL,NULL,NULL,430,20556,948
+TV,TUV,798,TV,Tuvalu,Funafuti,Oceania,AUD,Dollar,688,9,Oceania,61,Polynesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,26,10472,26
+VI,VIR,850,VQ,U.S. Virgin Islands,Charlotte Amalie,North America,USD,Dollar,-339,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Territory of US,Developing,TRUE,NULL,NULL,352,108708,NULL
+UG,UGA,800,UG,Uganda,Kampala,Africa,UGX,Shilling,256,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,236040,33398682,197100
+UA,UKR,804,UP,Ukraine,Kyiv,Europe,UAH,Hryvnia,380,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,603700,45415596,579330
+AE,ARE,784,AE,United Arab Emirates,Abu Dhabi,Asia,AED,Dirham,971,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,82880,4975593,83600
+GB,GBR,826,UK,United Kingdom,London,Europe,GBP,Pound,44,150,Europe,154,Northern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,244820,62348447,241930
+US,USA,840,US,United States,Washington,North America,USD,Dollar,1,19,Americas,21,Northern America,NULL,NULL,Independent,Developed,NULL,NULL,NULL,9629091,310232863,9147593
+UM,UMI,581,NULL,United States Minor Outlying Islands,NULL,Oceania,USD,Dollar ,1,9,Oceania,57,Micronesia,NULL,NULL,Territories of US,Developing,NULL,NULL,NULL,0,0,NULL
+UY,URY,858,UY,Uruguay,Montevideo,South America,UYU,Peso,598,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,176220,3477000,175015
+UZ,UZB,860,UZ,Uzbekistan,Tashkent,Asia,UZS,Som,998,142,Asia,143,Central Asia,NULL,NULL,Independent,Developing,NULL,TRUE,NULL,447400,27865738,425400
+VU,VUT,548,NH,Vanuatu,Port Vila,Oceania,VUV,Vatu,678,9,Oceania,54,Melanesia,NULL,NULL,Independent,Developing,TRUE,NULL,TRUE,12200,221552,12189
+VA,VAT,336,VT,Vatican,Vatican City,Europe,EUR,Euro,379,150,Europe,39,Southern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,0.44,921,NULL
+VE,VEN,862,VE,Venezuela,Caracas,South America,VES,Bolivar Soberano,58,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,NULL,NULL,NULL,912050,27223228,882050
+VN,VNM,704,VM,Vietnam,Hanoi,Asia,VND,Dong,84,142,Asia,35,South-eastern Asia,NULL,NULL,Independent,Developing,NULL,NULL,NULL,329560,89571130,310070
+WF,WLF,876,WF,Wallis and Futuna,Mata Utu,Oceania,XPF,Franc,681,9,Oceania,61,Polynesia,NULL,NULL,Territory of FR,Developing,NULL,NULL,NULL,274,16025,142
+EH,ESH,732,WI,Western Sahara,El-Aaiun,Africa,MAD,Dirham,212,2,Africa,15,Northern Africa,NULL,NULL,In contention,Developing,NULL,NULL,NULL,266000,273008,266000
+YE,YEM,887,YM,Yemen,Sanaa,Asia,YER,Rial,967,142,Asia,145,Western Asia,NULL,NULL,Independent,Developing,NULL,NULL,TRUE,527970,23495361,527968
+ZM,ZMB,894,ZA,Zambia,Lusaka,Africa,ZMW,Kwacha,260,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,TRUE,752614,13460305,743398
+ZW,ZWE,716,ZI,Zimbabwe,Harare,Africa,ZWL,Dollar,263,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Independent,Developing,NULL,TRUE,NULL,390580,13061000,386847
