@@ -33,11 +33,17 @@ def create_new_countries_csv():
         for y in range(len(country_names_list)):
             if country_names_area_list[x][1] == country_names_list[y][4]:
                 country_names_list[y].append(country_names_area_list[x][2]) # An uparxei, tote sto row pou to brhka prostheto sto column tou neou Header Country_area ton kodiko tou country_names_area.csv.
+
     # Merikes xores tou countries.csv den uparxoun sto country_names_area.csv opote sthn thesi twn kenwn pou dhmiourgounte vazo NULL:
 
     for x in range(len(country_names_list)):
         if len(country_names_list[x]) == 24:
             country_names_list[x].append('NULL')
+
+    # Delete the Official Name column:
+
+    for row in range(len(country_names_list)):
+        del country_names_list[row][5]
 
     # Dhmiourgo ena kainourio csv arxeio kai tou fortono thn country_names_list:
 
@@ -121,6 +127,64 @@ def add_iso_code(countries_list, csvfile):
     for row in range(len(csv_list) - 1):
         for x in no_valid_name:
             if csv_list[row + 1][1] == x:
+                index.append(row + 1)
+    
+    index.sort(reverse=True)
+
+    for x in index:
+       del csv_list[x]
+
+    #csvfile = csvfile.replace('_.csv', '_.csv')
+    with open(f'{csvfile}', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)    
+        writer.writerows(csv_list)
+
+    return 1
+
+
+def add_iso_code_OUT(countries_list, csvfile):  # NA TO ENOSO ME TO add_iso_code()!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    
+    csv_list = []
+    no_valid_name = []
+    flag = 0
+    count = 0
+    index = []
+
+    with open(csvfile) as file:
+        file_data = csv.reader(file, delimiter = ',')  # load csv file separated by commas.
+        for row in file_data:
+            csv_list.append(row)
+
+    csv_list[0].append('ISO_Code')   # Kane append allo ena header sthn teleutaia thesi tou 1ou row.
+
+    # Kano append ta ISO_CODE:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(len(countries_list) - 1):
+            if csv_list[x + 1][0] == countries_list[y + 1][4]:
+                csv_list[x + 1].append(countries_list[y + 1][2])
+
+    # Gemizo thn no_valid_name me tis xores pou den uparxoun sto countries_list:
+
+    for x in range(len(csv_list) - 1):
+        for y in range(len(countries_list) - 1):
+            if csv_list[x + 1][0] == countries_list[y + 1][4]:
+                flag = 1
+                break
+        if flag == 0:
+            if count == 0:
+                no_valid_name.append(csv_list[x + 1][0])
+                count += 1
+            else:
+                if no_valid_name[-1] != csv_list[x + 1][0]:
+                    no_valid_name.append(csv_list[x + 1][0])
+        flag = 0
+
+    # Diagrafo tis grammes pou oi xores tous den anhkoun sto countries:
+
+    for row in range(len(csv_list) - 1):
+        for x in no_valid_name:
+            if csv_list[row + 1][0] == x:
                 index.append(row + 1)
     
     index.sort(reverse=True)
@@ -288,7 +352,7 @@ def create_years_column(filename):
     return 1
 
 
-def estimated_GNI_female_male(filename):
+def estimated_GNI_female_male(filename):    # NA TO ENOSO ME TO create_years_column()!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     csv_list = []   # Ths fortono to arxeio csv.
     count = 0   # Metrhths gia tis Xores.
@@ -348,7 +412,7 @@ def estimated_GNI_female_male(filename):
     return 1
 
 
-def labour_share_GDP_CSV(filename):
+def labour_share_GDP_CSV(filename): # NA TO ENOSO ME TO create_years_column()!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     csv_list = []   # Ths fortono to arxeio csv.
     count = 0   # Metrhths gia tis Xores.
@@ -364,7 +428,7 @@ def labour_share_GDP_CSV(filename):
 
     my_list[0].insert(0, csv_list[0][0])    # Insert to "Country" sto [0,0].
 
-    # Vazo oles tis xores sthn proth sthlh, 29 fores thn kathemia:
+    # Vazo oles tis xores sthn proth sthlh, 19 fores thn kathemia:
 
     for x in range(len(csv_list) - 1):
         for y in range(19):
@@ -415,47 +479,58 @@ def main():
 
     my_countries =  create_new_countries_csv()
 
-    sorting_country_year('age_specific_fertility_rates.csv')
-    add_iso_code(my_countries, 'age_specific_fertility_rates_output.csv')
 
-    sorting_country_year('birth_death_growth_rates.csv')
-    add_iso_code(my_countries, 'birth_death_growth_rates_output.csv')
+    # sorting_country_year('age_specific_fertility_rates.csv')
+    # add_iso_code(my_countries, 'age_specific_fertility_rates_output.csv')
 
-    sorting_country_year('midyear_population_age_sex.csv')
-    add_iso_code(my_countries, 'midyear_population_age_sex_output.csv')
+    # sorting_country_year('birth_death_growth_rates.csv')
+    # add_iso_code(my_countries, 'birth_death_growth_rates_output.csv')
 
-    sorting_country_year('midyear_population_5yr_age_sex.csv')
-    add_iso_code(my_countries, 'midyear_population_5yr_age_sex_output.csv')
+    # sorting_country_year('midyear_population_age_sex.csv')
+    # add_iso_code(my_countries, 'midyear_population_age_sex_output.csv')
 
-    sorting_country_year('mortality_life_expectancy.csv')
-    add_iso_code(my_countries, 'mortality_life_expectancy_output.csv')
+    # sorting_country_year('midyear_population_5yr_age_sex.csv')
+    # add_iso_code(my_countries, 'midyear_population_5yr_age_sex_output.csv')
 
-    sorting_country_year('midyear_population.csv')
-    add_iso_code(my_countries, 'midyear_population_output.csv')
+    # sorting_country_year('mortality_life_expectancy.csv')
+    # add_iso_code(my_countries, 'mortality_life_expectancy_output.csv')
+
+    # sorting_country_year('midyear_population.csv')
+    # add_iso_code(my_countries, 'midyear_population_output.csv')
 
     ##################################################################################################    
 
-    create_csv_from_xlsx('Income by Country.xlsx')
+    # create_csv_from_xlsx('Income by Country.xlsx')
 
-    change_xlsx_to_csv('Domestic credits.xlsx')
-    change_xlsx_to_csv('Estimated GNI female.xlsx')
-    change_xlsx_to_csv('Estimated GNI male.xlsx')
-    change_xlsx_to_csv('GDP per capita.xlsx')
-    change_xlsx_to_csv('GDP total.xlsx')
-    change_xlsx_to_csv('GNI per capita.xlsx')
-    change_xlsx_to_csv('Gross fixed capital formation.xlsx')
-    change_xlsx_to_csv('Income Index.xlsx')
-    change_xlsx_to_csv('Labour share of GDP.xlsx')
+    # change_xlsx_to_csv('Domestic credits.xlsx')
+    # change_xlsx_to_csv('Estimated GNI female.xlsx')
+    # change_xlsx_to_csv('Estimated GNI male.xlsx')
+    # change_xlsx_to_csv('GDP per capita.xlsx')
+    # change_xlsx_to_csv('GDP total.xlsx')
+    # change_xlsx_to_csv('GNI per capita.xlsx')
+    # change_xlsx_to_csv('Gross fixed capital formation.xlsx')
+    # change_xlsx_to_csv('Income Index.xlsx')
+    # change_xlsx_to_csv('Labour share of GDP.xlsx')
 
-    create_years_column('Income Index_OUT.csv')
-    create_years_column('GNI per capita_OUT.csv')
-    fiveyear_to_oneyear('Domestic credits_OUT.csv')
-    fiveyear_to_oneyear('GDP per capita_OUT.csv')
-    fiveyear_to_oneyear('GDP total_OUT.csv')
-    fiveyear_to_oneyear('Gross fixed capital formation_OUT.csv')
-    estimated_GNI_female_male('Estimated GNI female_OUT.csv')
-    estimated_GNI_female_male('Estimated GNI male_OUT.csv')
-    labour_share_GDP_CSV('Labour share of GDP_OUT.csv')
+    # create_years_column('Income Index_OUT.csv')
+    # create_years_column('GNI per capita_OUT.csv')
+    # fiveyear_to_oneyear('Domestic credits_OUT.csv')
+    # fiveyear_to_oneyear('GDP per capita_OUT.csv')
+    # fiveyear_to_oneyear('GDP total_OUT.csv')
+    # fiveyear_to_oneyear('Gross fixed capital formation_OUT.csv')
+    # estimated_GNI_female_male('Estimated GNI female_OUT.csv')
+    # estimated_GNI_female_male('Estimated GNI male_OUT.csv')
+    # labour_share_GDP_CSV('Labour share of GDP_OUT.csv')
+
+    # add_iso_code_OUT(my_countries, 'Labour share of GDP_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'Estimated GNI male_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'Estimated GNI female_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'Gross fixed capital formation_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'GDP total_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'GDP per capita_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'Domestic credits_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'GNI per capita_OUT.csv')
+    # add_iso_code_OUT(my_countries, 'Income Index_OUT.csv')
 
     return 1
 
