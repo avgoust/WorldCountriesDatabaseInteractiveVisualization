@@ -94,7 +94,7 @@ GN,GIN,324,GV,Guinea,Conakry,Africa,GNF,Franc,224,2,Africa,202,Sub-Saharan Afric
 GW,GNB,624,PU,Guinea-Bissau,Bissau,Africa,XOF,Franc,245,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Independent,Developing,TRUE,NULL,TRUE,36120,1565126,28120
 GY,GUY,328,GY,Guyana,Georgetown,South America,GYD,Dollar,592,19,Americas,419,Latin America and the Caribbean,5,South America,Independent,Developing,TRUE,NULL,NULL,214970,748486,196849
 HT,HTI,332,HA,Haiti,Port-au-Prince,North America,HTG,Gourde,509,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Independent,Developing,TRUE,NULL,TRUE,27750,9648924,27560
-HM,HMD,334,HM,Heard Island and McDonald Islands,NULL,Antarctica,AUD,Dollar,NULL,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,412,0,NULL
+HM,HMD,334,HM,Heard Island and McDonald Islands,NULL,Antarctica,AUD,Dollar, ,9,Oceania,53,Australia and New Zealand,NULL,NULL,Territory of AU,Developed,NULL,NULL,NULL,412,0,NULL
 HN,HND,340,HO,Honduras,Tegucigalpa,North America,HNL,Lempira,504,19,Americas,419,Latin America and the Caribbean,13,Central America,Independent,Developing,NULL,NULL,NULL,112090,7989415,111890
 HK,HKG,344,HK,Hong Kong,Hong Kong,Asia,HKD,Dollar,852,142,Asia,30,Eastern Asia,NULL,NULL,Part of CN,Developing,NULL,NULL,NULL,1092,6898686,1073
 HU,HUN,348,HU,Hungary,Budapest,Europe,HUF,Forint,36,150,Europe,151,Eastern Europe,NULL,NULL,Independent,Developed,NULL,NULL,NULL,93030,9982000,89608
