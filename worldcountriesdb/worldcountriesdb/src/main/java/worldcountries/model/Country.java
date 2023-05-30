@@ -9,7 +9,6 @@ import javax.persistence.Column;
 
 @Entity
 @Table(name = "COUNTRY")
-
 public class Country {
 	
 	// define fields
@@ -234,6 +233,10 @@ public class Country {
 
 	public void setCountry_area(int country_area) {
 		this.country_area = country_area;
+	}
+	
+	public String toString() {
+		return "Country [id'" + country_id;
 	}
 	
 }
