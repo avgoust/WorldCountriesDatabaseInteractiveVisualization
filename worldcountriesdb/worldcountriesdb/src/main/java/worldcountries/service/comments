@@ -1,4 +1,0 @@
-SERVICE LAYER:
---------------
-1. Defines a set of services provided by the application to the users
-2. Coordinates the app's response in each service operation.

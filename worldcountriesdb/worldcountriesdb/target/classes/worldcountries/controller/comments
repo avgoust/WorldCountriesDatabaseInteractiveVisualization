@@ -1,4 +1,0 @@
-CONTROLLER LAYER:
------------------
-Consists of one or more Controller classes which take user input (from View Layer, i.e. Web page in our case), manipulate
-domain model objects and update the view of the app.
