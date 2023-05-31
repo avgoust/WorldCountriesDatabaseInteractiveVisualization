@@ -1,0 +1,85 @@
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+	
+	<head>
+		<title>List Countries</title>
+		
+		<link rel="stylesheet" 
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" 
+			integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" 
+			crossorigin="anonymous" />
+	</head>
+	
+	<body>
+		
+		<div class="container">
+		
+			<h3>List Countries</h3>
+			
+			<hr/>
+		
+			<table class="table table-bordered table-striped">
+			
+				<thead>
+					<tr>
+						<th>ISO</th>
+						<th>ISO3</th>
+						<th>COUNTRY_ID</th>
+						<th>FIPS</th>
+						<th>DISPLAY_NAME</th>
+						<th>CAPITAL</th>
+						<th>CONTINENT</th>
+						<th>CURRENCY_CODE</th>
+						<th>CURRENCY_NAME</th>
+						<th>PHONE</th>
+						<th>REGION_CODE</th>
+						<th>REGION_NAME</th>
+						<th>SUBRGION_CODE</th>
+						<th>SUBREGION_NAME</th>
+						<th>INTERMEDIATE_REGION_CODE</th>
+						<th>INTERMEDIATE_REGION_NAME</th>
+						<th>C_STATUS</th>
+						<th>DEVELOPMENT</th>
+						<th>SIDS</th>
+						<th>LLDC</th>
+						<th>LDC</th>
+						<th>AREA_SQKM</th>
+						<th>POPULATION</th>
+						<th>COUNTRY_AREA</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr th:each="country: ${countries}">
+						<td th:text="${country.ISO}" />
+						<td th:text="${country.ISO3}" />
+						<td th:text="${country.COUNTRY_ID}" />
+						<td th:text="${country.FIPS}" />
+						<td th:text="${country.DISPLAY_NAME}" />
+						<td th:text="${country.CAPITAL}" />
+						<td th:text="${country.CONTINENT}" />
+						<td th:text="${country.CURRENCY_CODE}" />
+						<td th:text="${country.CURRENCY_NAME}" />
+						<td th:text="${country.PHONE}" />
+						<td th:text="${country.REGION_CODE}" />
+						<td th:text="${country.REGION_NAME}" />
+						<td th:text="${country.SUBREGION_CODE}" />
+						<td th:text="${country.SUBREGION_NAME}" />
+						<td th:text="${country.INTERMEDIA_REGION_CODE}" />
+						<td th:text="${country.INTERMEDIATE_REGION_NAME}" />
+						<td th:text="${country.C_STATUS}" />
+						<td th:text="${country.DEVELOPMENT}" />
+						<td th:text="${country.SIDS}" />
+						<td th:text="${country.LLDC}" />
+						<td th:text="${country.LDC}" />
+						<td th:text="${country.AREA_SQKM}" />
+						<td th:text="${country.POPULATION}" />
+						<td th:text="${country.COUNTRY_AREA}" />
+					</tr>
+				</tbody>
+				
+			</table>
+		</div>
+		
+		
+	</body>
+	
+</html>
